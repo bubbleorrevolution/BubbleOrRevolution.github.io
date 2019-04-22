@@ -19,24 +19,26 @@
     [if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
   <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 
-  <!-- Latest compiled and minified CSS -->
-  <link rel="stylesheet" href="{{site.baseurl}}/assets/bootstrap/css/bootstrap.min.css" />
+  <!-- Start Libraries -->
 
   <!-- jQuery -->
-
   <script
     src="https://code.jquery.com/jquery-{{site.library_versions.jquery}}.slim.min.js"
     crossorigin="anonymous"></script>
 
-
-
-  <!-- Latest compiled and minified JavaScript -->
-  <script src="{{ site.baseurl }}/assets/bootstrap/js/bootstrap.min.js"></script>
-
+  <!-- Bootstrap -->
+  <link rel="stylesheet"
+    href="https://stackpath.bootstrapcdn.com/bootstrap/{{site.library_versions.bootstrap}}/css/bootstrap.min.css"
+    crossorigin="anonymous">
+  <script
+    src="https://stackpath.bootstrapcdn.com/bootstrap/{{site.library_versions.bootstrap}}/js/bootstrap.min.js"></script>
 
   <!-- Font Awesome -->
-  <link rel="stylesheet" href="https://opensource.keycdn.com/fontawesome/4.7.0/font-awesome.min.css" integrity="sha384-dNpIIXE8U05kAbPhy3G1cz+yZmTzA6CY8Vg/u2L9xRnHjJiAK76m2BIEaSEV+/aU" crossorigin="anonymous">
+  <link rel="stylesheet"
+    href="https://use.fontawesome.com/releases/v{{site.library_versions.fontawesome}}/css/all.css"
+    crossorigin="anonymous">
 
+  <!-- End Libraries -->
 
   <!-- custom css. we actually store it as SCSS, but it is auto-compiled to CSS. -->
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/custom.css">
@@ -47,34 +49,23 @@
 
 <body>
 
-  <!-- Nav Bar -->
-  <div class="navbar navbar-default navbar-fixed-top">
-    <div class="container">
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#stu-navbar" aria-expanded="false">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-        </button>
-        <a class="navbar-brand" href="{{ site.baseurl }}">{{ site.name }}</a>
-      </div>
+  <!-- New navbar -->
+  <nav class="navbar sticky-top navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#">{{ site.name }}</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
 
-      <div class="collapse navbar-collapse" id="stu-navbar">
-        <form class="navbar-form navbar-right">
-          <a href="http://hathix.com" class="btn btn-default">Call to Action</a>
-        </form>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+        {% for page in site.data.pages %}
+          <li class="nav-item">
+            <a class="nav-link" href="{{ site.baseurl }}{{ page.url }}">
+              {{ page.name}}
+            </a>
+          </li>
+        {% endfor %}
 
-        <ul class="nav navbar-nav navbar-right">
-          {% for page in site.data.pages %}
-            <li>
-              <a href="{{ site.baseurl }}{{ page.url }}">
-                {{ page.name}}
-              </a>
-            </li>
-          {% endfor %}
-        </ul>
-      </div>
-
+      </ul>
     </div>
-  </div>
+  </nav>

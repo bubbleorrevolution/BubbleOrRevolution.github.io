@@ -29,6 +29,8 @@ preview_image: "/assets/img/preview-photo.jpg"
 # Library versions
 library_versions:
   jquery: "3.4.0"
+  bootstrap: "4.3.1"
+  fontawesome: "5.8.1"
 
 ##### Don't change! #####
 
