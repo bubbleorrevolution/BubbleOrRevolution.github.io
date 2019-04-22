@@ -1,0 +1,7 @@
+ports:
+    -   port: 4000
+        onOpen: open-browser
+
+tasks:
+    -   command: bundle install && bundle exec jekyll serve
+    -   command: git pull
