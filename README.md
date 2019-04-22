@@ -18,3 +18,7 @@ bundle exec jekyll serve
 ```
 
 Then open up <http://127.0.0.1:4000> in your browser to view the site.
+
+## Gitpod
+
+To run this in Gitpod, do `bundle exec jekyll serve --host 0.0.0.0` so Gitpod can pick up on it.
