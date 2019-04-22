@@ -40,8 +40,20 @@ body {
   background: url("{{ site.baseurl }}/assets/img/hero.png") no-repeat center center fixed;
   background-size: cover;
 
-  min-height: 800px;
+  // flexbox to make this take up 100% of viewport height
+  // flexbox is the greatest!
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+
+  // other layout stuff
   margin-bottom: 0;
+}
+
+.full-height {
+    // makes en element take up 100% of parent height.
+    display: flex;
+    height: 100%;
 }
 
 .nav-item {
