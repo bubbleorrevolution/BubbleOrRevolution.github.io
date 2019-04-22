@@ -8,7 +8,7 @@
  * VARIABLES
  * You need to update the config.json too (that's used for Bootstrap styling).
  */
-$primary: #5623E8;
+$primary: rgb(174, 15, 214);
 $white: white;
 
 
@@ -68,6 +68,15 @@ body {
     margin-right: 0;
 }
 
+.section-dark {
+
+    // apply styles to the internal holder, not the section itself b/c then
+    // you get the ugly paddings
+    > .section-content {
+        color: $white;
+        background-color: $primary;
+    }
+}
 
 
 
@@ -122,7 +131,13 @@ h6 {
 
  // OK, we'll just resolve the hack simply and without the final-element problem
  // and just put a fat padding between sections so the scrollspy works.
- padding-top: 100px;
+ // this gets added to .padding-top's 
+ padding-top: 80px;
+
+ > .section-content {
+     padding-top: 20px;
+     padding-bottom: 20px;
+ }
 }
 
 .section-primary {
