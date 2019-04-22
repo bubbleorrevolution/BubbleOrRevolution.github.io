@@ -1,20 +1,32 @@
-
-
-    <!-- Footer
+<!-- Footer
       TODO: fix links-->
-    <footer id="footer" class="section section-primary">
-      <div class="container centered">
-        <p>
-          Copyright &copy; 2019 Belle Applications.
-        </p>
-      </div>
-    </footer>
+<footer id="footer" class="section section-primary">
+  <div class="container centered">
+    <p>
+      Copyright &copy; 2019 Belle Applications.
+    </p>
+  </div>
+</footer>
 
-    <!-- Scripts -->
-    <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{site.google_analytics_id}}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
+
+  gtag('config', '{{site.google_analytics_id}}');
+</script>
+
+
+<!-- Scripts -->
+<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]
       <script src="assets/js/main.js"></script> -->
-    <script src="/assets/js/main.js"></script>
+<script src="/assets/js/main.js"></script>
 
-  </body>
+</body>
 
-  </html>
+</html>
