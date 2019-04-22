@@ -26,9 +26,27 @@ $white: white;
 // Lato via Google Fonts
 @import url('https://fonts.googleapis.com/css?family=Lato');
 
+/** CUSTOM RULES **/
+
 body {
   font-family: Lato;
 }
+
+#hero {
+  // full-size background image
+  background: url("{{ site.baseurl }}/assets/img/hero.png") no-repeat center center fixed;
+  background-size: cover;
+
+  min-height: 800px;
+}
+
+
+
+
+
+
+
+
 
 .navbar {
   text-transform: uppercase !important;
