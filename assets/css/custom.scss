@@ -82,8 +82,15 @@ h6 {
 }
 
 .section {
-  padding-top: 2em;
-  padding-bottom: 2em;
+  // a hack to make it work with scrollspy. scrollspy triggers the
+  // active list item change when 
+  padding-top: 100px;
+  margin-top: -100px;
+
+  > .container {
+   padding-top: 2em;
+   padding-bottom: 2em;
+ }
 }
 
 .section-primary {
@@ -120,3 +127,5 @@ h6 {
   // shadowing
   box-shadow: 0 0 20px rgba(0,0,0,0.5);
 }
+
+/* BOOTSWATCH */
