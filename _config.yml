@@ -15,23 +15,20 @@
 # in the templates via {{ site.myvariable }}.
 
 
-
-##### Config for this example site. Please change!! #####
-
 # The name of your website
-name: Example Static Site
+name: Bubble or Revolution?
 # A brief description, e.g. for Google search results
 description: |
-  An awesome website!
-# Where your website lives. In YAML (the language this file uses), if any of
-# your values include a colon, you must put the value in quotes.
-deployed_url: "http://hathix.com"
+  An upcoming book.
+deployed_url: "http://bubbleorrevolution.com"
 
 # The image that will be shown when someone shares your website on Facebook
 # Messenger, among other places
 preview_image: "/assets/img/preview-photo.jpg"
 
-
+# Library versions
+library_versions:
+  jquery: "3.4.0"
 
 ##### Don't change! #####
 
@@ -40,7 +37,6 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-
 
 
 # Exclude from processing.
