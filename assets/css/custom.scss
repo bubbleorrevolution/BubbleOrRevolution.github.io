@@ -76,10 +76,13 @@ body {
         color: $white;
         background-color: $primary;
     }
+
+    // links need their default styling overwritten
+    a {
+        color: $white !important;
+        text-decoration: underline;
+    }
 }
-
-
-
 
 
 .navbar {
@@ -89,13 +92,6 @@ body {
 .navbar-brand {
   font-family: LeagueGothic !important;
   font-size: 32px;
-}
-
-.centered {
-  text-align: center;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 h1,
@@ -131,7 +127,7 @@ h6 {
 
  // OK, we'll just resolve the hack simply and without the final-element problem
  // and just put a fat padding between sections so the scrollspy works.
- // this gets added to .padding-top's 
+ // this gets added to .padding-top's
  padding-top: 80px;
 
  > .section-content {
@@ -140,14 +136,16 @@ h6 {
  }
 }
 
-.section-primary {
-  color: $white !important;
-  background: $primary;
+.centered {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
-  a {
-    color: $white !important;
-    text-decoration: underline;
-  }
+#footer {
+    // to counteract section's padding
+    // padding-top: 0;
 }
 
 .section-super-padded {
