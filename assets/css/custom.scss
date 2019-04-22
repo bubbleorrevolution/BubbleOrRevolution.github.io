@@ -16,14 +16,19 @@ $white: white;
  * DECLARATIONS
  */
 
-// You can import your own Google font here!
-// fonts
+/* FONTS */
+// Custom League Gothic
 // @include @font-face(LeagueGothic, ../fonts/LeagueGothic/LeagueGothic-Regular);
 @font-face {
   font-family: "LeagueGothic";
   src: url("../fonts/League-Gothic/LeagueGothic-Regular.otf");
 }
+// Lato via Google Fonts
 @import url('https://fonts.googleapis.com/css?family=Lato');
+
+body {
+  font-family: Lato;
+}
 
 .navbar {
   text-transform: uppercase !important;
@@ -47,12 +52,13 @@ h3,
 h4,
 h5,
 h6 {
+  font-family: LeagueGothic !important;
   text-transform: uppercase;
 }
 
 .section {
   padding-top: 2em;
-  padding-bottom: 3em;
+  padding-bottom: 2em;
 }
 
 .section-primary {
@@ -67,7 +73,7 @@ h6 {
 
 .section-super-padded {
   padding-top: 5em;
-  padding-bottom: 6em;
+  padding-bottom: 5em;
 }
 
 .link-white {
