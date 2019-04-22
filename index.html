@@ -36,7 +36,7 @@ layout: default
       <!-- NB: ml-auto moves navigation to right; mr-auto moves to left;
                mx-auto centers navigation -->
       <ul class="navbar-nav mx-auto">
-        {% for page in site.data.pages %}
+        {% for page in site.data.sections %}
           <li class="nav-item">
             <a class="nav-link" href="{{ site.baseurl }}{{ page.url }}">
               {{ page.name}}
@@ -49,7 +49,7 @@ layout: default
 
 <section class="section" id="sec1">
   <div class="container">
-    <h1>Section One</h1>
+    <h1>The Authors</h1>
 
     <p>
       Sphinx of black quartz, judge my vow!
