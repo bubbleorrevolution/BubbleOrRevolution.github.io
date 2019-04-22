@@ -30,6 +30,9 @@ $white: white;
 
 body {
   font-family: Lato;
+
+  // for scrollspy to work
+  position: relative;
 }
 
 #hero {
@@ -38,9 +41,13 @@ body {
   background-size: cover;
 
   min-height: 800px;
+  margin-bottom: 0;
 }
 
-
+.nav-item {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
 
 
 
