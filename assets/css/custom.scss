@@ -127,22 +127,21 @@ body {
 
 .author-image {
   $size: 200px;
+  $half_size: $size / 2;
 
   height: $size;
   width: $size;
 
   // we want this image to be half-overlapping the top of the parent card
-  // .card pads the top of the image with 1.25rem of padding.
-  // we want to move this image up by that 1.25rem + half its height.
-  // we have to hardcode this because, unfortunately, SASS doesn't
-  // let you put variables in calc().
-  margin-top: calc(-100px - 1.25rem);
+  // we want to move this image up by half its height.
+  // TODO: stop hardcoding it
+  margin-top: -100px;
 }
 
 .author-card {
   // "counteract" the upward movement of the image in .author-image
   // by moving the contents of the author card down
-  margin-top: calc(100px + 1.25rem);
+  margin-top: 100px;
 }
 
 .fast-facts {

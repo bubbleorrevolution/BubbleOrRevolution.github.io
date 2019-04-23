@@ -80,26 +80,22 @@ layout: default
             From the #1 bestselling authors of <em>Swipe to Unlock</em>
           </h1>
 
-          <div class="row">
+          <div class="card-deck">
             {% for author in site.data.authors %}
-              <div class="col-md">
                 <div class="card author-card">
                   <div class="author-card-content">
                     <!-- <img src="..." class="card-img-top" alt="..."> -->
-                    <div class="card-body">
-                      <img src="{{ site.baseurl }}/assets/img/authors/{{ author.image }}"
+                     <img src="{{ site.baseurl }}/assets/img/authors/{{ author.image }}"
                         alt="{{ author.name }}" class="rounded-circle author-image centered" />
-                    </div>
                     <div class="card-body">
                       <h3 class="card-title centered">{{ author.name }}</h3>
                       <p class="card-text">{{ author.bio }}</p>
                     </div>
-                    <div class="card-body">
+                    <div class="card-footer">
                       <a href="#" class="card-link"><i class="fab fa-linkedin"></i></a>
                     </div>
                   </div>
                 </div>
-              </div>
             {% endfor %}
           </div>
 
