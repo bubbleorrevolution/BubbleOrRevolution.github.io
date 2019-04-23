@@ -1,4 +1,6 @@
-- name: The Authors
+- name: Intro
+  url: "#intro"
+- name: Authors
   url: "#authors"
 - name: Section Two
   url: "#sec2"
