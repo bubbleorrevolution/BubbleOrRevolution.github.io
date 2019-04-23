@@ -83,7 +83,6 @@ layout: default
           <div class="card-deck">
             {% for author in site.data.authors %}
                 <div class="card author-card">
-                  <!-- <div class="author-card-content"> -->
                      <img src="{{ site.baseurl }}/assets/img/authors/{{ author.image }}"
                         alt="{{ author.name }}" class="rounded-circle author-image centered" />
                     <div class="card-body">
@@ -93,7 +92,6 @@ layout: default
                     <div class="card-footer">
                       <a href="#" class="card-link"><i class="fab fa-linkedin"></i></a>
                     </div>
-                  <!-- </div> -->
                 </div>
             {% endfor %}
           </div>
