@@ -12,6 +12,16 @@
 $primary: #7c40b7;
 $white: white;
 
+
+/**
+ * MIXINS
+ */
+@mixin header-font() {
+    // the branded font for headers and logos
+    font-family: LeagueGothic, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    text-transform: uppercase;
+}
+
 /**
  * FONTS
  */
@@ -24,6 +34,8 @@ $white: white;
 }
 // Lato via Google Fonts
 @import url('https://fonts.googleapis.com/css?family=Lato');
+
+
 /**
  * MAJOR RULES
  */
@@ -98,7 +110,7 @@ body {
 }
 
 .navbar-brand {
-  font-family: LeagueGothic !important;
+  @include header-font();
   font-size: 32px;
 }
 
@@ -133,6 +145,16 @@ body {
   margin-top: calc(100px + 1.25rem);
 }
 
+.fast-facts {
+    h1, h2, h3, h4, h5, h6 {
+        text-align: center;
+    }
+
+    p {
+        text-align: center;
+    }
+}
+
 /**
  * UTILITIES
  */
@@ -156,8 +178,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: LeagueGothic !important;
-  text-transform: uppercase;
+  @include header-font();
 }
 
 .centered {
