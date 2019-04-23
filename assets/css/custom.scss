@@ -96,6 +96,8 @@ body {
   }
 
 }
+
+
 /**
  * MINOR RULES
  */
@@ -112,11 +114,6 @@ body {
 .navbar-brand {
   @include header-font();
   font-size: 32px;
-}
-
-#footer {
-  // to counteract section's padding
-  // padding-top: 0;
 }
 
 .book-shadow {
