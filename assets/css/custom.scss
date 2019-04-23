@@ -1,22 +1,21 @@
 ---
 ---
 
-
-// Jekyll auto-compiles this to css
+/*
+  Jekyll auto-compiles this to css
+*/
 
 /**
  * VARIABLES
  * You need to update the config.json too (that's used for Bootstrap styling).
  */
-$primary: rgb(174, 15, 214);
+$primary: #7c40b7;
 $white: white;
 
-
 /**
- * DECLARATIONS
+ * FONTS
  */
 
-/* FONTS */
 // Custom League Gothic
 // @include @font-face(LeagueGothic, ../fonts/LeagueGothic/LeagueGothic-Regular);
 @font-face {
@@ -25,12 +24,11 @@ $white: white;
 }
 // Lato via Google Fonts
 @import url('https://fonts.googleapis.com/css?family=Lato');
-
-/** CUSTOM RULES **/
-
+/**
+ * MAJOR RULES
+ */
 body {
   font-family: Lato, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-
   // for scrollspy to work
   position: relative;
 }
@@ -39,73 +37,16 @@ body {
   // full-size background image
   background: url("{{ site.baseurl }}/assets/img/hero.png") no-repeat center center fixed;
   background-size: cover;
-
   // flexbox to make this take up 100% of viewport height
   // flexbox is the greatest!
   display: flex;
   flex-direction: column;
   height: 100vh;
-
   // other layout stuff
   margin-bottom: 0;
 }
 
-.full-height {
-    // makes en element take up 100% of parent height.
-    display: flex;
-    height: 100%;
-}
-
-.nav-item {
-  padding-left: 2rem;
-  padding-right: 2rem;
-}
-
-.row.no-row-margins {
-    // rows have a weird negative left and right margin,
-    // which this utility class gets rid of
-    margin-left: 0;
-    margin-right: 0;
-}
-
-.section-dark {
-
-    // apply styles to the internal holder, not the section itself b/c then
-    // you get the ugly paddings
-    > .section-content {
-        color: $white;
-        background-color: $primary;
-    }
-
-    // links need their default styling overwritten
-    a {
-        color: $white !important;
-        text-decoration: underline;
-    }
-}
-
-
-.navbar {
-  text-transform: uppercase !important;
-}
-
-.navbar-brand {
-  font-family: LeagueGothic !important;
-  font-size: 32px;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-family: LeagueGothic !important;
-  text-transform: uppercase;
-}
-
 .section {
-
   /*
   // a hack to make it work with scrollspy. scrollspy triggers the
   // active list item change when this section reaches the top of the page...
@@ -124,16 +65,88 @@ h6 {
    padding-bottom: 2em;
  }
  */
+  // OK, we'll just resolve the hack simply and without the final-element problem
+  // and just put a fat padding between sections so the scrollspy works.
+  // this gets added to .padding-top's
+  padding-top: 80px;
 
- // OK, we'll just resolve the hack simply and without the final-element problem
- // and just put a fat padding between sections so the scrollspy works.
- // this gets added to .padding-top's
- padding-top: 80px;
+  > .section-content {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+}
 
- > .section-content {
-     padding-top: 20px;
-     padding-bottom: 20px;
- }
+.section-dark {
+  // apply styles to the internal holder, not the section itself b/c then
+  // you get the ugly paddings
+  > .section-content {
+    color: $white;
+    background-color: $primary;
+  }
+  // links need their default styling overwritten
+  a {
+    color: $white !important;
+    text-decoration: underline;
+  }
+}
+/**
+ * MINOR RULES
+ */
+ 
+.nav-item {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.navbar {
+  text-transform: uppercase !important;
+}
+
+.navbar-brand {
+  font-family: LeagueGothic !important;
+  font-size: 32px;
+}
+
+#footer {
+  // to counteract section's padding
+  // padding-top: 0;
+}
+
+.book-shadow {
+  border: 1px solid #ccc;
+  // shadowing
+  box-shadow: 0 0 20px rgba(0,0,0,0.5);
+}
+
+.author-img {
+  height: 64px;
+  width: 64px;
+}
+/**
+ * UTILITIES
+ */
+
+.full-height {
+  // makes en element take up 100% of parent height.
+  display: flex;
+  height: 100%;
+}
+
+.row.no-row-margins {
+  // rows have a weird negative left and right margin,
+  // which this utility class gets rid of
+  margin-left: 0;
+  margin-right: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: LeagueGothic !important;
+  text-transform: uppercase;
 }
 
 .centered {
@@ -141,11 +154,6 @@ h6 {
   display: block;
   margin-left: auto;
   margin-right: auto;
-}
-
-#footer {
-    // to counteract section's padding
-    // padding-top: 0;
 }
 
 .section-super-padded {
@@ -165,17 +173,3 @@ h6 {
 .text-white {
   color: white;
 }
-
-.book-shadow {
-    border: 1px solid #ccc;
-
-  // shadowing
-  box-shadow: 0 0 20px rgba(0,0,0,0.5);
-}
-
-.author-img {
-    height: 64px;
-    width: 64px;
-}
-
-/* BOOTSWATCH */
