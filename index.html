@@ -1,169 +1,171 @@
 ---
 
 # This page name will go in the page <title>
-# Omit it to just have the site title be the <title>
-# title: Home
+  # Omit it to just have the site title be the <title>
+    # title: Home
 
-# In the _layouts folder
-layout: default
----
+    # In the _layouts folder
+    layout: default
+    ---
 
-<div class="jumbotron jumbotron-fluid" id="hero">
-    <div class="row full-height align-items-center no-row-margins">
+    <div class="jumbotron jumbotron-fluid" id="hero">
+      <div class="row full-height align-items-center no-row-margins">
         <div class="col-md"></div>
         <div class="col-md">
-            <h1 class="display-4">BUBBLE OR REVOLUTION?</h1>
-            <p class="lead">
-                The present and future of blockchain and cryptocurrencies. Drops 6/10/19.
-            </p>
+          <h1 class="display-4">BUBBLE OR REVOLUTION?</h1>
+          <p class="lead">
+            The present and future of blockchain and cryptocurrencies. Drops 6/10/19.
+          </p>
 
-            <a href="https://www.amazon.com/gp/product/b0756mtx6k/"
-                class="btn btn-lg btn-primary btn-block disabled">
-                Coming soon
-            </a>
+          <a href="https://www.amazon.com/gp/product/b0756mtx6k/" class="btn btn-lg btn-primary btn-block disabled">
+            Coming soon
+          </a>
         </div>
+      </div>
     </div>
-</div>
 
-  <!-- New navbar -->
-  <nav class="navbar sticky-top navbar-expand-lg navbar-light bg-light" id="header-nav">
-    <!-- <a class="navbar-brand" href="{{ site.baseurl }}">{{ site.name }}</a> -->
-    <button class="navbar-toggler mx-auto" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
+    <!-- New navbar -->
+    <nav class="navbar sticky-top navbar-expand-lg navbar-light bg-light" id="header-nav">
+      <!-- <a class="navbar-brand" href="{{ site.baseurl }}">{{ site.name }}</a> -->
+      <button class="navbar-toggler mx-auto" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
 
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <!-- NB: ml-auto moves navigation to right; mr-auto moves to left;
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <!-- NB: ml-auto moves navigation to right; mr-auto moves to left;
                mx-auto centers navigation -->
-      <a class="navbar-brand `mr-auto" href="#">Bubble or Revolution?</a>
+        <a class="navbar-brand `mr-auto" href="#">Bubble or Revolution?</a>
 
-      <ul class="navbar-nav mx-auto">
-        {% for page in site.data.sections %}
+        <ul class="navbar-nav mx-auto">
+          {% for page in site.data.sections %}
           <li class="nav-item">
             <a class="nav-link" href="{{ site.baseurl }}{{ page.url }}">
               {{ page.name}}
             </a>
           </li>
-        {% endfor %}
-      </ul>
+          {% endfor %}
+        </ul>
 
-          <div class="form-inline ml-auto">
-            <button class="btn btn-primary disabled">BUY NOW</button>
+        <div class="form-inline ml-auto">
+          <button class="btn btn-primary disabled">BUY NOW</button>
         </div>
-    </div>
-  </nav>
+      </div>
+    </nav>
 
-<section class="section" id="sec1">
-  <div class="section-content">
-      <div class="container">
-            <h1>The Authors</h1>
+    <section class="section" id="sec1">
 
-            <div class="row">
-                <div class="col-md">
-                    <ul class="list-unstyled">
-                    {% for author in site.data.authors %}
-                        <li class="media mb-3">
-                            <img src="{{ site.baseurl }}/assets/img/authors/{{ author.image }}"
-                                class="rounded img-fluid mr-3 author-img" alt="{{ author.name }}">
-                            <div class="media-body">
-                                <h3 class="mt-0">{{ author.name }}</h3>
-                                {{ author.bio}}
-                            </div>
-                        </li>
-                    {% endfor %}
-                    </ul>
-                    </div>
-                    <div class="col-md">
-                        <p>
-                            Amazingly few discotechques provide jukeboxes
-                        </p>
-                    </div>
+    </section>
+
+    <section class="section" id="">
+      <div class="section-content">
+        <div class="container">
+          <h1>The Authors</h1>
+
+          <div class="row">
+            <div class="col-md">
+              <ul class="list-unstyled">
+                {% for author in site.data.authors %}
+                <li class="media mb-3">
+                  <img src="{{ site.baseurl }}/assets/img/authors/{{ author.image }}" class="rounded img-fluid mr-3 author-img" alt="{{ author.name }}">
+                  <div class="media-body">
+                    <h3 class="mt-0">{{ author.name }}</h3>
+                    {{ author.bio}}
+                  </div>
+                </li>
+                {% endfor %}
+              </ul>
             </div>
+            <div class="col-md">
+              <p>
+                Amazingly few discotechques provide jukeboxes
+              </p>
+            </div>
+          </div>
 
         </div>
-  </div>
-</section>
+      </div>
+    </section>
 
-<section class="section section-dark" id="sec2">
-  <div class="section-content">
-      <div class="container">
-            <h1>Dark</h1>
+    <section class="section section-dark" id="sec2">
+      <div class="section-content">
+        <div class="container">
+          <h1>Dark</h1>
 
-            <p>
+          <p>
             Sphinx of black quartz, judge my vow!
-            </p>
+          </p>
         </div>
-  </div>
-</section>
+      </div>
+    </section>
 
-<section class="section" id="sec3">
-  <div class="section-content">
-      <div class="container">
-            <h1>Section Three</h1>
+    <section class="section" id="sec3">
+      <div class="section-content">
+        <div class="container">
+          <h1>Section Three</h1>
 
-            <p>
+          <p>
             Sphinx of black quartz, judge my vow!
-            </p>
+          </p>
         </div>
-  </div>
-</section>
+      </div>
+    </section>
 
-<section class="section">
-  <div class="section-content">
-      <div class="container">
-            <h1>Hello, World</h1>
+    <section class="section">
+      <div class="section-content">
+        <div class="container">
+          <h1>Hello, World</h1>
 
-            <p>
+          <p>
             Sphinx of black quartz, judge my vow!
-            </p>
+          </p>
         </div>
-  </div>
-</section>
+      </div>
+    </section>
 
-<section class="section">
-  <div class="section-content">
-      <div class="container">
-            <h1>Hello, World</h1>
+    <section class="section">
+      <div class="section-content">
+        <div class="container">
+          <h1>Hello, World</h1>
 
-            <p>
+          <p>
             Sphinx of black quartz, judge my vow!
-            </p>
+          </p>
         </div>
-  </div>
-</section>
+      </div>
+    </section>
 
-<section class="section">
-  <div class="section-content">
-      <div class="container">
-            <h1>Hello, World</h1>
+    <section class="section">
+      <div class="section-content">
+        <div class="container">
+          <h1>Hello, World</h1>
 
-            <p>
+          <p>
             Sphinx of black quartz, judge my vow!
-            </p>
+          </p>
         </div>
-  </div>
-</section>
+      </div>
+    </section>
 
-<section class="section">
-  <div class="section-content">
-      <div class="container">
-            <h1>Hello, World</h1>
+    <section class="section">
+      <div class="section-content">
+        <div class="container">
+          <h1>Hello, World</h1>
 
-            <p>
+          <p>
             Sphinx of black quartz, judge my vow!
-            </p>
+          </p>
         </div>
-  </div>
-</section>
+      </div>
+    </section>
 
-<section class="section">
-  <div class="section-content">
-      <div class="container">
-            <h1>Hello, World</h1>
+    <section class="section">
+      <div class="section-content">
+        <div class="container">
+          <h1>Hello, World</h1>
 
-            <p>
+          <p>
             Sphinx of black quartz, judge my vow!
-            </p>
+          </p>
         </div>
-  </div>
-</section>
+      </div>
+    </section>
