@@ -62,6 +62,10 @@ layout: default
                 <div class="card" style="width: 18rem;">
                   <!-- <img src="..." class="card-img-top" alt="..."> -->
                   <div class="card-body">
+                    <img src="{{ site.baseurl }}/assets/img/authors/{{ author.image }}"
+                      alt="{{ author.name }}" />
+                  </div>
+                  <div class="card-body">
                     <h3 class="card-title centered">{{ author.name }}</h3>
                     <p class="card-text">{{ author.bio }}</p>
                   </div>
