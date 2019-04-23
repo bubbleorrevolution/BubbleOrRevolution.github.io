@@ -158,35 +158,29 @@ layout: default
       </div>
     </section>
 
-    <section class="section section-dark" id="sec3">
+
+    <section class="section section-dark" id="testimonials">
       <div class="section-content">
         <div class="container">
-          <h1 class="text-white">Dark</h1>
+          <h1 class="text-white">What People are Saying</h1>
 
-          <p class="text-white">
-            Sphinx of black quartz, judge my vow!
-          </p>
-        </div>
-      </div>
-    </section>
+            <div class="card-columns">
+                {% for testimonial in site.data.testimonials %}
+                  <div class="card p-3 mt-3">
+                    <!-- <img src="..." class="card-img-top" alt="..."> -->
+                    <blockquote class="blockquote mb-0">
+                        <p>{{ testimonial.quote }}</p>
+                        <footer class="blockquote-footer">
+                            <small class="text-muted">
+                                {{ testimonial.name }}, {{ testimonial.title }}
+                            </small>
+                        </footer>
+                    </blockquote>
+                  </div>
+                {% endfor %}
+            </div>
 
 
-
-    <section class="section">
-      <div class="section-content">
-        <div class="container">
-          <h1>What People are Saying</h1>
-
-          {% for testimonial in site.data.testimonials %}
-          <blockquote class="blockquote">
-            <p class="mb-0">
-              {{ testimonial.quote }}
-            </p>
-            <footer class="blockquote-footer">
-              {{ testimonial.name }}, {{ testimonial.title }}
-            </footer>
-          </blockquote>
-          {% endfor %}
         </div>
       </div>
     </section>
