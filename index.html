@@ -113,9 +113,16 @@ layout: default
         <div class="container">
           <h1>What People are Saying</h1>
 
-          <p>
-            Sphinx of black quartz, judge my vow!
-          </p>
+          {% for testimonial in site.data.testimonials %}
+          <blockquote class="blockquote">
+            <p class="mb-0">
+              {{ testimonial.quote }}
+            </p>
+            <footer class="blockquote-footer">
+              {{ testimonial.name }}, {{ testimonial.title }}
+            </footer>
+          </blockquote>
+          {% endfor %}
         </div>
       </div>
     </section>
