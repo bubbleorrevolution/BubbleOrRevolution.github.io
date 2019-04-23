@@ -113,10 +113,26 @@ body {
   box-shadow: 0 0 20px rgba(0,0,0,0.5);
 }
 
-.author-img {
-  height: 64px;
-  width: 64px;
+.author-image {
+  $size: 200px;
+
+  height: $size;
+  width: $size;
+
+  // we want this image to be half-overlapping the top of the parent card
+  // .card pads the top of the image with 1.25rem of padding.
+  // we want to move this image up by that 1.25rem + half its height.
+  // we have to hardcode this because, unfortunately, SASS doesn't
+  // let you put variables in calc().
+  margin-top: calc(-100px - 1.25rem);
 }
+
+.author-card {
+  // "counteract" the upward movement of the image in .author-image
+  // by moving the contents of the author card down
+  margin-top: calc(100px + 1.25rem);
+}
+
 /**
  * UTILITIES
  */
