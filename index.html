@@ -35,6 +35,8 @@ layout: default
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <!-- NB: ml-auto moves navigation to right; mr-auto moves to left;
                mx-auto centers navigation -->
+      <a class="navbar-brand `mr-auto" href="#">BUBBLE OR REVOLUTION?</a>
+
       <ul class="navbar-nav mx-auto">
         {% for page in site.data.sections %}
           <li class="nav-item">
@@ -44,6 +46,10 @@ layout: default
           </li>
         {% endfor %}
       </ul>
+
+          <div class="form-inline ml-auto">
+            <button class="btn btn-primary disabled">BUY NOW</button>
+        </div>
     </div>
   </nav>
 
