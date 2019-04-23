@@ -35,7 +35,7 @@ layout: default
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <!-- NB: ml-auto moves navigation to right; mr-auto moves to left;
                mx-auto centers navigation -->
-      <a class="navbar-brand `mr-auto" href="#">BUBBLE OR REVOLUTION?</a>
+      <a class="navbar-brand `mr-auto" href="#">Bubble or Revolution?</a>
 
       <ul class="navbar-nav mx-auto">
         {% for page in site.data.sections %}
@@ -58,9 +58,28 @@ layout: default
       <div class="container">
             <h1>The Authors</h1>
 
-            <p>
-            Sphinx of black quartz, judge my vow!
-            </p>
+            <div class="row">
+                <div class="col-md">
+                    <ul class="list-unstyled">
+                    {% for author in site.data.authors %}
+                        <li class="media mb-3">
+                            <img src="{{ site.baseurl }}/assets/img/authors/{{ author.image }}"
+                                class="rounded img-fluid mr-3 author-img" alt="{{ author.name }}">
+                            <div class="media-body">
+                                <h3 class="mt-0">{{ author.name }}</h3>
+                                {{ author.bio}}
+                            </div>
+                        </li>
+                    {% endfor %}
+                    </ul>
+                    </div>
+                    <div class="col-md">
+                        <p>
+                            Amazingly few discotechques provide jukeboxes
+                        </p>
+                    </div>
+            </div>
+
         </div>
   </div>
 </section>
