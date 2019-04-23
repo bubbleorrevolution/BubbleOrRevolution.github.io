@@ -79,20 +79,15 @@ body {
 .section-dark {
   // apply styles to the internal holder, not the section itself b/c then
   // you get the ugly paddings
-  > .section-content {
-    color: $white;
+  .section-content {
     background-color: $primary;
   }
-  // links need their default styling overwritten
-  a {
-    color: $white !important;
-    text-decoration: underline;
-  }
+
 }
 /**
  * MINOR RULES
  */
- 
+
 .nav-item {
   padding-left: 2rem;
   padding-right: 2rem;

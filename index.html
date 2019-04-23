@@ -54,44 +54,24 @@ layout: default
     <section class="section section-dark" id="sec1">
       <div class="section-content">
         <div class="container">
-          <h1>From the #1 bestselling authors of <em>Swipe to Unlock</em></h1>
+          <h1 class="text-white">From the #1 bestselling authors of <em>Swipe to Unlock</em></h1>
 
           <div class="row">
-            <div class="col-md">
-              <div class=""
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-
-    <section class="section" id="">
-      <div class="section-content">
-        <div class="container">
-          <h1>The Authors</h1>
-
-          <div class="row">
-            <div class="col-md">
-              <ul class="list-unstyled">
-                {% for author in site.data.authors %}
-                <li class="media mb-3">
-                  <img src="{{ site.baseurl }}/assets/img/authors/{{ author.image }}" class="rounded img-fluid mr-3 author-img" alt="{{ author.name }}">
-                  <div class="media-body">
-                    <h3 class="mt-0">{{ author.name }}</h3>
-                    {{ author.bio}}
+            {% for author in site.data.authors %}
+              <div class="col-md">
+                <div class="card" style="width: 18rem;">
+                  <!-- <img src="..." class="card-img-top" alt="..."> -->
+                  <div class="card-body">
+                    <h3 class="card-title centered">{{ author.name }}</h3>
+                    <p class="card-text">{{ author.bio }}</p>
                   </div>
-                </li>
-                {% endfor %}
-              </ul>
-            </div>
-            <div class="col-md">
-              <p>
-                Amazingly few discotechques provide jukeboxes
-              </p>
-            </div>
+                  <div class="card-body">
+                    <a href="#" class="card-link"><i class="fab fa-linkedin"></i></a>
+                  </div>
+                </div>
+              </div>
+            {% endfor %}
           </div>
-
         </div>
       </div>
     </section>
@@ -99,9 +79,9 @@ layout: default
     <section class="section section-dark" id="sec2">
       <div class="section-content">
         <div class="container">
-          <h1>Dark</h1>
+          <h1 class="text-white">Dark</h1>
 
-          <p>
+          <p class="text-white">
             Sphinx of black quartz, judge my vow!
           </p>
         </div>
