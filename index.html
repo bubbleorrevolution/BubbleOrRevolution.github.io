@@ -44,14 +44,14 @@ layout: default
           {% endfor %}
         </ul>
 
-          <!-- a buy button only to be shown in the hamburger menu
+        <!-- a buy button only to be shown in the hamburger menu
                (because we hide the buy button that's normally on the right side
                when the hamburger menu is opened). so show this only
                on screens where the hamburger menu is active; i.e. when the
                navbar can collapse. -->
-           <form class="form-inline d-md-none mt-3">
-             <button class="btn btn-outline-primary disabled" type="submit">BUY NOW</button>
-           </form>
+        <form class="form-inline d-md-none mt-3">
+          <button class="btn btn-outline-primary disabled" type="submit">BUY NOW</button>
+        </form>
       </div>
 
       <!-- show this on all screens by default, but hide when the
@@ -161,23 +161,23 @@ layout: default
         <div class="container">
           <h1>What's Inside</h1>
 
-            <div class="mx-auto">
-              {% for chapter in site.data.chapters %}
-                <div class="d-flex chapter-bubble-line-holder">
-                  <div class="chapter-line-holder">
-                    <div class="chapter-line"></div>
-                  </div>
-                  <div class="chapter-number-bubble align-self-top">
-                    <span class="lead">{{ forloop.index }}</span>
-                  </div>
-                  <div class="ml-3">
-                    <h2>{{ chapter.title }}</h2>
-                    <p>{{ chapter.description }}</p>
-                  </div>
-                </div>
-              {% endfor %}
+          <div class="mx-auto mt-5">
+            {% for chapter in site.data.chapters %}
+            <div class="d-flex chapter-bubble-line-holder">
+              <div class="chapter-line-holder">
+                <div class="chapter-line"></div>
+              </div>
+              <div class="chapter-number-bubble align-self-top">
+                <span class="lead">{{ forloop.index }}</span>
+              </div>
+              <div class="ml-3 mb-3">
+                <h2>{{ chapter.title }}</h2>
+                <p>{{ chapter.description }}</p>
+              </div>
             </div>
-      </div>
+            {% endfor %}
+          </div>
+        </div>
     </section>
 
 
