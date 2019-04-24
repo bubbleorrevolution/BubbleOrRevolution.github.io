@@ -190,6 +190,12 @@ $chapter_bubble_top_offset: 0.5rem;
   display: flex;
   justify-content: center;
   align-items: center;
+
+  &:hover {
+    background-color: $white;
+    color: $primary;
+    transition: background-color 0.25s, color 0.25s;
+  }
 }
 
 .chapter-bubble-line-holder {
