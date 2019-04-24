@@ -162,24 +162,15 @@ layout: default
           <h1>What's Inside</h1>
 
             {% for chapter in site.data.chapters %}
-              <!-- <div class="d-flex align-items-middle w-100">
-                <span class="px-2">
-                  <div class="chapter-number-bubble">
-                    {{ forloop.index }}
-                  </div>
-                </span>
-                <div class="px-2">
-                  <h2 class="my-0">{{ chapter.title }}</h2>
-                  <p>{{ chapter.description }}</p>
+              <div class="d-flex w-100">
+                <div>
+                  <div class="chapter-line"></div>
                 </div>
-              </div> -->
-              <div class="d-flex align-items-center w-100 my-3">
-                <div class="chapter-center-line"></div>
-                <div class="chapter-number-bubble">
+                <div class="chapter-number-bubble align-self-center">
                   {{ forloop.index }}
                 </div>
                 <div class="ml-3">
-                  <h2 class="my-0">{{ chapter.title }}</h2>
+                  <h2>{{ chapter.title }}</h2>
                   <p>{{ chapter.description }}</p>
                 </div>
               </div>
