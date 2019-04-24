@@ -122,17 +122,26 @@ body {
   box-shadow: 0 0 20px rgba(0,0,0,0.5);
 }
 
-.author-image {
-  $size: 200px;
-  $half_size: $size / 2;
+$author_size: 200px;
+$author_half_size: $author_size / 2;
+$author_quarter_size: $author_size / 4;
 
-  height: $size;
-  width: $size;
+.author-image {
+
+  height: $author_size;
+  width: $author_size;
 
   // we want this image to be half-overlapping the top of the parent card
   // we want to move this image up by half its height.
-  // TODO: stop hardcoding it
-  margin-top: -100px;
+  margin-top: -1 * $author_half_size;
+}
+
+.author-image-small {
+  // on screens just big enough that the cards are side-by-side
+  // but so small that the cards are <200px wide, make the images smaller
+  height: $author_half_size;
+  width: $author_half_size;
+  margin-top: -1 * $author_quarter_size;
 }
 
 .author-card {

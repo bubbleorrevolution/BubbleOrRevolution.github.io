@@ -83,7 +83,11 @@ layout: default
           <div class="card-deck">
             {% for author in site.data.authors %}
             <div class="card author-card">
-              <img src="{{ site.baseurl }}/assets/img/authors/{{ author.image }}" alt="{{ author.name }}" class="rounded-circle author-image centered" />
+
+              <!-- bigger and smaller pictures for bigger and smaller screens -->
+              <img src="{{ site.baseurl }}/assets/img/authors/{{ author.image }}" alt="{{ author.name }}" class="rounded-circle author-image centered d-none d-md-block" />
+              <img src="{{ site.baseurl }}/assets/img/authors/{{ author.image }}" alt="{{ author.name }}" class="rounded-circle author-image author-image-small centered d-md-none" />
+
               <div class="card-body">
                 <h3 class="card-title centered">{{ author.name }}</h3>
                 <p class="card-text">{{ author.bio }}</p>
