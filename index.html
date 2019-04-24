@@ -161,20 +161,22 @@ layout: default
         <div class="container">
           <h1>What's Inside</h1>
 
-            {% for chapter in site.data.chapters %}
-              <div class="d-flex w-100">
-                <div>
-                  <div class="chapter-line"></div>
+            <div class="w-50 mx-auto">
+              {% for chapter in site.data.chapters %}
+                <div class="d-flex w-100 chapter-bubble-line-holder">
+                  <div class="chapter-line-holder">
+                    <div class="chapter-line"></div>
+                  </div>
+                  <div class="chapter-number-bubble align-self-top">
+                    <span class="lead">{{ forloop.index }}</span>
+                  </div>
+                  <div class="ml-3">
+                    <h2>{{ chapter.title }}</h2>
+                    <p>{{ chapter.description }}</p>
+                  </div>
                 </div>
-                <div class="chapter-number-bubble align-self-top mt-2">
-                  {{ forloop.index }}
-                </div>
-                <div class="ml-3">
-                  <h2>{{ chapter.title }}</h2>
-                  <p>{{ chapter.description }}</p>
-                </div>
-              </div>
-            {% endfor %}
+              {% endfor %}
+            </div>
       </div>
     </section>
 
