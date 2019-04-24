@@ -117,11 +117,6 @@ body {
   display: none;
 }
 
-.book-shadow {
-  border: 1px solid #ccc;
-  // shadowing
-  box-shadow: 0 0 20px rgba(0,0,0,0.5);
-}
 
 $author_size: 200px;
 $author_half_size: $author_size / 2;
@@ -174,6 +169,7 @@ $author_quarter_size: $author_size / 4;
 .row.no-row-margins {
   // rows have a weird negative left and right margin,
   // which this utility class gets rid of
+  // .no-gutters is supposed to work the same way but doesn't, oddly
   margin-left: 0;
   margin-right: 0;
 }
