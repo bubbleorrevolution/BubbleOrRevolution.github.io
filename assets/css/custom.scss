@@ -102,11 +102,6 @@ body {
  * MINOR RULES
  */
 
-.nav-item {
-  padding-left: 2rem;
-  padding-right: 2rem;
-}
-
 .navbar {
   text-transform: uppercase !important;
 }
@@ -114,6 +109,12 @@ body {
 .navbar-brand {
   @include header-font();
   font-size: 32px;
+}
+
+.navbar-collapse.show + .navbar-buy-form, .navbar-collapse.collapsing + .navbar-buy-form {
+  // hide the navbar buy form if the hamburger menu is either animating (collapsing)
+  // or open (show)
+  display: none;
 }
 
 .book-shadow {

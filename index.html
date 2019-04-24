@@ -24,18 +24,17 @@ layout: default
     </div>
 
     <!-- New navbar -->
-    <nav class="navbar sticky-top navbar-expand-lg navbar-light bg-light" id="header-nav">
-      <!-- <a class="navbar-brand" href="{{ site.baseurl }}">{{ site.name }}</a> -->
-      <button class="navbar-toggler mx-auto" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <nav class="navbar sticky-top navbar-expand-md navbar-light bg-light" id="header-nav">
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
 
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <!-- NB: ml-auto moves navigation to right; mr-auto moves to left;
                mx-auto centers navigation -->
-        <a class="navbar-brand `mr-auto" href="#">Bubble or Revolution?</a>
+        <a class="navbar-brand d-none d-lg-block" href="#">Bubble or Revolution?</a>
 
-        <ul class="navbar-nav mx-auto">
+        <ul class="navbar-nav">
           {% for page in site.data.sections %}
           <li class="nav-item">
             <a class="nav-link" href="{{ site.baseurl }}{{ page.url }}" data-scroll>
@@ -45,9 +44,21 @@ layout: default
           {% endfor %}
         </ul>
 
-        <div class="form-inline ml-auto">
-          <button class="btn btn-primary disabled">BUY NOW</button>
-        </div>
+          <!-- a buy button only to be shown in the hamburger menu
+               (because we hide the buy button that's normally on the right side
+               when the hamburger menu is opened). so show this only
+               on screens where the hamburger menu is active; i.e. when the
+               navbar can collapse. -->
+           <form class="form-inline d-md-none mt-3">
+             <button class="btn btn-outline-primary disabled" type="submit">BUY NOW</button>
+           </form>
+      </div>
+
+      <!-- show this on all screens by default, but hide when the
+           hamburger menu is pressed -- looks weird with animation.
+           instead, show a "buy now" button in the hamburger menu itself! -->
+      <div class="form-inline navbar-buy-form">
+        <a href="#" class="btn btn-primary disabled">BUY NOW</a>
       </div>
     </nav>
 
