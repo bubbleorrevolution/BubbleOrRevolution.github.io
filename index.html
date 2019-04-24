@@ -144,9 +144,18 @@ layout: default
         <div class="container">
           <h1>What's Inside</h1>
 
-          <p>
-            Sphinx of black quartz, judge my vow!
-          </p>
+            <ul class="list-group list-group-flush">
+                {% for chapter in site.data.chapters %}
+                    <li class="list-group-item">
+                       <h2 class="h4 text-primary">
+                            <span class="badge badge-primary badge-pill">
+                                {{ forloop.index }}
+                            </span>
+                            {{ chapter.title }}
+                        </h2>
+                    </li>
+                {% endfor %}
+            </ul>
         </div>
       </div>
     </section>
