@@ -156,6 +156,37 @@ $author_quarter_size: $author_size / 4;
     }
 }
 
+
+$chapter_line_height: 4rem;
+$chapter_bubble_size: 2rem;
+$chapter_border_width: 0.1rem;
+$center_line_offset: $chapter_bubble_size / 2 + $chapter_border_width;
+
+.chapter-center-line {
+  height: 6em;
+  width: 0;
+  border: $chapter_border_width dashed $primary;
+  // position: relative;
+  // left: $center_line_offset;
+}
+
+.chapter-number-bubble {
+  width: $chapter_bubble_size;
+  height: $chapter_bubble_size;
+  border: $chapter_border_width solid $primary;
+  border-radius: $chapter_bubble_size / 2;
+  background: $white;
+
+  // show above the center line
+  z-index: 2;
+
+  // vertical and horizontal center text
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
 /**
  * UTILITIES
  */

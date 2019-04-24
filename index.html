@@ -161,20 +161,29 @@ layout: default
         <div class="container">
           <h1>What's Inside</h1>
 
-          <ul class="list-group list-group-flush">
             {% for chapter in site.data.chapters %}
-            <li class="list-group-item">
-              <h2 class="h4 text-primary">
-                <span class="badge badge-primary badge-pill">
-                  {{ forloop.index }}
+              <!-- <div class="d-flex align-items-middle w-100">
+                <span class="px-2">
+                  <div class="chapter-number-bubble">
+                    {{ forloop.index }}
+                  </div>
                 </span>
-                {{ chapter.title }}
-              </h2>
-              <p>{{ chapter.description }}</p>
-            </li>
+                <div class="px-2">
+                  <h2 class="my-0">{{ chapter.title }}</h2>
+                  <p>{{ chapter.description }}</p>
+                </div>
+              </div> -->
+              <div class="d-flex align-items-center w-100 my-3">
+                <div class="chapter-center-line"></div>
+                <div class="chapter-number-bubble">
+                  {{ forloop.index }}
+                </div>
+                <div class="ml-3">
+                  <h2 class="my-0">{{ chapter.title }}</h2>
+                  <p>{{ chapter.description }}</p>
+                </div>
+              </div>
             {% endfor %}
-          </ul>
-        </div>
       </div>
     </section>
 
