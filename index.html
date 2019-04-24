@@ -161,7 +161,7 @@ layout: default
         <div class="container">
           <h1>What's Inside</h1>
 
-          <div class="mx-auto mt-5">
+          <div class="mx-auto mt-4">
             {% for chapter in site.data.chapters %}
             <div class="d-flex chapter-bubble-line-holder">
               <div class="chapter-line-holder">
@@ -170,8 +170,8 @@ layout: default
               <div class="chapter-number-bubble align-self-top">
                 <span class="lead">{{ forloop.index }}</span>
               </div>
-              <div class="ml-3 mb-3">
-                <h2>{{ chapter.title }}</h2>
+              <div class="ml-3 mb-2">
+                <h2 class="h3 mb-1">{{ chapter.title }}</h2>
                 <p>{{ chapter.description }}</p>
               </div>
             </div>

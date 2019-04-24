@@ -161,7 +161,7 @@ $chapter_bubble_size: 2rem;
 $chapter_border_width: 0.25rem;
 $chapter_line_width: $chapter_border_width / 2;
 $center_line_offset: $chapter_bubble_size / 2 + $chapter_line_width;
-$chapter_bubble_top_offset: 0.5rem;
+$chapter_bubble_top_offset: 0.125rem; // depends on header level we use
 
 .chapter-line {
   height: 100%;
