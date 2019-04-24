@@ -38,7 +38,7 @@ layout: default
         <ul class="navbar-nav mx-auto">
           {% for page in site.data.sections %}
           <li class="nav-item">
-            <a class="nav-link" href="{{ site.baseurl }}{{ page.url }}">
+            <a class="nav-link" href="{{ site.baseurl }}{{ page.url }}" data-scroll>
               {{ page.name}}
             </a>
           </li>

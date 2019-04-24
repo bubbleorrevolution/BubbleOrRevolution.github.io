@@ -31,6 +31,7 @@ library_versions:
   jquery: "3.4.0"
   bootstrap: "4.3.1"
   fontawesome: "5.8.1"
+  smoothscroll: "16" # for anything 16.x.x
 
 # Google Analytics Account ID
 google_analytics_id: "UA-125318378-4"
