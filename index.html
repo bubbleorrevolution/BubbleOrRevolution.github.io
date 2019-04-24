@@ -85,8 +85,12 @@ layout: default
             <div class="card author-card">
 
               <!-- bigger and smaller pictures for bigger and smaller screens -->
-              <img src="{{ site.baseurl }}/assets/img/authors/{{ author.image }}" alt="{{ author.name }}" class="rounded-circle author-image centered d-none d-md-block" />
-              <img src="{{ site.baseurl }}/assets/img/authors/{{ author.image }}" alt="{{ author.name }}" class="rounded-circle author-image author-image-small centered d-md-none" />
+              <!-- md and up: big picture is fine
+                   sm: cards are still side by side but <200px in width so need
+                       smaller image
+                   xs: cards are stacked; big pictures are fine -->
+              <img src="{{ site.baseurl }}/assets/img/authors/{{ author.image }}" alt="{{ author.name }}" class="rounded-circle author-image centered d-sm-none d-md-block" />
+              <img src="{{ site.baseurl }}/assets/img/authors/{{ author.image }}" alt="{{ author.name }}" class="rounded-circle author-image author-image-small centered d-none d-sm-block d-md-none" />
 
               <div class="card-body">
                 <h3 class="card-title centered">{{ author.name }}</h3>
