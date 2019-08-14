@@ -28,7 +28,7 @@
            on screens where the hamburger menu is active; i.e. when the
            navbar can collapse. -->
     <form class="form-inline d-md-none mt-3">
-      <button class="btn btn-outline-primary" type="submit">BUY NOW</button>
+      <a class="btn btn-outline-primary" href="{{ site.book_url }}" type="submit">GET THE BOOK</a>
     </form>
   </div>
 
@@ -36,6 +36,6 @@
        hamburger menu is pressed -- looks weird with animation.
        instead, show a "buy now" button in the hamburger menu itself! -->
   <div class="form-inline navbar-buy-form">
-    <a href="#" class="btn btn-primary disabled">BUY NOW</a>
+    <a href="{{ site.book_url }}" class="btn btn-primary">GET THE BOOK</a>
   </div>
 </nav>

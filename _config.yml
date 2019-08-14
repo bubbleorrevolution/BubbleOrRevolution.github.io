@@ -37,6 +37,8 @@ library_versions:
 # Google Analytics Account ID
 google_analytics_id: "UA-125318378-4"
 
+book_url: "https://www.amazon.com/dp/B07T13GP1Q"
+
 ##### Don't change! #####
 
 # Build settings
