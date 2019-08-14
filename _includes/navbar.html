@@ -7,16 +7,19 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <!-- NB: ml-auto moves navigation to right; mr-auto moves to left;
            mx-auto centers navigation -->
-    <a class="navbar-brand d-none d-lg-block" href="{{ site.baseurl }}">Bubble or Revolution?</a>
+    <a class="navbar-brand d-none d-lg-block" href="{{ site.baseurl }}/">Bubble or Revolution?</a>
 
     <ul class="navbar-nav">
-      {% for page in site.data.sections %}
-      <li class="nav-item">
-        <a class="nav-link" href="{{ site.baseurl }}{{ page.url }}" data-scroll>
-          {{ page.name}}
-        </a>
-      </li>
-      {% endfor %}
+      <!-- COMMENT OUT SECTIONS -->
+      {% comment %}
+        {% for page in site.data.sections %}
+        <li class="nav-item">
+          <a class="nav-link" href="{{ site.baseurl }}/{{ page.url }}" data-scroll>
+            {{ page.name}}
+          </a>
+        </li>
+        {% endfor %}
+      {% endcomment %}
     </ul>
 
     <!-- a buy button only to be shown in the hamburger menu
@@ -25,7 +28,7 @@
            on screens where the hamburger menu is active; i.e. when the
            navbar can collapse. -->
     <form class="form-inline d-md-none mt-3">
-      <button class="btn btn-outline-primary disabled" type="submit">BUY NOW</button>
+      <button class="btn btn-outline-primary" type="submit">BUY NOW</button>
     </form>
   </div>
 
