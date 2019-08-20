@@ -52,6 +52,16 @@
     box-sizing: border-box;
 }
 
+body {
+    
+CSS3 provides a way to do this
+
+background-image: linear-gradient(bottom, #ffffff 25%, #fafafa 75%);
+background-image: -o-linear-gradient(bottom, #ffffff 25%, #fafafa 75%);
+background-image: -moz-linear-gradient(bottom, #ffffff 25%, #fafafa 75%);
+background-image: -webkit-linear-gradient(bottom, #ffffff 25%, #fafafa 75%);
+background-image: -ms-linear-gradient(bottom, #ffffff 25%, #fafafa 75%);
+}
 i,
 span,
 a {
@@ -74,7 +84,11 @@ a:hover {
 
 
 h1,
-h2 {
+h2,
+h3,
+h4,
+h5,
+h6 {
     font-family: 'Gotham', sans-serif;
     margin: 0px;
     font-weight: bold;
@@ -105,6 +119,9 @@ p {
     margin: 0;
 }
 
+img {
+    max-width: 100%;
+}
 hr.section-separator {
     width: 107px;
     margin: 0 auto;
@@ -120,7 +137,7 @@ hr.section-separator {
     width: 100%;
     height: 100%; 
     background-position: center top;
-    background-size: 100% auto;
+    background-size: 100% 100%;
 }
 
 /*===== All Button Style =====*/
@@ -324,9 +341,23 @@ input {
 ===========================*/
 .four-reasons {
     z-index: -1;
-    background-color: #FAFAFA;
     overflow: auto;
+
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: 100% 100%;
+
+    padding-bottom: 50px;
 }
+    .four-reasons #blur-square {
+        position: absolute;
+        top: 70%;
+    }
+    .four-reasons #circle-bg {
+        position: absolute;
+        top: 40%;
+    }
+
     .four-reasons .section-title {
         color: black;
         text-align: center;
@@ -369,23 +400,176 @@ input {
         /* background: linear-gradient(187.96deg, #00A2FF -15.57%, #00D1E4 193.21%); */
         box-shadow: 0px 4px 14px rgba(0, 178, 246, 0.9);
     }
-    .four-reasons .main-btn:hover {
-        border: 2px solid #00A2FF;
-        color: #00A2FF;
-    }
-    .four-reasons .container-fluid {
+        .four-reasons .main-btn:hover {
+            border: 2px solid #00A2FF;
+            color: #00A2FF;
+        }
+    /* .four-reasons .container-fluid {
         background-color: white;
         padding: 0;
-    }
+    } */
 /*===========================
     SECTION 2: TEAM 
 ===========================*/
 .team {
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: 100% 100%;
+    position: relative;
 
+    padding-top: 18.5rem;
+    padding-bottom: 11.25rem;
 }
-.team .section-separator {
-    border-color: white;
+    .team .section-header .section-title {
+        color: white;
+        text-align: center;
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    .team .section-header .sub-title {
+        color: white;
+        font-size: 22px;
+        margin-top: 30px;
+    }
+    .team .section-header .section-separator {
+        border-color: white;
+    }
+    .team .bg-text {
+        color: #FFFFFF;
+        opacity: 0.3;
+        font-size: 8.125rem;
+        position: absolute;
+        right: -10%;
+    }
+    .team .section-content {
+        margin-top: 8.125rem;
+    }
+    .team .author-content {
+        width: 423px;
+        height: 489px;
+        background-color: #e0c1e4;
+        padding: 67px 56px 127px 36px; 
+    }
+        .team .author-content h5 {
+            font-size: 40px;
+            line-height: 49px;
+            color: #4C2BE5;
+            margin-bottom: 24px;
+        }
+        .team .author-content img {
+            width: 50%;
+            margin-bottom: 7px;
+        }
+        .team .author-content #author-content-subtitle {
+            font-weight: normal;
+            font-size: 22px;
+            line-height: 121.5%;
+        }
+    .team #blur-circle {
+        position: absolute;
+        right: 0;
+        top: 70%;
+    }    
+/*===========================
+    SECTION 3: TESTIMONIALS 
+===========================*/
+.testimonials {
+    /* padding-top: 13.75rem; */
+    padding-bottom: 3rem;
+    position: relative;
+    margin-top: -10rem;
 }
+    .testimonials #gradient-rect {
+        position: absolute;
+        top: -5rem;
+        right: 0;
+        /* width: 50%; */
+    }
+    .testimonials .section-header {
+        padding-top: 13.75rem;
+    }
+    .testimonials .section-header img {
+        position: relative;
+        top: -50px;
+        left: 10px;
+    }
+    .testimonials .slider-card {
+        padding-bottom: 5px;
+    }
+    /* .testimonials .testimonial-slider .slider-bg-transparent {
+        background-color: #f9faff;
+        padding-bottom: 5px;
+    } */
+    .testimonials .single-testimonial {
+        box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.25);
+        background-color: #ffffff;
+        padding-left: 44px;
+        padding-right: 37px;
+        padding-bottom: 35px;
+        border-top-right-radius: 11px;
+        border-bottom-left-radius: 11px;
+        border-bottom-right-radius: 11px;
+
+        width: 484px;
+
+
+    }
+    
+        .testimonials .single-testimonial .testimonial-image {
+            position: relative;
+            display: inline-block;
+        }
+            .testimonials .single-testimonial .testimonial-image img {
+                width: 106px;
+                height: 106px;
+                border-radius: 50%;
+                border: 2px solid #8317db;
+                overflow: hidden;
+            }
+        .testimonials .single-testimonial .testimonial-content .client-name { 
+            font-size: 20px;
+            color: #333;
+        }
+        .testimonials .single-testimonial .testimonial-content .client-position { 
+            font-weight: 600;
+            color: #333;
+            font-size: 1rem;
+        }
+        .testimonials .single-testimonial .testimonial-content .client-quote { 
+            font-weight: 300;
+            font-size: 1rem;
+            color: #333;
+            font-style: italic;
+            /* max-width: 403px; */
+        }
+    .testimonial-active .slick-dots {
+        text-align: center;
+        margin-top: 120px;
+    }
+        .testimonial-active .slick-dots li {
+            display: inline-block;
+            margin: 0 1.5px;
+        }
+        .testimonial-active .slick-dots li button {
+            width: 12px;
+            height: 5px;
+            border-radius: 20px;
+            border: 0;
+            background-color: rgba(255, 212, 28, 0.4);
+            -webkit-transition: all 0.4s ease-out 0s;
+            -moz-transition: all 0.4s ease-out 0s;
+            -ms-transition: all 0.4s ease-out 0s;
+            -o-transition: all 0.4s ease-out 0s;
+            transition: all 0.4s ease-out 0s;
+            cursor: pointer;
+            font-size: 0;
+        }
+            .testimonial-active .slick-dots li.slick-active button {
+                background-color: #ffd41c;
+                width: 43px;
+            }
+
 /*===========================
     SECTION 4: EDUCATOR 
 ===========================*/
@@ -426,9 +610,15 @@ input {
     SECTION 5: MAILING LIST 
 ===========================*/
 .contact {
-    background: linear-gradient(180deg, #4098E2 0%, #7D23DC 100%);
+    background-repeat: no-repeat;
+    /* width: 100%;
+    height: 100%;  */
+    background-position: center top;
+    background-size: 100% 100%;
+    /* background: linear-gradient(180deg, #4098E2 0%, #7D23DC 100%); */
     color: white;
     margin-top: -100px;
+    padding-top: 240px;
 }
 .section-shape {
     width: 100%;
