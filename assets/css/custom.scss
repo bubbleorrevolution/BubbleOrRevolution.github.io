@@ -1,0 +1,271 @@
+---
+---
+
+/*
+  Jekyll auto-compiles this to css
+*/
+
+/**
+ * VARIABLES
+ * You need to update the config.json too (that's used for Bootstrap styling).
+ */
+$primary: #7c40b7;
+$white: white;
+
+
+/**
+ * MIXINS
+ */
+@mixin header-font() {
+    // the branded font for headers and logos
+    font-family: LeagueGothic, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    text-transform: uppercase;
+}
+
+/**
+ * FONTS
+ */
+
+// Custom League Gothic
+// @include @font-face(LeagueGothic, ../fonts/LeagueGothic/LeagueGothic-Regular);
+@font-face {
+  font-family: "LeagueGothic";
+  src: url("../fonts/League-Gothic/LeagueGothic-Regular.otf");
+}
+// Lato via Google Fonts
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+
+/**
+ * MAJOR RULES
+ */
+body {
+  font-family: Lato, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  // for scrollspy to work
+  position: relative;
+}
+
+#hero {
+  // full-size background image
+  background: url("{{ site.baseurl }}/assets/img/hero.jpg") no-repeat center center fixed;
+  background-size: cover;
+  // flexbox to make this take up 100% of viewport height
+  // flexbox is the greatest!
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  // other layout stuff
+  margin-bottom: 0;
+}
+
+.section {
+  /*
+  // a hack to make it work with scrollspy. scrollspy triggers the
+  // active list item change when this section reaches the top of the page...
+  // but the navbar itself isn't included within this calculation, so normally
+  // the list item rolls over when this section is hidden under the navbar.
+  // this hack doesn't change the relative position of the section but makes
+  // the scrollspy think this thing triggers when it's really a bit farther
+  // down the page, when it's comfortably below the navbar.
+  // only problem: final element ends early and the next element
+  // overlaps it! TODO
+  padding-top: 100px;
+  margin-top: -100px;
+
+  > .container {
+   padding-top: 2em;
+   padding-bottom: 2em;
+ }
+ */
+  // OK, we'll just resolve the hack simply and without the final-element problem
+  // and just put a fat padding between sections so the scrollspy works.
+  // this gets added to .padding-top's
+  padding-top: 90px;
+
+  > .section-content {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+}
+
+.section-dark {
+  // apply styles to the internal holder, not the section itself b/c then
+  // you get the ugly paddings
+  .section-content {
+    background-color: $primary;
+  }
+
+}
+
+
+/**
+ * MINOR RULES
+ */
+
+.navbar {
+  text-transform: uppercase !important;
+}
+
+.navbar-brand {
+  @include header-font();
+  font-size: 32px;
+}
+
+.navbar-collapse.show + .navbar-buy-form, .navbar-collapse.collapsing + .navbar-buy-form {
+  // hide the navbar buy form if the hamburger menu is either animating (collapsing)
+  // or open (show)
+  display: none;
+}
+
+
+$author_size: 200px;
+$author_half_size: $author_size / 2;
+$author_quarter_size: $author_size / 4;
+
+.author-image {
+
+  height: $author_size;
+  width: $author_size;
+
+  // we want this image to be half-overlapping the top of the parent card
+  // we want to move this image up by half its height.
+  margin-top: -1 * $author_half_size;
+}
+
+.author-image-small {
+  // on screens just big enough that the cards are side-by-side
+  // but so small that the cards are <200px wide, make the images smaller
+  height: $author_half_size;
+  width: $author_half_size;
+  margin-top: -1 * $author_quarter_size;
+}
+
+.author-card {
+  // "counteract" the upward movement of the image in .author-image
+  // by moving the contents of the author card down
+  margin-top: 100px;
+}
+
+.fast-facts {
+    h1, h2, h3, h4, h5, h6 {
+        text-align: center;
+    }
+
+    p {
+        text-align: center;
+    }
+}
+
+
+$chapter_bubble_size: 2rem;
+$chapter_border_width: 0.25rem;
+$chapter_line_width: $chapter_border_width / 2;
+$center_line_offset: $chapter_bubble_size / 2 + $chapter_line_width;
+$chapter_bubble_top_offset: 0.125rem; // depends on header level we use
+
+.chapter-line {
+  height: 100%;
+  width: 0;
+  border: $chapter_line_width solid $primary;
+  position: relative;
+  left: $center_line_offset;
+}
+
+.chapter-number-bubble {
+  width: $chapter_bubble_size;
+  height: $chapter_bubble_size;
+  border: $chapter_border_width solid $primary;
+  border-radius: $chapter_bubble_size / 2;
+
+  margin-top: $chapter_bubble_top_offset;
+
+  // solid
+  background: $primary;
+  color: $white;
+
+  // show above the center line
+  z-index: 2;
+
+  // vertical and horizontal center text
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  &:hover {
+    background-color: $white;
+    color: $primary;
+    transition: background-color 0.25s, color 0.25s;
+  }
+}
+
+.chapter-bubble-line-holder {
+  // for the first chapter, don't let the line go above the bubble
+  &:first-of-type {
+    .chapter-line-holder {
+      padding-top: $chapter_bubble_top_offset;
+    }
+  }
+
+  // for the last chapter, don't let the line go below the bubble
+  &:last-of-type {
+    .chapter-line {
+      height: $chapter_bubble_top_offset;
+    }
+  }
+}
+
+/**
+ * UTILITIES
+ */
+
+.full-height {
+  // makes en element take up 100% of parent height.
+  display: flex;
+  height: 100%;
+}
+
+.row.no-row-margins {
+  // rows have a weird negative left and right margin,
+  // which this utility class gets rid of
+  // .no-gutters is supposed to work the same way but doesn't, oddly
+  margin-left: 0;
+  margin-right: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  @include header-font();
+}
+
+.centered {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.section-super-padded {
+  padding-top: 5em;
+  padding-bottom: 5em;
+}
+
+.link-white {
+  color: $white;
+
+  &:hover {
+    color: darken($white, 15%);
+    // color: mix($white, $primary, 75%);
+  }
+}
+
+.text-white {
+  color: white;
+}
+
+.notes-container {
+  margin-top: 40px;
+}

@@ -1,0 +1,46 @@
+<!-- Footer
+      TODO: fix links-->
+<footer id="footer" class="section section-dark">
+  <div class="section-content">
+    <div class="container centered">
+      <p class="text-white">
+        Copyright &copy; 2019 Paravane Ventures.
+      </p>
+    </div>
+  </div>
+</footer>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{site.google_analytics_id}}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
+
+  gtag('config', '{{site.google_analytics_id}}');
+</script>
+
+
+<!-- Scripts -->
+<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]
+      <script src="assets/js/main.js"></script> -->
+
+<!-- START LIBRARIES -->
+<!-- jQuery -->
+<script src="https://code.jquery.com/jquery-{{site.library_versions.jquery}}.slim.min.js" crossorigin="anonymous"></script>
+<!-- Bootstrap -->
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/{{site.library_versions.bootstrap}}/js/bootstrap.min.js"></script>
+<!-- Smooth scroll -->
+<script src="https://cdn.jsdelivr.net/gh/cferdinandi/smooth-scroll@{{ site.library_versions.smoothscroll }}/dist/smooth-scroll.polyfills.min.js">
+</script>
+<!-- END LIBRARIES -->
+
+<!-- custom scripts -->
+<script src="/assets/js/main.js"></script>
+
+</body>
+
+</html>
