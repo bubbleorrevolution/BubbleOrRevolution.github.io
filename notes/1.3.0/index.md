@@ -1,9 +1,9 @@
 ---
 layout: notes
-title: Notes for the 1st Edition, 2nd Revision
+title: Notes for the 1st Edition, 3rd Revision
 ---
 
-> *Notes for the 1st Edition, 3nd Revision*
+> *Notes for the 1st Edition, 3rd Revision*
 
 ## Introduction
 
