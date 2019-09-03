@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+
+<head>
+  <title>
+    {% if page.title %}{{ page.title }} |{% endif %}
+    {{ site.name }}
+  </title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+  <meta property="og:title" content="{{ site.name }}" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="{{ site.deployed_url }}" />
+  <meta property="og:image" content="{{ site.baseurl }}{{ site.preview_image }}" />
+  <meta property="og:description" content="{{ site.description }}" />
+
+  <!-- favicon -->
+  <link rel="shortcut icon" type="image/png" href="{{ site.baseurl }}/assets/img/favicon.png">
+
+  <!-- custom styles for landing page -->
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/landing/bootstrap.min.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/landing/slick.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/landing/default.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/landing/style.css">
+
+</head>
+
+<!-- <body data-spy="scroll" data-target="#header-nav" data-offset="0"> -->
