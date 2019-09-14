@@ -27,12 +27,10 @@ layout: landing
 <!--==== HEADER PART ====-->
 <header class="header-area">
     <!-- navigation -->
-    <!-- todo: stick to top navbar -->
     <div class="navigation navigation-transparent">
         <div class="container">
             <div class="col-lg-12">
                 <nav class="navbar navbar-expand-lg">
-                    <!-- todo: brand only show when scroll down -->
                     <a href="#" class="navbar-brand d-none">
                         <img src="{{ site.baseurl }}/assets/img/landing/favicon.png" alt="Logo">
                     </a>
@@ -44,9 +42,9 @@ layout: landing
                     </button>
 
                     <div class="collapse navbar-collapse sub-menu-bar" id="navbarOne">
-                        <ul id="nav" class="navbar-nav ml-auto">
+                        <ul id="nav" class="navbar-nav ml-auto ">
                             <li class="nav-item active">
-                                <a class="page-scroll" href="#4reasons">4 Reasons</a>
+                                <a class="page-scroll" href="#4reasons">What's Inside</a>
                             </li>
                             <li class="nav-item">
                                 <a class="page-scroll" href="#team">The Team</a>
@@ -82,7 +80,7 @@ layout: landing
                         The Present and Future of Blockchain and Cryptocurrencies
                     </h1>
                     <ul class="hero-btn mt-40">
-                        <li><a class="btn main-btn align-middle mr-20" href="https://www.amazon.com/Blockchain-Bubble-Revolution-Present-Cryptocurrencies/dp/0578528150/">GET THIS BOOK</a></li>
+                        <li><a class="btn main-btn align-middle mr-20" href="https://www.amazon.com/Blockchain-Bubble-Revolution-Present-Cryptocurrencies/dp/0578528150/">GET THE BOOK</a></li>
                         <li><a class="btn secondary-btn btn-outline-primary align-middle mr-20" href="mailto:team@bubbleorrevolution.com">BUY IN BULK</a></li> 
                     </ul>
                 </div>
@@ -100,7 +98,7 @@ layout: landing
 <!--==== 4 REASONS ====-->
 <section id="4reasons" class="four-reasons pt-100" style="background-image: url({{ site.baseurl }}/assets/img/landing/section1-bg1.png)">
     <img src="{{ site.baseurl }}/assets/img/landing/section1-blur-square.png" alt="" id="blur-square">
-    <img src="{{ site.baseurl }}/assets/img/landing/section1-circle-bg.png" alt="" id="circle-bg">
+    <img src="{{ site.baseurl }}/assets/img/landing/section1-circle-bg.png" alt="" id="circle-bg" class="d-none d-md-block">
     <div class="container">
         <div class="row justify-content-center">
             <h2 class="section-title">4 Reasons to Read the Book</h2>
@@ -117,7 +115,7 @@ layout: landing
                         </div>
                         <div class="col-md-10">
                             <div class="card-body">
-                                <h2 class="card-title">Easy to understand</h2>
+                                <h2 class="card-title">No background required</h2>
                                 <p class="card-text">
                                     We explain how bitcoin and blockchain work in less than 25 pages, with no jargon or prior assumed knowledge.
                                 </p>
@@ -162,7 +160,7 @@ layout: landing
                         </div>
                         <div class="col-md-10">
                             <div class="card-body">
-                                <h2 class="card-title">Interesting case studies</h2>
+                                <h2 class="card-title">Real world case studies</h2>
                                 <p class="card-text">
                                     Based on the model that made Swipe to Unlock famous, we include case studies of real blockchain projects and their roadmaps.
                                 </p>
@@ -200,6 +198,7 @@ layout: landing
         <div class="row">
             <div class="col-lg-7 author-intro">
                 <img src="{{ site.baseurl }}/assets/img/landing/authors.png" alt="" class="d-none d-md-block">
+                <!-- <img src="{{ site.baseurl }}/assets/img/landing/authors.png" data-src="img.png" data-hover="img.gif" alt="" class="image-container" /> -->
                 <div class="author-intro-mobile d-md-none">
                     <img src="{{ site.baseurl }}/assets/img/landing/authors_1.png" alt="">
                     <img src="{{ site.baseurl }}/assets/img/landing/authors_2.png" alt="">
@@ -233,7 +232,7 @@ layout: landing
         </div>
     </div>
     <div class="container-fluid testimonial-slider mt-110">
-        <img src="{{ site.baseurl }}/assets/img/landing/section3-rectangle.png" alt="" id="gradient-rect">
+        <img src="{{ site.baseurl }}/assets/img/landing/section3-rectangle.png" alt="" class=".d-none .d-lg-block .d-xl-none" id="gradient-rect">
         <div class="row justify-content-center">
             <div class="col-md-10 col-lg-9">
                 <div id="testimonial-slider" class="testimonial-active">
@@ -281,8 +280,24 @@ layout: landing
 <!--==== EDUCATOR ====-->
 <section id="educator" class="educator">
     <div class="container-fluid">
-    
-        <img class="float-left" src="{{ site.baseurl }}/assets/img/landing/section4-left-shape.png" alt="">
+        <div class="row">
+
+            <div class="col-4 img-container">
+                <img class="" src="{{ site.baseurl }}/assets/img/landing/section4-left-shape.png" alt="">
+            </div>
+            <div class="col-md-8 col-12 educator-content">
+                <!-- <div class=" educator-content"> -->
+                    <h2 class="section-title pt-200 mb-15">Are you an educator?</h2>
+                    <p>Sign up for our mailing list to learn how Swipe to Unlock can be used in the classroom.</p>
+                    <div class="contact-form mt-30">
+                        <input type="text" placeholder="Email Address">
+                        <button type="submit" class="cta-btn">Sign Up</button>
+                    </div>
+                <!-- </div> -->
+            </div>
+
+        </div>
+        <!-- <img class="float-left" src="{{ site.baseurl }}/assets/img/landing/section4-left-shape.png" alt="">
         <div class="float-left educator-content">
                 <h2 class="section-title pt-200 mb-15">Are you an educator?</h2>
                 <p>Sign up for our mailing list to learn how Swipe to Unlock can be used in the classroom.</p>
@@ -290,7 +305,7 @@ layout: landing
                     <input type="text" placeholder="Email Address">
                     <button type="submit" class="cta-btn">Sign Up</button>
                 </div>
-        </div>
+        </div> -->
             
     </div>
     

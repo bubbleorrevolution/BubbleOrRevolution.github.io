@@ -22,18 +22,16 @@ $(function() {
     });
 
     //===== Sticky navigation when scroll up
-    
-    $(window).on('scroll',function(event) {    
-        var scroll = $(window).scrollTop();
-        if (scroll < 10) {
-            $(".navgition").removeClass("sticky");
-        } else{
-            $(".navgition").addClass("sticky");
+    $(document).scroll(function() {
+        $(".navigation").toggleClass('sticky', $(this).scrollTop() > $(window).height());
+        $(".navbar-brand").toggleClass('d-none', $(this).scrollTop() <= $(window).height());
+        $(".page-scroll").toggleClass('nav-link-scroll', $(this).scrollTop() > $(window).height());
+        if ( $(window).width() < 1024 ) {
+            $(".navbar-btn").toggleClass('d-none d-lg-block', $(this).scrollTop() > $(window).height());
         }
     });
 
     //===== Section Menu Active
-    
     var scrollLink = $('.page-scroll');
         // Active link switching
         $(window).scroll(function() {
@@ -57,7 +55,7 @@ $(function() {
         speed: 800,
         slidesToShow: 2,
         slidesToScroll: 2,
-        arrows: false,
+        // arrows: false,
         responsive: [
             {
                 breakpoint: 1024,
