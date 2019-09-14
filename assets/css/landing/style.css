@@ -640,6 +640,7 @@ input {
                     box-shadow: 0px 4px 14px rgba(0, 0, 0, 0.15);
                     -webkit-box-shadow: 0px 4px 14px rgba(0, 0, 0, 0.15);
                     -moz-box-shadow: 0px 4px 14px rgba(0, 0, 0, 0.15);
+                    border: 1px solid #eee;
                 }
                 .educator .contact-form .cta-btn {
                     position: absolute;
