@@ -5,859 +5,883 @@ title: Notes for the 1st Edition, 4th Revision
 
 > *Notes for the 1st Edition, 4th Revision*
 
-https://twitter.com/naval/status/955998687670411264?lang=en
-https://www.cnbc.com/2018/05/05/warren-buffett-says-bitcoin-is-probably-rat-poison-squared.html
-https://www.coindesk.com/the-united-nations-just-launched-its-first-large-scale-ethereum-test
-https://www.technologyreview.com/s/610806/inside-the-jordan-refugee-camp-that-runs-on-blockchain/
-https://www.technologyreview.com/s/610806/inside-the-jordan-refugee-camp-that-runs-on-blockchain/
-https://www.coindesk.com/blockchain-finally-unite-united-nations/
-https://www.technologyreview.com/s/610806/inside-the-jordan-refugee-camp-that-runs-on-blockchain/
-https://www.coindesk.com/the-united-nations-just-launched-its-first-large-scale-ethereum-test/
-https://www.technologyreview.com/s/610806/inside-the-jordan-refugee-camp-that-runs-on-blockchain/
-https://www.coindesk.com/united-nations-sends-aid-to-10000-syrian-refugees-using-ethereum-blockchain
-https://www.technologyreview.com/s/610806/inside-the-jordan-refugee-camp-that-runs-on-blockchain/
-https://www.coindesk.com/united-nations-sends-aid-to-10000-syrian-refugees-using-ethereum-blockchain/
-https://www.technologyreview.com/s/610806/inside-the-jordan-refugee-camp-that-runs-on-blockchain/
-https://hbr.org/2017/03/the-blockchain-will-do-to-banks-and-law-firms-what-the-internet-did-to-media
-https://finance.yahoo.com/news/invest-blockchain-boom-205000408.html
-https://www.vox.com/2017/11/29/16716014/bitcoin-price-10k-ethereum-blockchain-cryptocurrency-value-creation-global
-https://thenextweb.com/hardfork/2019/04/26/drug-dealers-who-relied-on-bitcoins-anonymity-get-30-years-behind-bars/
-https://www.wired.com/story/bitcoin-global-warming/
-https://www.digitaltrends.com/computing/atlanta-network-hostage-ransomware-bitcoins/
-https://money.cnn.com/2017/12/21/investing/long-island-iced-tea-bitcoin-blockchain/index.html
-https://www.bloomberg.com/news/articles/2017-12-21/crypto-craze-sees-long-island-iced-tea-rename-as-long-blockchain
-Chapter 1
-https://tim.blog/2018/06/01/the-tim-ferriss-show-transcripts-nick-szabo/  
-https://www.valuepenguin.com/what-credit-card-processing-fees-costs
-https://www.cardratings.com/processors-vs-issuers-what-consumers-should-know.html
-https://dealbook.nytimes.com/2014/10/02/jpmorgan-discovers-further-cyber-security-issues/
-https://venturebeat.com/2012/03/30/visa-mastercard-hack/
-https://www.businessinsider.com/the-worlds-unbanked-population-in-6-charts-2017-8
-https://news.bitcoin.com/bitcoin-birthday-whitepaper/
-https://bitcoin.org/en/exchanges
-https://archive.org/donate/cryptocurrency/
-https://shop.wikileaks.org/donate
-Chapter 2
-https://medium.com/s/story/how-does-the-blockchain-work-98c8cd01d2ae
-https://www.thevintagenews.com/2016/09/15/rai-stones-huge-stone-wheels-used-currency-island-yap/
-https://www.reference.com/vehicles/much-pickup-truck-weigh-43f9eb7d65d9da22
-https://commons.wikimedia.org/wiki/File:Rai_stone_%E7%9F%B3%E8%B2%A8.jpg
-https://www.thevintagenews.com/2017/12/28/rai-stones/
-https://www.npr.org/sections/money/2011/02/15/131934618/the-island-of-stone-money
-https://www.thevintagenews.com/2017/12/28/rai-stones/
-https://duckduckgo.com/?q=yap
-https://coincenter.org/entry/what-is-bitcoin-mining-and-why-is-it-necessary
-https://coincenter.org/entry/what-is-bitcoin-mining-and-why-is-it-necessary
-https://bitcoinblockhalf.com/
-https://blockgeeks.com/guides/what-is-blockchain-technology/
-Assuming 16 trillion hashes per second (TH/s) and a difficulty of 6.7 trillion (May 2019).
-https://en.bitcoin.it/wiki/Difficulty
-https://99bitcoins.com/bitcoin-mining/bitcoin-mining-calculator/
-Again estimating a difficulty of 6.7 trillion (May 2019).
-https://en.bitcoin.it/wiki/Proof_of_work
-https://en.bitcoin.it/wiki/Difficulty
-https://www.mangoresearch.co/blockchain-forks-explained/
-https://nakamotoinstitute.org/mempool/the-proof-of-work-concept/
-https://www.fromthegrapevine.com/nature/weird-history-lawns-yuval-noah-harari-homo-deus
-https://bitedge.com/blog/the-next-block-is-10-minutes-away-proving-bitcoins-poisson-block-intervals/
-https://www.coindesk.com/lower-bitcoin-block-time-scale
-https://bitcoinvisuals.com/chain-difficulty
-https://www.investopedia.com/news/what-genesis-block-bitcoin-terms/
-https://www.thetimes.co.uk/article/chancellor-alistair-darling-on-brink-of-second-bailout-for-banks-n9l382mn62h
-https://en.wikipedia.org/wiki/Alistair_Darling
-https://www.investopedia.com/news/what-genesis-block-bitcoin-terms/
-https://www.mail-archive.com/cryptography@metzdowd.com/msg09971.html
-https://www.investopedia.com/terms/s/satoshi-nakamoto.asp
-https://www.coindesk.com/information/who-is-satoshi-nakamoto/
-https://www.bloomberg.com/news/articles/2019-04-23/john-mcafee-vows-to-unmask-crypto-s-satoshi-nakamoto-within-days
-http://bitcoin.org/bitcoin.pdf
-https://blockexplorer.com/news/who-is-satoshi-nakamoto/
-https://blockonomi.com/who-is-satoshi-nakamoto/
-Chapter 3
-https://medium.com/sunrise-over-the-merkle-trees/big-picture-crypto-thoughts-e090cb05da8e
-https://bitcointalk.org/index.php?topic=137.0
-https://www.techly.com.au/2017/12/05/first-ever-bitcoin-transaction-used-buy-two-pizzas-today-worth-150-million/
-http://heliacal.net/~solar/bitcoin/pizza/.t/IMG_0984.html
-https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464345/ref=sr_1_2?keywords=homo+deus&qid=1557926905&s=gateway&sr=8-2
-http://www.mohicanpress.com/mo08017.html
-https://commons.wikimedia.org/wiki/File:Wampum_Wrist_Ornament,_Iroquois_or_Penobscot,_18th_century_AD,_shell,_fiber,_and_leather_with_metal_cross_-_Native_American_collection_-_Peabody_Museum,_Harvard_University_-_DSC01592.jpg
-http://www.mohicanpress.com/mo08017.html
-https://www.tradingview.com/symbols/BTCUSD/
-https://cryptalker.com/bitcoin-mining-end/
-https://en.bitcoin.it/wiki/Controlled_supply
-https://www.cnbc.com/2018/04/26/there-are-now-17-million-bitcoins-in-existence--only-4-million-left-to-mine.html
-https://commons.wikimedia.org/wiki/File:Total_bitcoins_over_time.png
-https://seekingalpha.com/article/4169186-depth-look-economics-bitcoin
-https://panampost.com/editor/2015/05/20/will-bitcoins-fixed-money-supply-be-its-downfall/?cn-reloaded=1
-https://www.newyorker.com/tech/annals-of-technology/the-bitcoin-boom
-https://www.wired.com/2015/04/silk-road-1/
-https://www.coindesk.com/mt-gox-first-bitcoin-exchange-dead
-https://crypto.robinhood.com/
-https://www.fool.com/investing/2017/06/06/how-to-buy-bitcoin.aspx
-https://www.bloomberg.com/news/articles/2018-08-07/bitcoin-speculators-not-drug-dealers-dominate-crypto-use-now
-https://www.cnbc.com/2017/06/23/bitcoin-speculation-markets-trading.html
-https://www.barrons.com/articles/bitcoin-spikes-but-dont-count-on-new-highs-yet-1523558787  
-https://www.marketwatch.com/story/are-you-hodling-bitcoin-2017-09-12
-https://www.investopedia.com/ask/answers/042015/how-does-money-supply-affect-inflation.asp
-https://www.investopedia.com/terms/i/inflation.asp
-https://www.thebalance.com/u-s-inflation-rate-history-by-year-and-forecast-3306093
-http://www.thepeoplehistory.com/20sfood.html
-https://bitcoin.stackexchange.com/questions/4172/are-bitcoins-really-immune-to-inflation
-https://en.wikipedia.org/wiki/Inflation
-https://www.investopedia.com/ask/answers/042015/how-does-money-supply-affect-inflation.asp
-https://www.forbes.com/sites/patrickwwatson/2018/01/29/why-bitcoin-has-inflation-risk/#6ef2fa3663c5
-http://www.coinbuzz.com/2015/03/31/23-bitcoins-mined-13-may-lost/
-https://www.investopedia.com/terms/i/inflation.asp
-https://www.skalex.io/deflationary-economics-bitcoin/
-https://www.buybitcoinworldwide.com/mining/hardware/
-https://en.bitcoin.it/wiki/Non-specialized_hardware_comparison#Intel
-It’s hard to get a good estimate of a MacBook’s hash rate, and it depends on the model, but most estimates peg it at under 1 GH/s.
-https://en.bitcoin.it/wiki/ASIC
-https://hackernoon.com/a-beginners-guide-to-mining-cryptocurrencies-on-the-mac-2c823e10060a
-https://commons.wikimedia.org/wiki/File:Cryptocurrency_Mining_Farm.jpg
-https://99bitcoins.com/20-insane-bitcoin-mining-rigs/
-http://fortune.com/2018/03/16/bitcoin-mining-cost-profitability/
-https://hackernoon.com/a-beginners-guide-to-mining-cryptocurrencies-on-the-mac-2c823e10060a
-https://miningpools.com/
-https://en.bitcoin.it/wiki/Mining_pool_reward_FAQ
-https://miningpools.com/
-https://hashflare.io/
-https://www.coindesk.com/information/cloud-mining-bitcoin-guide   
-https://www.buybitcoinworldwide.com/mining/pools/
-https://www.buybitcoinworldwide.com/mining/pools/
-https://www.techradar.com/news/best-cloud-mining-providers-of-2018
-https://www.investopedia.com/news/china-intensifies-crackdown-bitcoin-mining/
-https://www.ibtimes.co.uk/geothermal-gold-why-bitcoin-mines-are-moving-iceland-1468295
-https://cryptocurrencynews.com/daily-news/mining/cheapest-places-mining-bitcoin/
-https://commons.wikimedia.org/wiki/File:Krafla_geothermal_power_station_wiki.jpg
-https://www.investopedia.com/ask/answers/031815/why-are-there-no-profits-perfectly-competitive-market.asp
-Chapter 4
-https://www.nytimes.com/2018/07/31/opinion/transaction-costs-and-tethers-why-im-a-crypto-skeptic.html
-https://www.investopedia.com/features/crashes/crashes5.asp
-https://www.ndtv.com/business/bitcoin-prices-live-digital-coins-shed-two-third-value-in-one-month-1809096
-https://www.marketwatch.com/story/facebook-stock-crushed-after-revenue-user-growth-miss-2018-07-25
-https://www.theguardian.com/technology/2017/dec/22/bitcoin-price-plunges-2000-12-hours-year-end-rally-fizzles-out
-https://cointelegraph.com/news/bitcoin-hits-20000-per-coin-capping-year-of-enormous-growth
-https://www.nbcnews.com/business/markets/bitcoin-high-2017-decline-2018-data-n949576/
-https://www.coindesk.com/price/bitcoin
-https://www.coindesk.com/price/bitcoin
-https://www.reuters.com/article/uk-markets-bitcoin-idUSKBN1E60PE
-https://money.cnn.com/2018/09/11/investing/bitcoin-crash-victim/index.html
-https://www.independent.co.uk/life-style/gadgets-and-tech/news/bitcoin-price-rise-latest-value-usd-cryptocurrency-a8912596.html
-https://money.cnn.com/2018/09/06/technology/bitcoin-prices-plunging-goldman-sachs/index.html?iid=EL
-https://www.theguardian.com/technology/2018/jan/18/bitcoin-fluctuations-ransomware-cybercrminals-malware-developers
-https://www.ccn.com/pump-dump-know-signs-trading-altcoins/
-https://www.cnbc.com/2018/01/23/one-person-caused-bitcoin-to-spike-from-150-to-1000-in-2013.html
-https://www.forbes.com/sites/jayadkisson/2018/02/09/why-bitcoin-is-so-volatile/
-https://www.forbes.com/sites/jayadkisson/2018/02/09/why-bitcoin-is-so-volatile/
-https://www.forbes.com/sites/mitchelltuchman/2015/11/14/volatility-is-a-good-thing-seriously/#358e23e9304a
-https://www.theblockcrypto.com/2019/01/04/analysis-correlation-between-cryptocurrency-prices-sharply-increased-in-2018/
-https://en.bitcoin.it/wiki/Scalability
-https://www.blockchain.com/charts/n-transactions-per-block?daysAverageString=7
-https://en.bitcoin.it/wiki/Scalability
-https://coinguides.org/bitcoin-mempool/
-https://bitinfocharts.com/comparison/bitcoin-transactionfees.html
-https://bitinfocharts.com/comparison/bitcoin-transactionfees.html#1y
-https://news.bitcoin.com/200000-unconfirmed-transactions-pile-another-crazy-day-bitcoin/
-https://coincentral.com/how-long-do-bitcoin-transfers-take/
-https://blog.plan99.net/the-resolution-of-the-bitcoin-experiment-dabb30201f7
-https://www.blockchain.com/charts/median-confirmation-time?timespan=all
-https://en.bitcoin.it/wiki/Confirmation
-https://blog.plan99.net/the-resolution-of-the-bitcoin-experiment-dabb30201f7
-The original estimate was that Visa was 1000x faster than Bitcoin, but that was based on the old estimate of 7 transactions per second from Bitcoin. Mike Hearn now estimates that Bitcoin can handle just 3 transactions per second in practice, so Visa is more like 2000x faster than Bitcoin.
-https://www.washingtonpost.com/news/the-switch/wp/2013/11/12/bitcoin-needs-to-scale-by-a-factor-of-1000-to-compete-with-visa-heres-how-to-do-it/
-https://techcrunch.com/2014/02/06/mt-gox-temporarily-pauses-bitcoin-withdrawals/  
-https://blockonomi.com/mt-gox-hack/
-https://www.reuters.com/article/us-bitcoin-mtgox-bankruptcy-idUSBREA1R0FX20140228
-https://www.nytimes.com/2014/02/25/business/apparent-theft-at-mt-gox-shakes-bitcoin-world.html
-https://medium.com/@jimmysong/mt-gox-hack-technical-explanation-37ea5549f715
-https://gigaom.com/2014/02/24/this-could-be-the-end-of-bitcoin-leak-shows-massive-theft-at-mt-gox-price-falls-below-500-amid-pleas-for-calm/
-https://qz.com/84056/the-bitcoin-network-is-now-more-powerful-than-the-top-500-supercomputers-combined/
-A sneak preview: if a mining pool accumulates a majority of the network’s computing power (not unlikely, given how big the top few pools are), they could mount a 51% attack and rewrite the blockchain to give themselves unlimited funds.
-If a group of Bitcoin users with a majority of the network’s total computing power agree, they can make a “hard fork” of the blockchain by going back to the transaction before the theft and creating a new “branch” of the blockchain. New blocks would now be placed on a new branch, effectively making all transactions on the old branch null and void. This has been done before, but it’s always highly controversial.
-https://blockonomi.com/mt-gox-hack/
-https://www.investopedia.com/articles/active-trading/022614/bitcoin-mass-hysteria-disaster-brought-down-mt-gox.asp
-https://blockonomi.com/mt-gox-hack/
-https://medium.com/@jimmysong/mt-gox-hack-technical-explanation-37ea5549f715
-https://blockonomi.com/mt-gox-hack/
-https://blockonomi.com/mt-gox-hack/
-https://bitzuma.com/posts/a-gentle-introduction-to-bitcoin-cold-storage/
-https://bitzuma.com/posts/a-gentle-introduction-to-bitcoin-cold-storage/
-https://www.abitgreedy.com/cold-storage-wallet/
-https://blockgeeks.com/guides/cryptocurrency-wallet-guide/
-https://en.bitcoin.it/wiki/Private_key
-https://www.coindesk.com/information/paper-wallet-tutorial/
-https://bitcoinpaperwallet.com/
-https://www.flickr.com/photos/163013779@N03/39767660434
-https://hackernoon.com/what-is-a-bitcoin-hardware-wallet-and-why-you-must-use-it-3fceeae2b21
-https://commons.wikimedia.org/wiki/File:10elqpi.jpg
-https://www.investopedia.com/articles/investing/030515/what-cold-storage-bitcoin.asp
-https://www.theguardian.com/technology/2018/jan/17/bitcoin-electricity-usage-huge-climate-cryptocurrency
-https://bitinfocharts.com/comparison/bitcoin-mining_profitability.html#log
-https://www.weforum.org/agenda/2017/12/bitcoin-consume-more-power-than-world-2020/
-https://www.weforum.org/agenda/2017/10/the-electricity-required-for-a-single-bitcoin-trade-could-power-a-house-for-a-whole-month
-https://www.weforum.org/agenda/2017/12/bitcoin-consume-more-power-than-world-2020/
-https://newstarget.com/2017-12-04-bitcoin-now-consuming-more-electricity-than-12-u-s-states-as-inefficient-mining-heads-for-collapse.html
-https://www.wired.com/story/bitcoin-global-warming/  
-https://captainaltcoin.com/by-2025-bitcoin-mining-will-spend-more-energy-than-all-electric-cars-on-earth/
-https://bitcoinist.com/bitcoin-mining-renewable-coinshares/
-https://www.propublica.org/nerds/a-more-secure-and-anonymous-propublica-using-tor-hidden-services
-https://www.dailydot.com/layer8/what-is-dark-web/
-https://www.wdrb.com/news/dark-web-hides-nearly-untraceable-underground-criminal-markets/article_3110d914-a987-5501-bca4-617bf357d4cb.html
-https://brightplanet.com/2014/03/clearing-confusion-deep-web-vs-dark-web/
-https://www.quora.com/What-is-the-dark-web-1
-https://www.ibtimes.com/marijuana-lsd-now-illegal-drugs-delivered-your-doorstep-290021
-https://www.dailymail.co.uk/news/article-2503295/Silk-Road-market-selling-hard-drugs-fake-passports-online.html
-https://www.dailydot.com/crime/deep-web-murder-assassination-contract-killer/
-https://www.usatoday.com/story/news/nation/2014/09/03/stolen-credit-cards-fenced-on-the-dark-web/15020053/
-https://www.wired.com/story/alphabay-takedown-dark-web-chaos/
-https://blockonomi.com/history-of-silk-road/
-http://time.com/3673321/silk-road-dread-pirate-roberts/
-https://www.wired.com/2015/01/prosecutors-trace-13-4-million-bitcoins-silk-road-ulbrichts-laptop/
-https://www.statista.com/statistics/647523/worldwide-bitcoin-blockchain-size/
-https://en.bitcoin.it/wiki/Lightweight_node
-https://www.coindesk.com/bitcoin-nodes-need
-https://coin.dance/nodes
-https://bitcoincore.org/en/about/  
-https://coin.dance/nodes
-https://www.coindesk.com/blockstream-christopher-allen-standards-role
-https://www.nytimes.com/2017/07/25/business/dealbook/bitcoin-cash-split.html
-https://bitcoincore.org/en/team/
-https://www.theverge.com/2016/2/9/10946072/bitcoin-core-classic-software-block-size-debate
-https://www.ccn.com/bitmains-mining-pools-now-control-nearly-51-percent-of-the-bitcoin-hashrate/
-https://www.theblockcrypto.com/tiny/two-mining-pools-control-close-to-50-of-the-bitcoin-cash-hashrate/
-https://blockchain.info/pools
-https://99bitcoins.com/ghashio-promises-establish-40-hashrate-limit-prevent-51-attack/
-https://qz.com/1287701/bitcoin-golds-51-attack-is-every-cryptocurrencys-nightmare-scenario/
-https://99bitcoins.com/ghashio-promises-establish-40-hashrate-limit-prevent-51-attack/
-https://www.coindesk.com/bitcoin-cash-miners-undo-attackers-transactions-with-51-attack
-https://www.bitcoincenternyc.com/bitcoin-news/could-centralized-mining-in-china-be-bitcoins-biggest-problem/
-https://www.ccn.com/china-may-limit-bitcoin-mining-reducing-the-industrys-geographic-centralization
-http://fortune.com/2018/02/24/bitcoin-mining-bitmain-profits/
-https://qz.com/1053799/chinas-bitmain-dominates-bitcoin-mining-now-it-wants-to-cash-in-on-artificial-intelligence/
-Chapter 5
-https://qz.com/148399/ben-bernanke-bitcoin-may-hold-long-term-promise/
-https://coinmarketcap.com/all/views/all/
-https://www.reuters.com/article/us-crypto-currencies-altcoins-idUSKCN1SL0FC
-https://coinmarketcap.com/all/views/all/
-https://money.cnn.com/2017/08/01/technology/business/bitcoin-cash-new-currency/index.html
-https://www.theverge.com/2016/2/9/10946072/bitcoin-core-classic-software-block-size-debate
-https://www.coindesk.com/bitcoin-cash-plans-increase-block-size
-https://www.investopedia.com/terms/s/soft-fork.asp
-https://www.theverge.com/2017/8/1/16075276/bitcoin-cash-hard-fork-coinbase
-https://hitbtc.com/BCH-to-BTC
-https://www.bitcoinmarketjournal.com/bitcoin-sv/
-https://www.bitcoinmarketjournal.com/bitcoin-sv/
-https://cryptocurrencynews.com/bch-vs-bsv-race-continues/
-https://www.theguardian.com/technology/2019/apr/18/uber-lyft-drivers-surge-pricing-wages
-https://www.theguardian.com/technology/2019/mar/13/spotify-claim-apple-30-percent-app-store-commission-unfair-european-commission-complaint
-http://fortune.com/2017/01/04/google-facebook-ad-industry/
-https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274
-https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274
-https://blockgeeks.com/guides/dapps/
-https://www.investinblockchain.com/what-is-a-smart-contract/
-https://www.gardenguides.com/104683-orange-trees-frost.html
-https://blockgeeks.com/guides/smart-contracts/
-https://www.stateofthedapps.com/rankings
-https://medium.com/@gmcmullen/do-you-really-own-your-cryptokitties-d2731d3491a9
-https://artjoker.net/blog/how-to-make-money-with-cryptokitties/
-https://venturebeat.com/2018/08/28/cryptokitties-will-help-german-museum-explain-blockchain/
-http://fortune.com/2018/02/13/cryptokitties-ethereum-ios-launch-china-ether/
-https://www.coindesk.com/cat-fight-ethereum-users-clash-cryptokitties-congestion/
-https://www.coindesk.com/scam-or-be-scammed-ponzi-games-are-breaking-out-on-ethereum/
-https://www.ethnews.com/fomo3d-is-a-scam-still-a-scam-if-it-calls-itself-a-scam
-https://www.ethnews.com/fomo3d-is-a-scam-still-a-scam-if-it-calls-itself-a-scam
-https://www.coindesk.com/scam-or-be-scammed-ponzi-games-are-breaking-out-on-ethereum
-https://www.alt-m.org/2017/04/06/dollar-denominated-cryptocurrencies-flops-tethered-success/
-https://www.forbes.com/sites/billybambrough/2018/07/17/the-bitcoin-price-is-up-10-in-24-hours-to-over-7000-whats-pushing-it-up/
-https://www.marketwatch.com/story/bitcoin-tumbles-as-much-as-10-after-sec-delays-etf-decision-2018-08-08
-https://www.forbes.com/sites/jonathanponciano/2018/01/24/another-stablecoin-debuts-can-asset-backed-cryptocurrencies-ward-off-crypto-volatility/#55eea87972d5
-https://tether.to/faqs/
-https://www.investmentfrontier.com/2013/02/19/investors-list-countries-with-fixed-currency-exchange-rates/
-https://www.investopedia.com/video/play/how-does-currency-peg-work/
-https://wallet.tether.to/transparency
-https://www.marketwatch.com/story/law-firm-confirms-tether-was-as-of-june-1-100-backed-by-us-dollars-but-questions-remain-2018-06-20
-https://wallet.tether.to/transparency  
-https://tether.to/fees/
-https://www.alt-m.org/2017/04/06/dollar-denominated-cryptocurrencies-flops-tethered-success/
-https://www.investopedia.com/terms/c/currency_board.asp
-https://tether.to/faqs/
-https://medium.com/market-protocol/replacing-your-need-for-tether-with-decentralized-stablecoins-cbddf82bab42
-https://www.newsbtc.com/2018/03/05/havven-decentralized-stable-coin-ico-successfully-closed-raises-usd-30-million/
-https://www.synthetix.io/uploads/synthetix_whitepaper.pdf
-https://www.monero.how/how-does-monero-work-details-in-plain-english
-https://www.fool.com/investing/2017/12/27/meet-the-newest-cryptocurrency-trend-privacy-coins.aspx
-https://en.bitcoin.it/wiki/Address_reuse
-https://cryptalker.com/bitcoin-mixer/
-https://www.monero.how/why-monero-vs-bitcoin
-https://coincentral.com/privacy-coins-what-are-they-how-do-they-work-and-why-are-they-needed/
-https://www.monero.how/how-does-monero-work-details-in-plain-english
-https://www.monero.how/how-does-monero-work-details-in-plain-english
-https://www.fool.com/investing/2017/12/27/meet-the-newest-cryptocurrency-trend-privacy-coins.aspx
-https://coincentral.com/monero-vs-bitcoin/
-https://coincentral.com/monero-vs-bitcoin/
-https://coinhive.com/
-https://krebsonsecurity.com/2018/03/who-and-what-is-coinhive/
-https://www.investopedia.com/terms/c/cryptojacking.asp
-https://slate.com/technology/2018/02/what-is-cryptojacking-the-bitcoin-and-monero-mining-process-that-steals-your-computing-power-explained.html
-https://krebsonsecurity.com/2018/03/who-and-what-is-coinhive/
-Chapter 6
-https://www.mckinsey.com/industries/high-tech/our-insights/how-blockchains-could-change-the-world
-https://hackernoon.com/ten-years-in-nobody-has-come-up-with-a-use-case-for-blockchain-ee98c180100
-https://www.cbsnews.com/news/rigged-presidential-elections-hackers-demonstrate-voting-threat-old-machines/
-https://www.forbes.com/sites/thomasbrewster/2017/07/29/def-con-hacking-election-voting-machines/#15bcd4371d55
-https://www.technologyreview.com/s/506676/the-states-with-the-riskiest-voting-technology/
-https://www.schneier.com/blog/archives/2004/11/the_problem_wit.html
-https://www.washingtonpost.com/world/middle_east/turkish-voters-cast-ballots-in-election-seen-as-a-test-for-erdogan/2018/06/24/3044f63a-74b5-11e8-bda1-18e53a448a14_story.html?utm_term=.29ef3c2e1a32
-https://estoniaevoting.org/
-http://www.usatoday.com/story/tech/news/2016/01/28/internet-voting-not-ready-prime-time-security-risks/79456776/
-https://jhalderm.com/pub/papers/dcvoting-fc12.pdf
-https://techcrunch.com/2019/03/07/voatz-the-blockchain-based-voting-app-gets-another-vote-of-confidence-as-denver-agrees-to-try-it/
-https://www.investopedia.com/news/what-erc20-and-what-does-it-mean-ethereum/
-https://www.bitdegree.org/tutorials/token-vs-coin/
-https://coincentral.com/how-blockchain-voting-works-why-we-need-it/
-https://medium.com/@brodyjab/blockchain-for-government-dd5708e9d0d8
-https://www.sciencemag.org/news/2009/07/social-security-numbers-are-easy-guess
-https://www.nbcnews.com/news/us-news/russians-hacked-two-u-s-voter-databases-say-officials-n639551
-https://spectrum.ieee.org/telecom/internet/online-voting-isnt-as-flawed-as-you-thinkjust-ask-estonia
-https://coincentral.com/how-blockchain-voting-works-why-we-need-it/
-The implementation of homomorphic encryption is beyond the scope of this book — it’s something you’d study in college CS classes — but we encourage you to read more about it at the footnotes in this paragraph.
-https://www.microsoft.com/en-us/research/project/homomorphic-encryption/
-https://www.economist.com/sites/default/files/plymouth.pdf
-http://fortune.com/2018/07/03/blockchain-voting-trial-zug/
-https://www.oecd-forum.org/users/76644-charlotte-van-ooijen/posts/28703-how-blockchain-can-change-voting-the-colombian-peace-plebiscite
-https://sellercentral.amazon.com/gp/help/external/200164330?language=en-US
-https://www.theatlantic.com/technology/archive/2018/05/wish-china-cheap-stuff/560861/
-http://gawker.com/the-underground-website-where-you-can-buy-any-drug-imag-30818160
-https://www.wired.com/2015/04/silk-road-1/
-https://www.forbes.com/sites/katevinton/2014/09/08/the-feds-explain-how-they-seized-the-silk-road-servers/#26f69cf8af68
-https://commons.wikimedia.org/wiki/File:Silk_road_payment.jpg
-https://www.forbes.com/sites/katevinton/2014/09/08/the-feds-explain-how-they-seized-the-silk-road-servers/#26f69cf8af68
-https://commons.wikimedia.org/wiki/File:Silk_road_payment.jpg
-https://www.forbes.com/sites/andygreenberg/2013/10/25/fbi-says-its-seized-20-million-in-bitcoins-from-ross-ulbricht-alleged-owner-of-silk-road/#c3d35a727655
-https://www.blockchain.com/btc/address/1FfmbHfnpaZjKFvyi1okTjJJusN455paPH
-https://www.blockchain.com/btc/tx/4482ad49adb31a001c73a80e0f14d7131130d24da6040e7c2578d70835b3f9c8
-https://openbazaar.org/about/
-https://openbazaar.org/blog/which-cryptocurrencies-are-used-in-openbazaar/
-https://openbazaar.zendesk.com/hc/en-us/articles/208020193-What-is-OpenBazaar-
-https://www.lifewire.com/what-is-airdrop-how-does-it-work-1994512
-https://www.devteam.space/blog/how-to-build-online-marketplace-on-blockchain-like-openbazaar/
-https://blockchain.wtf/2018/01/web3/internet-value/openbazaar/
-https://bitseed.org/self-hosting-openbazaar/
-https://openbazaar.org/features/
-https://blockonomi.com/history-of-silk-road/
-https://arstechnica.com/tech-policy/2014/11/silk-road-2-0-infiltrated-from-the-start-sold-8m-per-month-in-drugs/
-https://www.coindesk.com/drugs-contraband-openbazaar/
-https://web.archive.org/web/20090426073628/http://www.vnunet.com/vnunet/news/2241092/yahoo-closing-geocities
-https://motherboard.vice.com/en_us/article/78xgaq/the-interplanetary-file-system-wants-to-create-a-permanent-web
-https://web.archive.org/web/20090426073628/http://www.vnunet.com/vnunet/news/2241092/yahoo-closing-geocities
-http://latimesblogs.latimes.com/technology/2009/10/geocities-closing.html
-https://gizmodo.com/all-900gb-of-geocities-will-soon-be-downloadable-5676641
-https://www.flickr.com/photos/renaissancechambara/40180580922
-https://www.theverge.com/2019/3/18/18271023/myspace-music-videos-deleted-2003-2015-server-migration
-https://www.theverge.com/2019/3/18/18271023/myspace-music-videos-deleted-2003-2015-server-migration
-http://www.slaw.ca/2015/03/16/link-rot-the-problem-is-getting-bigger-but-solutions-are-being-developed/
-https://www.ancient.eu/Odyssey/
-https://archive.org/about/faqs.php
-http://www.verizonenterprise.com/about/network/latency/
-https://blog.appdiff.com/magic-numbers-for-app-performance-45c7e3bc9e46
-https://readplaintext.com/how-ipfs-solves-the-internets-speed-of-light-problem-ab611b2a4d8e
-https://techcrunch.com/2015/10/04/why-the-internet-needs-ipfs-before-its-too-late/
-https://medium.com/coinmonks/ipfs-whitepaper-in-four-minutes-b3d5eb0e75c6
-https://en.wikipedia.org/wiki/Library_of_Alexandria
-https://www.ancient.eu/article/207/what-happened-to-the-great-library-at-alexandria/
-https://medium.com/@merunasgrincalaitis/how-to-host-your-ipfs-files-online-forever-f0c56b9b5398
-https://medium.com/@ConsenSys/an-introduction-to-ipfs-9bba4860abd0
-https://docs.ipfs.io/introduction/usage/
-https://ipfs.io/
-https://coincentral.com/filecoin-beginners-guide-largest-ever-ico/
-https://coincentral.com/filecoin-beginners-guide-largest-ever-ico/
-https://globenewswire.com/news-release/2018/01/02/1277006/0/en/Chanticleer-Holdings-to-Deploy-Mobivity-s-Blockchain-Technology-to-Power-Cryptocurrency-Rewards-Program.html
-https://munchies.vice.com/en_us/article/59wy45/a-hooters-franchisee-announced-a-cryptocurrency-rewards-program-and-its-stock-skyrocketed
-https://bitinfocharts.com/comparison/ethereum-transactionfees.html
-https://bitinfocharts.com/
-https://cryptoslate.com/decentralized-databases-blockchain-offer-new-possibilities-web/
-https://munchies.vice.com/en_us/article/59wy45/a-hooters-franchisee-announced-a-cryptocurrency-rewards-program-and-its-stock-skyrocketed
-http://blog.bandnamevault.com/post/152030821736/bandnamevaultcom-launches-groundbreaking
-https://t.co/6zFjnKWOwE
-http://blog.bandnamevault.com/post/152030821736/bandnamevaultcom-launches-groundbreaking
-https://www.uspto.gov/trademark
-https://www.theregister.co.uk/2016/10/20/is_this_the_worst_blockchain_idea_youve_ever_heard/
-https://www.theregister.co.uk/2016/10/20/is_this_the_worst_blockchain_idea_youve_ever_heard/
-https://www.theguardian.com/technology/2017/jul/26/fake-news-obama-video-trump-face2face-doctored-content
-https://www.verisign.com/en_US/website-presence/online/how-dns-works/index.xhtml
-https://www.extremetech.com/computing/109533-how-sopa-could-actually-break-the-internet
-https://dyn.com/blog/sopa-breaking-dns-parasite-stop-online-piracy/
-https://www.howtogeek.com/162092/htg-explains-how-the-great-firewall-of-china-works/
-https://thebitcoinnews.com/what-is-namecoin-nmc-beginners-guide/
-https://namecoin.org/docs/faq/
-https://cointelegraph.com/news/why-namecoin-didnt-take-off-a-cautionary-tale
-https://abuse.ch/blog/dot-bit-the-next-generation-of-bulletproof-hosting/
-https://namecoin.org/dot-bit/
-https://namecoin.org/dot-bit/browsing-instructions/
-https://namecoin.org/docs/name-owners/
-https://cointelegraph.com/news/why-namecoin-didnt-take-off-a-cautionary-tale
-https://cointelegraph.com/news/why-namecoin-didnt-take-off-a-cautionary-tale
-https://cointelegraph.com/news/why-namecoin-didnt-take-off-a-cautionary-tale
-https://cointelegraph.com/news/why-namecoin-didnt-take-off-a-cautionary-tale
-https://coinmarketcap.com/currencies/namecoin/
-Chapter 7
-https://globalblockchainsummit.com/benefits/
-http://www.chicagotribune.com/business/ct-biz-walmart-salad-growers-blockchain-20180925-story,amp.html
-http://www.chicagotribune.com/business/ct-biz-walmart-salad-growers-blockchain-20180925-story,amp.html   
-https://www.fool.com/investing/2018/09/25/walmart-goes-all-in-on-ibms-blockchain-tech.aspx  
-http://www.chicagotribune.com/business/ct-biz-walmart-salad-growers-blockchain-20180925-story,amp.html
-http://www.chicagotribune.com/business/ct-biz-walmart-salad-growers-blockchain-20180925-story,amp.html
-https://www.fool.com/investing/2018/09/25/walmart-goes-all-in-on-ibms-blockchain-tech.aspx
-https://www.fool.com/amp/investing/2018/09/30/ibm-and-microsoft-are-upgrading-walmarts-digital-s.aspx
-https://bitinfocharts.com/comparison/ethereum-transactionfees.html
-https://techcrunch.com/2018/09/24/walmart-is-betting-on-the-blockchain-to-improve-food-safety/
-https://medium.com/@lkolisko/do-we-need-mining-in-private-and-permissioned-blockchains-1a69b4c2c7a1
-https://www.ibm.com/blogs/blockchain/2017/05/the-difference-between-public-and-private-blockchain/
-https://aws.amazon.com/blockchain/
-https://www.fool.com/amp/investing/2018/09/30/ibm-and-microsoft-are-upgrading-walmarts-digital-s.aspx
-https://www.fool.com/investing/2018/09/25/walmart-goes-all-in-on-ibms-blockchain-tech.aspx
-https://bitcoinmagazine.com/articles/walmart-testing-blockchain-technology-for-supply-chain-management/
-https://www.fool.com/investing/2018/09/25/walmart-goes-all-in-on-ibms-blockchain-tech.aspx
-https://www.fool.com/investing/2018/09/25/walmart-goes-all-in-on-ibms-blockchain-tech.aspx
-https://www.forbes.com/sites/tomcoughlin/2017/05/14/wannacry-ransomware-demonstrations-the-value-of-better-security-and-backups/
-https://www.forbes.com/sites/themixingbowl/2017/10/23/the-blockchain-of-food/
-https://www.investopedia.com/terms/c/clearinghouse.asp
-https://investorjunkie.com/14202/clearing-houses/
-https://www.futuresfundamentals.org/explore-the-marketplace/the-role-of-clearing-houses/
-https://www.nacha.org/news/what-ach-quick-facts-about-automated-clearing-house-ach-network
-https://www.asx.com.au/documents/asx-news/ASX-Selects-DLT-to-Replace-CHESS-Media-Release-7December2017.pdf?ecid=O~SO~~~~chess-release~Twitter~~201712~~
-https://futurism.com/australia-stock-exchange-blockchain/
-https://futurism.com/australia-stock-exchange-blockchain/
-http://www.bbc.com/news/business-42261456
-https://blockchainapac.fintecnet.com/uploads/2/4/3/8/24384857/fintech_blockchain_report_v3.pdf
-http://www.futuresknowledge.com/knowledge-center/what-is-a-futures-clearing-house/
-http://fortune.com/2017/12/07/blockchain-technology-australian-securities-exchange-asx/
-https://cointelegraph.com/news/australian-securities-exchange-delays-planned-switch-to-blockchain-by-six-months
-https://www.nasdaq.com/article/how-will-finance-approach-the-regulation-of-blockchain-cm769389
-https://www.legalmatch.com/law-library/article/what-is-an-unconscionable-contract.html
-https://kotaku.com/heres-what-a-publishing-deal-with-ea-looks-like-1732940729
-https://customers.microsoft.com/en-us/story/microsoft-financial-operations-professional-services-azure
-https://customers.microsoft.com/en-us/story/microsoft-financial-operations-professional-services-azure
-https://bizfluent.com/list-6609066-contract-reconciliation-duties.html
-https://customers.microsoft.com/en-us/story/microsoft-financial-operations-professional-services-azure  
-https://customers.microsoft.com/en-us/story/microsoft-financial-operations-professional-services-azure
-https://customers.microsoft.com/en-us/story/microsoft-financial-operations-professional-services-azure
-https://customers.microsoft.com/en-us/story/microsoft-financial-operations-professional-services-azure
-https://customers.microsoft.com/en-us/story/microsoft-financial-operations-professional-services-azure
-https://customers.microsoft.com/en-us/story/microsoft-financial-operations-professional-services-azure
-https://customers.microsoft.com/en-us/story/microsoft-financial-operations-professional-services-azure
-https://www.dummies.com/programming/big-data/engineering/structured-data-in-a-big-data-environment/
-https://www.forbes.com/sites/jeffkauflin/2019/01/10/crypto-startups-are-fleeing-the-usthis-bill-is-trying-to-stop-them/
-Chapter 8
-https://medium.com/@MartinRosulek/14-bitcoin-quotes-by-famous-people-6e7a1a009281
-https://www.amazon.com/Blockchain-Architecture-Trust-Information-Policy/dp/0262038935
-https://www.nytimes.com/2016/11/19/business/dealbook/irs-is-seeking-tax-evaders-who-use-bitcoin.html
-https://cointelegraph.com/news/how-to-make-profit-basic-rules-for-beginners-in-bitcoin-trading
-https://seekingalpha.com/article/4109712-will-bitcoin-kill-western-union
-http://fortune.com/2017/12/14/new-bitcoin-restrictions/
-https://medium.com/blockchain-review/law-and-legislation-for-icos-6dddc12bbbb2
-https://www.cbsnews.com/news/how-shell-companies-launder-dirty-money/
-https://www.washingtonpost.com/news/politics/wp/2018/01/04/how-money-laundering-works-in-real-estate/
-https://thenextweb.com/hardfork/2018/11/26/bitcoin-money-laundering-2/
-https://bitcoinist.com/irs-says-crypto-currency-warns-tax-evasion/
-https://www.cnet.com/news/cryptocurrency-cybercrimes-mean-easy-money/
-https://beincrypto.com/two-australian-cryptocurrency-exchanges-suspended-for-alleged-drug-trafficking/
-https://www.theverge.com/2014/2/9/5395050/russia-bans-bitcoin
-https://www.cnbc.com/id/100923551
-https://www.thehindu.com/business/vietnam-bans-bitcoin/article5736019.ece
-https://www.coindesk.com/ecuador-bans-bitcoin-legislative-vote
-https://www.coindesk.com/bolivias-central-bank-bans-bitcoin-digital-currencies
-https://www.ccn.com/in-depth-bangladesh-bans-bitcoin/  
-https://www.coindesk.com/kyrgyzstan-bitcoin-payments-violate-state-law
-https://www.digitaltrends.com/cool-tech/russia-bans-bitcoin-labels-money-substitute/
-https://www.thehindu.com/business/vietnam-bans-bitcoin/article5736019.ece
-https://cointelegraph.com/news/bitcoin-banned-in-taiwan-after-billionaire-bitcoin-ransom-attempt
-https://bitcoinist.com/irs-says-crypto-currency-warns-tax-evasion/
-https://www.investopedia.com/news/china-intensifies-crackdown-bitcoin-mining/
-https://www.buybitcoinworldwide.com/mining/china/
-https://qz.com/1053799/chinas-bitmain-dominates-bitcoin-mining-now-it-wants-to-cash-in-on-artificial-intelligence/
-https://www.pcr-online.biz/retail/china-bans-bitcoin-leading-to-drop-in-value
-http://www.wsj.com/articles/in-china-cryptocurrency-sales-persist-in-the-shadows-1507109400
-https://www.investopedia.com/news/china-plans-crack-down-international-cryptocurrency-trading-its-citizens/
-https://www.investopedia.com/news/china-intensifies-crackdown-bitcoin-mining/
-https://www.investopedia.com/news/bitcoin-banned-china/
-http://fortune.com/2018/01/17/china-bitcoin-cryptocurrency-crackdown/
-https://news.bitcoin.com/a-chinese-government-controlled-bitcoin-alternative-is-reportedly-in-the-works/
-https://www.forbes.com/sites/jeffkauflin/2019/01/10/crypto-startups-are-fleeing-the-usthis-bill-is-trying-to-stop-them/#6afd3a602267
-https://www.coindesk.com/quebec-lures-cryptocurrency-miners-china-sours-industry
-http://www.mining.com/mongolia-passes-mining-friendly-law-but-106-licences-still-in-limbo-88477/
-https://slate.com/technology/2018/08/venezuela-new-bolivar-currency-petro-pr-move-not-hyperinflation-solution.html
-https://www.brookings.edu/blog/techtank/2018/03/09/venezuelas-petro-undermines-other-cryptocurrencies-and-international-sanctions/
-https://www.npr.org/sections/thetwo-way/2017/12/04/568299704/venezuela-will-create-new-petro-cryptocurrency-president-maduro-says
-https://www.reuters.com/article/us-cryptocurrency-venezuela-specialrepor/special-report-in-venezuela-new-cryptocurrency-is-nowhere-to-be-found-idUSKCN1LF15U
-https://news.bitcoin.com/venezuelans-to-be-paid-at-least-half-a-petro-a-month/
-https://arstechnica.com/tech-policy/2018/02/venezuela-says-its-cryptocurrency-raised-735-million-but-its-a-farce/  
-https://news.bitcoin.com/venezuela-considers-selling-its-oil-backed-cryptocurrency-with-a-60-discount/
-https://www.reuters.com/article/us-cryptocurrency-venezuela-specialrepor/special-report-in-venezuela-new-cryptocurrency-is-nowhere-to-be-found-idUSKCN1LF15U
-http://energy-cg.com/OPEC/Venezuela/Venezuela_OilGas_Industry.html
-https://www.reuters.com/article/us-cryptocurrency-venezuela-specialrepor/special-report-in-venezuela-new-cryptocurrency-is-nowhere-to-be-found-idUSKCN1LF15U
-https://etherscan.io/token/0xD1aC5e0B722765CbD56285C4965Adb4052bb363f
-https://arstechnica.com/tech-policy/2018/02/venezuela-says-its-cryptocurrency-raised-735-million-but-its-a-farce/
-https://slate.com/technology/2018/08/venezuela-new-bolivar-currency-petro-pr-move-not-hyperinflation-solution.html
-https://www.washingtonpost.com/news/wonk/wp/2018/03/05/venezuelas-cryptocurrency-is-one-of-the-worst-investments-ever/?noredirect=on&utm_term=.0c4d3ec91b8b
-https://www.brookings.edu/blog/techtank/2018/03/09/venezuelas-petro-undermines-other-cryptocurrencies-and-international-sanctions/
-https://www.bbc.com/news/world-latin-america-42217798
-https://www.brookings.edu/blog/techtank/2018/03/09/venezuelas-petro-undermines-other-cryptocurrencies-and-international-sanctions/
-https://www.brookings.edu/blog/techtank/2018/03/09/venezuelas-petro-undermines-other-cryptocurrencies-and-international-sanctions/
-https://www.washingtonpost.com/news/wonk/wp/2018/03/05/venezuelas-cryptocurrency-is-one-of-the-worst-investments-ever/?noredirect=on&utm_term=.0c4d3ec91b8b
-https://www.brookings.edu/blog/techtank/2018/03/09/venezuelas-petro-undermines-other-cryptocurrencies-and-international-sanctions/
-https://www.wired.co.uk/article/venezuela-petro-cryptocurrency-bolivar-scam
-https://www.investopedia.com/university/ipo/ipo1.asp
-https://www.investopedia.com/articles/investing/082614/how-stock-market-works.asp
-https://www.mahesh-vc.com/blog/5-key-advantages-of-going-public-and-what-it-takes-to-get-there
-https://www.mckinsey.com/industries/high-tech/our-insights/grow-fast-or-die-slow-why-unicorns-are-staying-private
-https://www.investopedia.com/terms/i/initial-coin-offering-ico.asp
-https://strategiccoin.com/3-types-ico-tokens/
-https://strategiccoin.com/3-types-ico-tokens/
-https://strategiccoin.com/3-types-ico-tokens/
-https://coincentral.com/filecoin-beginners-guide-largest-ever-ico/
-https://filecoin.io/filecoin.pdf  
-http://fortune.com/2017/05/20/ethereum-ico-blockchain-token/
-https://www.forbes.com/sites/laurashin/2017/10/02/are-icos-for-utility-tokens-selling-securities-prominent-crypto-players-say-yes/#1fce930e34fa
-https://www.forbes.com/sites/laurashin/2017/10/02/are-icos-for-utility-tokens-selling-securities-prominent-crypto-players-say-yes/#1fce930e34fa
-https://strategiccoin.com/3-types-ico-tokens/
-https://review.network/static/assets/whitepaper/whitepaper.pdf
-https://www.investopedia.com/terms/i/initial-coin-offering-ico.asp
-https://techcrunch.com/2017/07/25/sec-regulators-are-coming-after-icos/
-https://www.fxempire.com/education/article/ico-initial-coin-offering-work-418446
-https://www.investopedia.com/news/80-icos-are-scams-report/
-https://ethereumworldnews.com/consumers-lose-100-million-ico-exit-scams/
-https://hackernoon.com/ico-or-sto-who-wins-fd43c3ee7b8d
-https://techcrunch.com/2017/12/07/6-red-flags-of-an-ico-scam/
-https://siliconangle.com/2018/02/12/loopx-steals-4-5m-latest-initial-coin-offering-exit-scam/
-https://www.businessinsider.com/cryptocurrency-startup-loopx-vanishes-with-millions-investor-money-2018-2
-https://thenextweb.com/hardfork/2018/01/17/bitconnect-bitcoin-scam-cryptocurrency/
-https://thenextweb.com/hardfork/2017/12/01/bitconnect-ponzi-ethereum-litecoin/
-https://thenextweb.com/hardfork/2018/01/17/bitconnect-bitcoin-scam-cryptocurrency/
-https://totalcrypto.io/bitconnect-scam/
-https://thenextweb.com/hardfork/2018/01/17/bitconnect-bitcoin-scam-cryptocurrency/
-https://steemit.com/scam/@thegrinder/the-bitconnect-scam-exposed
-https://calvinayre.com/2018/07/16/bitcoin/broken-tooth-koi-backs-poker-tourney-new-crypto-token/
-https://www.crowdfundinsider.com/2018/07/136496-former-macau-gangster-broken-tooth-associated-ico-claims-to-sell-out-in-5-minutes-750-million-raised/
-http://climateerinvest.blogspot.com/2018/04/cambridge-analytica-macau-casinos.html
-https://www.forbes.com/sites/laurashin/2017/10/02/are-icos-for-utility-tokens-selling-securities-prominent-crypto-players-say-yes/#1fce930e34fa
-https://www.forbes.com/sites/laurashin/2017/10/02/are-icos-for-utility-tokens-selling-securities-prominent-crypto-players-say-yes/#1fce930e34fa
-https://www.investopedia.com/terms/h/howey-test.asp
-https://consumer.findlaw.com/securities-law/what-is-the-howey-test.html
-https://www.forbes.com/sites/laurashin/2017/10/02/are-icos-for-utility-tokens-selling-securities-prominent-crypto-players-say-yes/#1fce930e34fa
-https://hackernoon.com/ethereum-vs-ripple-xrp-which-one-is-a-better-investment-for-2019-7d02f03febd1
-https://techcrunch.com/2017/07/25/sec-regulators-are-coming-after-icos/
-https://cointelegraph.com/explained/what-is-an-sto-explained
-https://www.coinbureau.com/analysis/howey-test-cryptocurrency/
-https://techcrunch.com/2017/07/25/sec-regulators-are-coming-after-icos/
-https://themerkle.com/why-cant-us-citizens-participate-in-cryptocurrency-icos/
-https://hackernoon.com/ico-or-sto-who-wins-fd43c3ee7b8d
-https://hackernoon.com/ico-vs-sto-all-you-need-to-know-about-the-new-fundraising-method-in-the-crypto-world-54a1a43a08d6
-http://premieroffshore.com/icos-are-abandoning-us-investors/
-https://www.investopedia.com/terms/a/accreditedinvestor.asp
-https://stoanalytics.com/article/security-token-offerings-sto-regulation/
-https://stoanalytics.com/article/security-token-offerings-sto-regulation/
-https://hackernoon.com/ico-or-sto-who-wins-fd43c3ee7b8d
-https://hackernoon.com/ico-or-sto-who-wins-fd43c3ee7b8d
-https://hackernoon.com/five-sec-compliant-reg-a-stos-worth-watching-1027ed9d6c53  
-https://www.manhattanstreetcapital.com/faq/for-fundraisers/what-reg-s-or-regulation-s
-https://hackernoon.com/ico-or-sto-who-wins-fd43c3ee7b8d
-https://coincentral.com/kyc-aml/
-https://support.coinbase.com/customer/en/portal/articles/1220621-identity-verification
-https://support.coinbase.com/customer/en/portal/articles/1220621-identity-verification
-https://www.forbes.com/sites/jayadkisson/2018/01/29/bitcoin-cryptocurrency-and-the-government-regulation-paradox/#2542cb813531
-https://www.bitcoinmarketjournal.com/ico-investment-strategy/
-https://cryptoslate.com/the-security-token-offering-sto-its-a-trap/
-Chapter 9
-https://www.intelligenthq.com/finance/12-bitcoin-and-blockchain-thoughts-and-quotes-you-need-to-read/
-https://www.forbes.com/sites/bernardmarr/2018/08/15/23-fascinating-bitcoin-and-blockchain-quotes-everyone-should-read/#425cbc317e8a
-https://www.bloomberg.com/news/articles/2018-12-21/facebook-is-said-to-develop-stablecoin-for-whatsapp-transfers
-https://www.investopedia.com/terms/r/remittance.asp
-https://www.cnbc.com/2019/06/05/facebook-cryptocurrency-coming-in-june-report.html?utm_source=share&utm_medium=ios_app&utm_name=ios_share_flow_optimization&utm_term=control_2
-https://www.cnbc.com/2019/06/05/facebook-cryptocurrency-coming-in-june-report.html?utm_source=share&utm_medium=ios_app&utm_name=ios_share_flow_optimization&utm_term=control_2
-https://www.cnbc.com/2019/06/05/facebook-cryptocurrency-coming-in-june-report.html?utm_source=share&utm_medium=ios_app&utm_name=ios_share_flow_optimization&utm_term=control_2
-https://www.bbc.com/news/business-48383460
-https://technode.com/2018/02/18/wechat-hongbao-2018/
-http://shanghaiist.com/2014/01/07/wechat_expands_into_the_taxi-hailin/
-https://www.travelchinacheaper.com/using-wechat-alipay-china-expat-guide
-https://thenextweb.com/opinion/2015/03/25/facebook-has-officially-declared-it-wants-to-own-every-single-thing-you-do-on-the-internet/
-https://www.tekedia.com/facebook-groups-to-become-africas-1-ecommerce-platform/
-https://www.lifewire.com/pay-facebook-friends-with-messenger-4146438
-https://techcrunch.com/2016/10/03/facebook-marketplace-2/
-https://techcrunch.com/2015/06/02/adstagram/
-https://www.nerdwallet.com/blog/banking/ach-transfers-costs-send-money-banks-online/
-https://www.bankrate.com/finance/checking/where-to-buy-checks-save-money.aspx
-https://squareup.com/guides/credit-card-processing-fees-and-rates   
-https://www.theguardian.com/money/2018/dec/09/banking-swift-money-transfer-worldwide-delay
-http://www.worldbank.org/en/news/press-release/2015/12/18/international-migrants-and-remittances-continue-to-grow-as-people-search-for-better-opportunities-new-report-finds
-https://www.moneyandbanking.com/commentary/2018/2/18/the-stubbornly-high-cost-of-remittances
-https://medium.com/quoineglobal/how-fast-can-your-crypto-exchange-process-bitcoin-deposits-11e02f73e9e8
-https://bitinfocharts.com/comparison/bitcoin-transactionfees.html
-https://www.nytimes.com/2018/04/21/world/asia/facebook-sri-lanka-riots.html
-https://www.bbc.com/news/business-48383460
-https://www.bbc.co.uk/programmes/w3csw8dd
-https://www.bbc.com/news/business-48383460
-https://www.investopedia.com/terms/f/facebook-credits.asp
-https://www.cnbc.com/2019/06/05/facebook-cryptocurrency-coming-in-june-report.html?utm_source=share&utm_medium=ios_app&utm_name=ios_share_flow_optimization&utm_term=control_2
-https://everestcrypto.com/facebooks-david-marcus-to-lead-new-blockchain-research-unit/
-https://www.theverge.com/interface/2019/3/6/18253922/facebook-privacy-meaning-implications-mark-zuckerberg-pivot-analysis-interface-casey-newton
-https://bitcoinemag.com/monero-price-analysis-despite-the-volatility-xmr-is-holding-the-bullish-trend-and-will-soon-cross-100-mark-cryptonewsz/
-https://futurism.com/americoin-this-idea-tokenize-us-dollar-compelling-thorny
-https://www.thebalance.com/open-market-operations-3306121  
-https://www.interfluidity.com/uploads/2016/03/ethereumsv-fiat-money-to-share.pdf
-https://smartlands.io/news/why-asset-tokenization-is-the-strongest-cryptocurrency-trend-right-now/
-https://futurism.com/americoin-this-idea-tokenize-us-dollar-compelling-thorny
-https://www.reuters.com/article/us-usa-banks-cobol-idUSKBN17C0D8
-http://mentalfloss.com/article/12715/why-did-us-abandon-gold-standard
-https://www.bbc.com/news/business-48383460
-https://www.investopedia.com/articles/personal-finance/050214/credit-vs-debit-cards-which-better.asp
-https://techcrunch.com/2019/04/16/zengo-wants-to-become-the-crypto-wallet-for-the-masses/
-https://currencies.fandom.com/wiki/United_States_100,000_dollar_banknote
-https://upload.wikimedia.org/wikipedia/commons/5/53/US100000dollarsbillobverse.jpg
-https://www.zerohedge.com/news/2017-05-22/why-chinese-yuan-wont-be-worlds-reserve-currency
-https://www.investopedia.com/terms/r/reservecurrency.asp
-https://gbtimes.com/imf-adds-chinese-yuan-basket-reserve-currencies
-https://www.investopedia.com/terms/r/reservecurrency.asp
-https://www.investopedia.com/terms/r/reservecurrency.asp
-https://www.investopedia.com/terms/r/reservecurrency.asp
-https://www.investopedia.com/trading/chinese-devaluation-yuan/
-https://www.cnn.com/2015/08/12/china/china-currency-explainer/index.html
-https://www.investopedia.com/articles/investing/090215/3-reasons-why-countries-devalue-their-currency.asp
-https://www.brookings.edu/opinions/what-you-may-not-know-about-china-and-currency-manipulation/
-https://www.macrotrends.net/2575/us-dollar-yuan-exchange-rate-historical-chart
-https://www.investopedia.com/trading/chinese-devaluation-yuan/
-https://www.cnbc.com/2017/09/04/chinese-icos-china-bans-fundraising-through-initial-coin-offerings-report-says.html
-https://www.cnbc.com/2017/09/18/cryptocurrencies-major-bitcoin-conference-flees-as-china-cracks-down.html
-https://www.bitnewslive.net/2018/12/18/a-chinese-government-controlled-bitcoin-alternative-is-reportedly-in-the-works/?doing_wp_cron=1560040758.9327719211578369140625
-https://futurism.com/china-becomes-first-countrchina-becomes-first-country-in-the-world-to-test-a-national-cryptocurrencyy-to-test-national-cryptocurrency
-https://www.forbes.com/sites/realspin/2017/10/18/china-is-africas-biggest-economic-partner-but-what-role-for-the-united-states/
-https://www.brookings.edu/opinions/combating-african-currency-volatility-from-the-wests-debt-crisis/
-https://beebom.com/examples-of-internet-of-things-technology/
-https://www.zdnet.com/article/the-five-industries-leading-the-iot-revolution/
-https://commons.wikimedia.org/wiki/File:NestLearningThermostat2.JPG
-https://www.cmswire.com/internet-of-things/6-security-issues-that-will-dominate-iot-in-2019/
-https://www.lifewire.com/is-your-baby-monitor-being-hacked-2487802
-https://blog.radware.com/security/2018/05/7-craziest-iot-device-hacks/
-https://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/
-https://www.zdnet.com/article/why-the-internet-of-things-is-the-next-target-for-ransomware/
-https://www.i-scoop.eu/blockchain-distributed-ledger-technology/blockchain-iot/
-https://www.iotforall.com/iiot-devices-change-manufacturing-industry/
-https://www.i-scoop.eu/blockchain-distributed-ledger-technology/blockchain-iot/
-https://blog.plan99.net/the-resolution-of-the-bitcoin-experiment-dabb30201f7
-https://www.coindesk.com/information/will-ethereum-scale
-https://bitinfocharts.com/comparison/bitcoin-transactionfees.html
-Technically known as a directed acyclic graph, or DAG.
-https://blog.iota.org/a-primer-on-iota-with-presentation-e0a6eb2cc621
-https://forum.iota.org/t/iota-consensus-masterclass/1193
-https://blog.iota.org/a-primer-on-iota-with-presentation-e0a6eb2cc621
-https://uk.farnell.com/does-the-iot-really-need-the-internet
-https://securityledger.com/2016/03/blockchain-or-tangle-securing-transactions-on-the-iot-bitcoinist-net/
-https://techcrunch.com/2018/11/28/amazon-gets-into-the-blockchain-with-quantum-ledger-database-managed-blockchain/
-https://aws.amazon.com/qldb/
-Chapter 10
-https://www.independent.co.uk/news/business/news/bitcoin-fraud-tulip-bulbs-jpmorgan-ceo-jamie-dimon-bank-investor-crypto-currency-a7943986.html
-https://twitter.com/lloydblankfein/status/915277671831044098
-https://www.newsbtc.com/2019/05/21/cameron-winklevoss-on-crypto-not-investing-in-the-future-of-money-is-crazy/
-https://www.trustnodes.com/2018/03/06/brazilian-state-bank-tokenize-brazilian-real-ethereums-public-blockchain
-https://bitcoinmagazine.com/articles/future-here-singapore-tokenizes-fiat-currency-blockchain/
-https://medium.com/@HenryInnis/why-crypto-currency-is-a-return-to-the-gold-standard-method-of-exchange-b53ec930b6d2
-https://www.thebalance.com/what-is-the-gold-standard-3306137
-https://medium.com/coinmonks/the-most-expensive-lesson-of-my-life-details-of-sim-port-hack-35de11517124?sk=4c29b27bacb2eff038ec8fe4d40cd615
-https://www.coininsider.com/stablecoins/
-http://fortune.com/2016/07/12/financial-literacy/
-https://www0.gsb.columbia.edu/faculty/fmishkin/PDFpapers/IF98.pdf
-https://research.stlouisfed.org/publications/review/2018/02/13/is-bitcoin-a-waste-of-resources/
-https://www.thebalance.com/open-market-operations-3306121
-https://www.fool.com/investing/general/2015/12/06/fiat-currency-what-it-is-and-why-its-better-than-a.aspx
-https://www.cbsnews.com/news/is-there-gold-in-fort-knox/
-https://www.fool.com/investing/general/2015/12/06/fiat-currency-what-it-is-and-why-its-better-than-a.aspx
-https://bitcoinist.com/50-bitcoin-transactions-fees-long-gone-bitcoins-eventual-fate/
-https://www.businessinsider.com/venezuela-inflation-rate-hyperinflation-2018-11
-https://www.economicshelp.org/blog/390/inflation/hyper-inflation-in-zimbabwe/
-https://en.wikipedia.org/wiki/Zimbabwean_dollar#/media/File:Zimbabwe_$100_trillion_2009_Obverse.jpg
-https://www.theatlantic.com/international/archive/2016/05/zimbabwe-money/481518/
-https://blockmanity.com/news/bitcoin/300-mn-worth-bitcoin-transferred-fees-just-4-cents/
-https://www.thesimpledollar.com/banking/ach-transfer-how-much-does-it-cost-to-send-money-between-banks/
-https://www.coindesk.com/information/will-ethereum-scale
-https://blog.plan99.net/the-resolution-of-the-bitcoin-experiment-dabb30201f7
-https://www.coindesk.com/information/will-ethereum-scale
-https://cryptoheroes.ch/five-cryptocurrencies-to-watch-in-2019/
-https://thenextweb.com/hardfork/2018/11/01/eos-blockchain-benchmark/
-https://www.marketwatch.com/story/bitcoins-are-the-best-investment-in-my-retirement-account-2016-06-17
-https://www.investopedia.com/investing/understanding-cryptocurrency-etfs/
-https://www.nytimes.com/2018/05/02/technology/bitcoin-goldman-sachs.html
-https://www.cnbc.com/2017/11/21/jpmorgan-reportedly-getting-into-bitcoin-futures-trading.html
-https://www.investopedia.com/terms/f/futures.asp
-https://www.ccn.com/institutional-crypto-adoption-grows-but-will-big-banks-make-a-splash-in-2019
-https://www.raconteur.net/technology/kyc-aml-save-cryptocurrencies
-https://www.cnbc.com/2018/04/25/nasdaq-is-open-to-becoming-cryptocurrency-exchange-ceo-says.html
-https://www.investopedia.com/terms/i/institutionalinvestor.asp
-https://www.coindesk.com/follow-leader-analyzing-bitcoin-cryptocurrency-price-correlations
-https://www.wsj.com/articles/the-crypto-crime-wave-is-here-1524753366
-https://azure.microsoft.com/en-us/solutions/blockchain/
-https://aws.amazon.com/blockchain/
-https://www.oracle.com/cloud/blockchain/
-https://www.bloomberg.com/news/articles/2016-09-23/google-cloud-joins-amazon-ibm-in-serving-blockchain-clients
-https://www.wired.com/2017/03/fed-proof-online-market-openbazaar-going-anonymous/
-https://achainofblocks.com/2019/02/07/zero-knowledge-proofs-zcash-explained/
-https://whitepaperdatabase.com/zcash-zec-whitepaper/
-https://www.bloomberg.com/news/articles/2016-09-23/google-cloud-joins-amazon-ibm-in-serving-blockchain-clients
-http://p2pfoundation.ning.com/forum/topics/bitcoin-open-source
-https://www.weforum.org/agenda/2017/07/blockchain-the-ledger-that-will-record-everything-of-value/
-https://hackernoon.com/the-pinnacle-of-blockchain-technology-the-decentralized-man-1fcfba4d7d88
-https://www.cbc.ca/news/technology/ethereum-hack-blockchain-fork-bitcoin-1.3719009
-https://www.leewayhertz.com/blockchain-in-agriculture/
-https://www.forbes.com/sites/louiscolumbus/2018/10/28/how-blockchain-can-improve-manufacturing-in-2019/#6843e2e95db6
-https://techinsiderinfo.com/blockchain/how-blockchain-can-improve-the-aviation-industry/
-https://www.forbes.com/sites/davidblack/2019/02/09/private-blockchain-is-like-living-on-a-suburban-street-in-a-tent/#413774df419b
-https://www.tradingview.com/symbols/BTCUSD/
+## Introduction
 
-Glossary
-https://www.investopedia.com/terms/1/51-attack.asp
-https://www.investopedia.com/terms/a/aml.asp
-https://medium.com/coinmonks/how-a-pruned-ethereum-node-can-fully-verify-the-blockchain-bbe9f29663ed
-https://blog.slock.it/how-to-not-run-an-ethereum-archive-node-a-journey-d038b4da398b
-https://cryptocurrencyfacts.com/asic-mining-basics/
-https://github.com/ethereum/wiki/wiki/White-Paper#mining-centralization
-https://www.investopedia.com/terms/a/asset.asp
-https://medium.com/nakamo-to/what-is-base58-c6c2db7808f3
-https://en.wikipedia.org/wiki/Bitcoin_Core
-https://cointelegraph.com/lightning-network-101/what-is-lightning-network-and-how-it-works#how-does-it-work
-https://www.coindesk.com/bitcoins-network-congestion-in-3-charts-transactions-blocks-fees
-https://blockexplorer.com/
-https://www.bitcoinmining.com/what-is-the-bitcoin-block-reward/
-https://www.techopedia.com/definition/32914/block-size-bitcoin
-https://bitedge.com/blog/the-next-block-is-10-minutes-away-proving-bitcoins-poisson-block-intervals/
-https://krebsonsecurity.com/2018/03/who-and-what-is-coinhive/
-https://krebsonsecurity.com/2019/02/crytpo-mining-service-coinhive-to-call-it-quits/
-https://www.investopedia.com/articles/investing/030515/what-cold-storage-bitcoin.asp
-http://cpucoinlist.com/
-https://www.investopedia.com/tech/explaining-crypto-cryptocurrency/
-https://bitcoinist.com/the-pirate-bay-resumes-cryptojacking-but-should-it-even-be-an-issue/
-https://cryptojackingtest.com/
-https://www.coindesk.com/information/what-is-a-dao-ethereum
-https://blocklr.com/guides/what-is-a-dapp-dapps/
-https://www.investopedia.com/terms/d/deflation.asp
-https://www.instantssl.com/digital-signature
-https://101blockchains.com/distributed-ledger-technology-dlt/
-https://www.investopedia.com/terms/d/doublespending.asp
-https://www.investopedia.com/news/what-erc20-and-what-does-it-mean-ethereum/
-https://eidoo.io/erc20-tokens-list
-https://cointelegraph.com/explained/escrow-explained
-https://www.investopedia.com/terms/e/etf.asp
-https://www.bitcoinmarketjournal.com/cryptocurrency-etfs/
-https://blockgeeks.com/guides/ethereum-gas/
-https://www.coindesk.com/short-guide-bitcoin-forks-explained
-https://www.binance.vision/blockchain/what-are-nodes
-https://www.cryptocompare.com/coins/guides/what-is-the-gas-in-ethereum/
-https://en.bitcoin.it/wiki/Genesis_block
-https://www.techradar.com/news/best-mining-gpu
-https://bitcoinblockhalf.com/
-https://www.coindesk.com/information/hard-fork-vs-soft-fork
-https://coinsutra.com/best-hardware-wallet-bitcoin/
-https://www.lifewire.com/cryptographic-hash-function-2625832
-https://en.bitcoin.it/wiki/Hashcash
-https://www.lifewire.com/cryptographic-hash-function-2625832
-https://coinsutra.com/hash-rate-or-hash-power/
-https://coinsutra.com/hodl-popular-cryptocurrency-terms/
-https://fintab.io/blog/cryptocurrency-wallets-cold-and-hot-storage/
-https://www.investopedia.com/terms/h/howey-test.asp
-https://fortune.com/2017/07/26/sec-icos/
-Technically, you could hard fork the blockchain and create a new blockchain that excluded a certain transaction, but then it’d become a new blockchain — and, if we’re dealing with money, a new cryptocurrency. Nobody would accept the new blockchain as legitimate, so you wouldn’t actually earn any money.
-https://www.investopedia.com/terms/i/inflation.asp
-https://techcrunch.com/2015/10/04/why-the-internet-needs-ipfs-before-its-too-late/
-https://hackernoon.com/kyc-aml-and-cryptocurrencies-4e4cf929c151
-https://cointelegraph.com/lightning-network-101/what-is-lightning-network-and-how-it-works#how-does-it-work
-https://en.bitcoin.it/wiki/Lightweight_node
-https://www.investopedia.com/terms/l/liquidity.asp
-https://masterthecrypto.com/mainnet-vs-testnet-whats-the-difference/
-https://blockonomi.com/merkle-tree/
-https://www.investopedia.com/terms/m/micropayment.asp
-https://cryptopotato.com/what-is-mimblewimble-the-complete-beginners-guide/
-https://coincenter.org/entry/what-is-bitcoin-mining-and-why-is-it-necessary
-https://coincenter.org/entry/what-is-bitcoin-mining-and-why-is-it-necessary
-https://30btc.com/information/how-to-mine-bitcoins-solo.html
-https://www.investopedia.com/investing/federal-reserve-monetary-policy/
-https://www.thoughtco.com/demand-for-money-economics-definition-1146301
-https://www.investopedia.com/terms/m/moneysupply.asp
-https://en.bitcoin.it/wiki/Multisignature
-https://www.coindesk.com/bitcoin-nodes-need
-https://coincentral.com/nfts-non-fungible-tokens/
-https://openbazaar.org/
-https://themerkle.com/us-dollar-vs-usdt/
-https://bornonjuly4.me/2017/01/10/blockchain-what-is-permissioned-vs-permissionless/
-https://coincentral.com/privacy-coins-what-are-they-how-do-they-work-and-why-are-they-needed/
-https://blockgeeks.com/guides/proof-of-work-vs-proof-of-stake/
-https://cointelegraph.com/explained/proof-of-work-explained
-https://en.wikipedia.org/wiki/Reserve_currency#Global_currency_reserves
-https://en.bitcoin.it/wiki/Satoshi_(unit)
-https://www.sec.gov/
-https://fortune.com/2017/07/26/sec-icos/
-https://www.coindesk.com/information/what-is-segwit
-https://en.bitcoin.it/wiki/SHA-256
-https://www.theblockcrypto.com/2018/10/17/crypto-simplified-explaining-sidechains/
-https://ongoingoperations.com/2013/04/29/what-is-single-point-of-failure/
-https://www.coindesk.com/bitcoin-milestones-silk-road-goes-dark-bitcoin-survives-its-biggest-markets-demise
-https://www.coindesk.com/information/ethereum-smart-contracts-work
-https://www.investopedia.com/terms/s/soft-fork.asp
-https://medium.com/@jonaldfyookball/why-every-bitcoin-user-should-understand-spv-security-520d1d45e0b9
-https://www.investopedia.com/terms/s/stealth-address-cryptocurrency.asp
-https://bitcoinexchangeguide.com/what-is-a-security-token-offering-sto-different-ico-regulations/
-https://etherconverter.online/
-https://www.cryptocompare.com/coins/guides/what-is-the-gas-in-ethereum/
-https://blog.iota.org/the-tangle-an-illustrated-introduction-4d5eae6fe8d4
-https://hackernoon.com/iota-the-tangle-the-future-backbone-of-the-iot-e7e417d5d86b
-https://masterthecrypto.com/mainnet-vs-testnet-whats-the-difference/
-https://www.coindesk.com/information/what-is-a-dao-ethereum
-https://www.wired.com/2016/06/50-million-hack-just-showed-dao-human/
-https://cointelegraph.com/explained/tokenization-explained
-https://eidoo.io/erc20-tokens-list
-https://cointelegraph.com/explained/tokenization-explained  
-https://thecryptopouch.com/fastest-cryptocurrency-speeds-tps-2018/
-https://www.fool.com/investing/2018/03/30/which-cryptocurrencies-have-the-lowest-transaction.aspx
-https://hackernoon.com/ethereum-turing-completeness-and-rich-statefulness-explained-e650db7fc1fb
-https://thebitcoinmag.com/turing-completeness-ethereum/1712/
-https://komodoplatform.com/whats-utxo/
-https://www.blockchain.com/btc/address/1Archive1n2C579dMsAu3iC6tWzuQJz8dN
-https://vante.me/#!/order/start
-https://bitcoinexchangeguide.com/cryptocurrency-volatility/
-https://coincentral.com/cryptocurrency-white-paper/
-https://blockonomi.com/zero-knowledge-proofs/
-https://coincentral.com/what-is-bat/
-https://www.cnet.com/news/twitter-users-now-can-send-receive-tips-with-brave-browser/
-https://www.publish0x.com/twicecrypto/binance-genius-passion-xmmpln
-https://www.bitcoinmarketjournal.com/bitcoin-sv/
-https://coinmarketcap.com/currencies/bitcoin-gold/
-https://qz.com/1287701/bitcoin-golds-51-attack-is-every-cryptocurrencys-nightmare-scenario/
-https://99bitcoins.com/ghashio-promises-establish-40-hashrate-limit-prevent-51-attack/
-https://www.worldcoinindex.com/coin/dash
-https://www.coinbase.com/price/dogecoin
-https://knowyourmeme.com/memes/dogecoin
-https://www.theguardian.com/technology/2014/jan/20/jamaican-bobsled-team-raises-dogecoin-winter-olympics
-https://coinswitch.co/info/eos/what-is-eos
-https://coincentral.com/ethereum-classic-vs-ethereum/
-https://www.cryptocompare.com/coins/guides/what-is-the-gas-in-ethereum/
-https://coinmarketcap.com/currencies/chainlink/
-https://coincentral.com/what-is-litecoin/
-https://blog.iota.org/the-tangle-an-illustrated-introduction-4d5eae6fe8d4
-https://makerdao.com/en/whitepaper/#debt-and-collateral-auctions-multi-collateral-dai
-https://xbt.net/guides/ethereum-guides/what-is-the-enterprise-ethereum-alliance-eea/
-https://coincodex.com/crypto/neo/?period=7D
-https://cryptoslate.com/tron/
-https://coincentral.com/trx-beginners-guide/
-https://tether.to/faqs/
-https://coincentral.com/what-is-tether/
-https://nemflash.io/nem-price-prediction-2018-invest-crypto-volatility/
-https://www.investinblockchain.com/what-is-nem/
-https://nem.io/technology/
-http://ekmair.ukma.edu.ua/bitstream/handle/123456789/14628/Technical_comparison_aspects_of_leading_blockchain_based.pdf?sequence=1&isAllowed=y
-https://www.stellar.org/how-it-works/stellar-basics/#how-it-works
-https://cryptobriefing.com/what-is-stellar-introduction-to-xlm/
-https://blockonomi.com/how-to-mine-monero/
-https://www.monero.how/how-does-monero-privacy-work
-https://hackerbits.com/programming/what-is-cryptojacking/
-https://www.coindesk.com/10-things-you-need-to-know-about-ripple
-https://ripple.com/files/ripple_vision.pdf
-https://hackernoon.com/the-curious-tale-of-tezos-from-a-232-million-ico-to-4-class-action-lawsuits-6f411b7aad7e
-https://z.cash/
+1. https://twitter.com/naval/status/955998687670411264?lang=en
+1. https://www.cnbc.com/2018/05/05/warren-buffett-says-bitcoin-is-probably-rat-poison-squared.html
+1. https://www.coindesk.com/the-united-nations-just-launched-its-first-large-scale-ethereum-test
+1. https://www.technologyreview.com/s/610806/inside-the-jordan-refugee-camp-that-runs-on-blockchain/
+1. https://www.technologyreview.com/s/610806/inside-the-jordan-refugee-camp-that-runs-on-blockchain/
+1. https://www.coindesk.com/blockchain-finally-unite-united-nations/
+1. https://www.technologyreview.com/s/610806/inside-the-jordan-refugee-camp-that-runs-on-blockchain/
+1. https://www.coindesk.com/the-united-nations-just-launched-its-first-large-scale-ethereum-test/
+1. https://www.technologyreview.com/s/610806/inside-the-jordan-refugee-camp-that-runs-on-blockchain/
+1. https://www.coindesk.com/united-nations-sends-aid-to-10000-syrian-refugees-using-ethereum-blockchain
+1. https://www.technologyreview.com/s/610806/inside-the-jordan-refugee-camp-that-runs-on-blockchain/
+1. https://www.coindesk.com/united-nations-sends-aid-to-10000-syrian-refugees-using-ethereum-blockchain/
+1. https://www.technologyreview.com/s/610806/inside-the-jordan-refugee-camp-that-runs-on-blockchain/
+1. https://hbr.org/2017/03/the-blockchain-will-do-to-banks-and-law-firms-what-the-internet-did-to-media
+1. https://finance.yahoo.com/news/invest-blockchain-boom-205000408.html
+1. https://www.vox.com/2017/11/29/16716014/bitcoin-price-10k-ethereum-blockchain-cryptocurrency-value-creation-global
+1. https://thenextweb.com/hardfork/2019/04/26/drug-dealers-who-relied-on-bitcoins-anonymity-get-30-years-behind-bars/
+1. https://www.wired.com/story/bitcoin-global-warming/
+1. https://www.digitaltrends.com/computing/atlanta-network-hostage-ransomware-bitcoins/
+1. https://money.cnn.com/2017/12/21/investing/long-island-iced-tea-bitcoin-blockchain/index.html
+1. https://www.bloomberg.com/news/articles/2017-12-21/crypto-craze-sees-long-island-iced-tea-rename-as-long-blockchain
+
+## Chapter 1
+
+1. https://tim.blog/2018/06/01/the-tim-ferriss-show-transcripts-nick-szabo/  
+1. https://www.valuepenguin.com/what-credit-card-processing-fees-costs
+1. https://www.cardratings.com/processors-vs-issuers-what-consumers-should-know.html
+1. https://dealbook.nytimes.com/2014/10/02/jpmorgan-discovers-further-cyber-security-issues/
+1. https://venturebeat.com/2012/03/30/visa-mastercard-hack/
+1. https://www.businessinsider.com/the-worlds-unbanked-population-in-6-charts-2017-8
+1. https://news.bitcoin.com/bitcoin-birthday-whitepaper/
+1. https://bitcoin.org/en/exchanges
+1. https://archive.org/donate/cryptocurrency/
+1. https://shop.wikileaks.org/donate
+
+
+## Chapter 2
+
+1. https://medium.com/s/story/how-does-the-blockchain-work-98c8cd01d2ae
+1. https://www.thevintagenews.com/2016/09/15/rai-stones-huge-stone-wheels-used-currency-island-yap/
+1. https://www.reference.com/vehicles/much-pickup-truck-weigh-43f9eb7d65d9da22
+1. https://commons.wikimedia.org/wiki/File:Rai_stone_%E7%9F%B3%E8%B2%A8.jpg
+1. https://www.thevintagenews.com/2017/12/28/rai-stones/
+1. https://www.npr.org/sections/money/2011/02/15/131934618/the-island-of-stone-money
+1. https://www.thevintagenews.com/2017/12/28/rai-stones/
+1. https://duckduckgo.com/?q=yap
+1. https://coincenter.org/entry/what-is-bitcoin-mining-and-why-is-it-necessary
+1. https://coincenter.org/entry/what-is-bitcoin-mining-and-why-is-it-necessary
+1. https://bitcoinblockhalf.com/
+1. https://blockgeeks.com/guides/what-is-blockchain-technology/
+1. Assuming 16 trillion hashes per second (TH/s) and a difficulty of 6.7 trillion (May 2019).
+1. https://en.bitcoin.it/wiki/Difficulty
+1. https://99bitcoins.com/bitcoin-mining/bitcoin-mining-calculator/
+1. Again estimating a difficulty of 6.7 trillion (May 2019).
+1. https://en.bitcoin.it/wiki/Proof_of_work
+1. https://en.bitcoin.it/wiki/Difficulty
+1. https://www.mangoresearch.co/blockchain-forks-explained/
+1. https://nakamotoinstitute.org/mempool/the-proof-of-work-concept/
+1. https://www.fromthegrapevine.com/nature/weird-history-lawns-yuval-noah-harari-homo-deus
+1. https://bitedge.com/blog/the-next-block-is-10-minutes-away-proving-bitcoins-poisson-block-intervals/
+1. https://www.coindesk.com/lower-bitcoin-block-time-scale
+1. https://bitcoinvisuals.com/chain-difficulty
+1. https://www.investopedia.com/news/what-genesis-block-bitcoin-terms/
+1. https://www.thetimes.co.uk/article/chancellor-alistair-darling-on-brink-of-second-bailout-for-banks-n9l382mn62h
+1. https://en.wikipedia.org/wiki/Alistair_Darling
+1. https://www.investopedia.com/news/what-genesis-block-bitcoin-terms/
+1. https://www.mail-archive.com/cryptography@metzdowd.com/msg09971.html
+1. https://www.investopedia.com/terms/s/satoshi-nakamoto.asp
+1. https://www.coindesk.com/information/who-is-satoshi-nakamoto/
+1. https://www.bloomberg.com/news/articles/2019-04-23/john-mcafee-vows-to-unmask-crypto-s-satoshi-nakamoto-within-days
+1. http://bitcoin.org/bitcoin.pdf
+1. https://blockexplorer.com/news/who-is-satoshi-nakamoto/
+1. https://blockonomi.com/who-is-satoshi-nakamoto/
+
+## Chapter 3
+
+1. https://medium.com/sunrise-over-the-merkle-trees/big-picture-crypto-thoughts-e090cb05da8e
+1. https://bitcointalk.org/index.php?topic=137.0
+1. https://www.techly.com.au/2017/12/05/first-ever-bitcoin-transaction-used-buy-two-pizzas-today-worth-150-million/
+1. http://heliacal.net/~solar/bitcoin/pizza/.t/IMG_0984.html
+1. https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464345/ref=sr_1_2?keywords=homo+deus&qid=1557926905&s=gateway&sr=8-2
+1. http://www.mohicanpress.com/mo08017.html
+1. https://commons.wikimedia.org/wiki/File:Wampum_Wrist_Ornament,_Iroquois_or_Penobscot,_18th_century_AD,_shell,_fiber,_and_leather_with_metal_cross_-_Native_American_collection_-_Peabody_Museum,_Harvard_University_-_DSC01592.jpg
+1. http://www.mohicanpress.com/mo08017.html
+1. https://www.tradingview.com/symbols/BTCUSD/
+1. https://cryptalker.com/bitcoin-mining-end/
+1. https://en.bitcoin.it/wiki/Controlled_supply
+1. https://www.cnbc.com/2018/04/26/there-are-now-17-million-bitcoins-in-existence--only-4-million-left-to-mine.html
+1. https://commons.wikimedia.org/wiki/File:Total_bitcoins_over_time.png
+1. https://seekingalpha.com/article/4169186-depth-look-economics-bitcoin
+1. https://panampost.com/editor/2015/05/20/will-bitcoins-fixed-money-supply-be-its-downfall/?cn-reloaded=1
+1. https://www.newyorker.com/tech/annals-of-technology/the-bitcoin-boom
+1. https://www.wired.com/2015/04/silk-road-1/
+1. https://www.coindesk.com/mt-gox-first-bitcoin-exchange-dead
+1. https://crypto.robinhood.com/
+1. https://www.fool.com/investing/2017/06/06/how-to-buy-bitcoin.aspx
+1. https://www.bloomberg.com/news/articles/2018-08-07/bitcoin-speculators-not-drug-dealers-dominate-crypto-use-now
+1. https://www.cnbc.com/2017/06/23/bitcoin-speculation-markets-trading.html
+1. https://www.barrons.com/articles/bitcoin-spikes-but-dont-count-on-new-highs-yet-1523558787  
+1. https://www.marketwatch.com/story/are-you-hodling-bitcoin-2017-09-12
+1. https://www.investopedia.com/ask/answers/042015/how-does-money-supply-affect-inflation.asp
+1. https://www.investopedia.com/terms/i/inflation.asp
+1. https://www.thebalance.com/u-s-inflation-rate-history-by-year-and-forecast-3306093
+1. http://www.thepeoplehistory.com/20sfood.html
+1. https://bitcoin.stackexchange.com/questions/4172/are-bitcoins-really-immune-to-inflation
+1. https://en.wikipedia.org/wiki/Inflation
+1. https://www.investopedia.com/ask/answers/042015/how-does-money-supply-affect-inflation.asp
+1. https://www.forbes.com/sites/patrickwwatson/2018/01/29/why-bitcoin-has-inflation-risk/#6ef2fa3663c5
+1. http://www.coinbuzz.com/2015/03/31/23-bitcoins-mined-13-may-lost/
+1. https://www.investopedia.com/terms/i/inflation.asp
+1. https://www.skalex.io/deflationary-economics-bitcoin/
+1. https://www.buybitcoinworldwide.com/mining/hardware/
+1. https://en.bitcoin.it/wiki/Non-specialized_hardware_comparison#Intel
+1. It’s hard to get a good estimate of a MacBook’s hash rate, and it depends on the model, but most estimates peg it at under 1 GH/s.
+1. https://en.bitcoin.it/wiki/ASIC
+1. https://hackernoon.com/a-beginners-guide-to-mining-cryptocurrencies-on-the-mac-2c823e10060a
+1. https://commons.wikimedia.org/wiki/File:Cryptocurrency_Mining_Farm.jpg
+1. https://99bitcoins.com/20-insane-bitcoin-mining-rigs/
+1. http://fortune.com/2018/03/16/bitcoin-mining-cost-profitability/
+1. https://hackernoon.com/a-beginners-guide-to-mining-cryptocurrencies-on-the-mac-2c823e10060a
+1. https://miningpools.com/
+1. https://en.bitcoin.it/wiki/Mining_pool_reward_FAQ
+1. https://miningpools.com/
+1. https://hashflare.io/
+1. https://www.coindesk.com/information/cloud-mining-bitcoin-guide   
+1. https://www.buybitcoinworldwide.com/mining/pools/
+1. https://www.buybitcoinworldwide.com/mining/pools/
+1. https://www.techradar.com/news/best-cloud-mining-providers-of-2018
+1. https://www.investopedia.com/news/china-intensifies-crackdown-bitcoin-mining/
+1. https://www.ibtimes.co.uk/geothermal-gold-why-bitcoin-mines-are-moving-iceland-1468295
+1. https://cryptocurrencynews.com/daily-news/mining/cheapest-places-mining-bitcoin/
+1. https://commons.wikimedia.org/wiki/File:Krafla_geothermal_power_station_wiki.jpg
+1. https://www.investopedia.com/ask/answers/031815/why-are-there-no-profits-perfectly-competitive-market.asp
+
+## Chapter 4
+
+1. https://www.nytimes.com/2018/07/31/opinion/transaction-costs-and-tethers-why-im-a-crypto-skeptic.html
+1. https://www.investopedia.com/features/crashes/crashes5.asp
+1. https://www.ndtv.com/business/bitcoin-prices-live-digital-coins-shed-two-third-value-in-one-month-1809096
+1. https://www.marketwatch.com/story/facebook-stock-crushed-after-revenue-user-growth-miss-2018-07-25
+1. https://www.theguardian.com/technology/2017/dec/22/bitcoin-price-plunges-2000-12-hours-year-end-rally-fizzles-out
+1. https://cointelegraph.com/news/bitcoin-hits-20000-per-coin-capping-year-of-enormous-growth
+1. https://www.nbcnews.com/business/markets/bitcoin-high-2017-decline-2018-data-n949576/
+1. https://www.coindesk.com/price/bitcoin
+1. https://www.coindesk.com/price/bitcoin
+1. https://www.reuters.com/article/uk-markets-bitcoin-idUSKBN1E60PE
+1. https://money.cnn.com/2018/09/11/investing/bitcoin-crash-victim/index.html
+1. https://www.independent.co.uk/life-style/gadgets-and-tech/news/bitcoin-price-rise-latest-value-usd-cryptocurrency-a8912596.html
+1. https://money.cnn.com/2018/09/06/technology/bitcoin-prices-plunging-goldman-sachs/index.html?iid=EL
+1. https://www.theguardian.com/technology/2018/jan/18/bitcoin-fluctuations-ransomware-cybercrminals-malware-developers
+1. https://www.ccn.com/pump-dump-know-signs-trading-altcoins/
+1. https://www.cnbc.com/2018/01/23/one-person-caused-bitcoin-to-spike-from-150-to-1000-in-2013.html
+1. https://www.forbes.com/sites/jayadkisson/2018/02/09/why-bitcoin-is-so-volatile/
+1. https://www.forbes.com/sites/jayadkisson/2018/02/09/why-bitcoin-is-so-volatile/
+1. https://www.forbes.com/sites/mitchelltuchman/2015/11/14/volatility-is-a-good-thing-seriously/#358e23e9304a
+1. https://www.theblockcrypto.com/2019/01/04/analysis-correlation-between-cryptocurrency-prices-sharply-increased-in-2018/
+1. https://en.bitcoin.it/wiki/Scalability
+1. https://www.blockchain.com/charts/n-transactions-per-block?daysAverageString=7
+1. https://en.bitcoin.it/wiki/Scalability
+1. https://coinguides.org/bitcoin-mempool/
+1. https://bitinfocharts.com/comparison/bitcoin-transactionfees.html
+1. https://bitinfocharts.com/comparison/bitcoin-transactionfees.html#1y
+1. https://news.bitcoin.com/200000-unconfirmed-transactions-pile-another-crazy-day-bitcoin/
+1. https://coincentral.com/how-long-do-bitcoin-transfers-take/
+1. https://blog.plan99.net/the-resolution-of-the-bitcoin-experiment-dabb30201f7
+1. https://www.blockchain.com/charts/median-confirmation-time?timespan=all
+1. https://en.bitcoin.it/wiki/Confirmation
+1. https://blog.plan99.net/the-resolution-of-the-bitcoin-experiment-dabb30201f7
+1. The original estimate was that Visa was 1000x faster than Bitcoin, but that was based on the old estimate of 7 transactions per second from Bitcoin. Mike Hearn now estimates that Bitcoin can handle just 3 transactions per second in practice, so Visa is more like 2000x faster than Bitcoin.
+1. https://www.washingtonpost.com/news/the-switch/wp/2013/11/12/bitcoin-needs-to-scale-by-a-factor-of-1000-to-compete-with-visa-heres-how-to-do-it/
+1. https://techcrunch.com/2014/02/06/mt-gox-temporarily-pauses-bitcoin-withdrawals/  
+1. https://blockonomi.com/mt-gox-hack/
+1. https://www.reuters.com/article/us-bitcoin-mtgox-bankruptcy-idUSBREA1R0FX20140228
+1. https://www.nytimes.com/2014/02/25/business/apparent-theft-at-mt-gox-shakes-bitcoin-world.html
+1. https://medium.com/@jimmysong/mt-gox-hack-technical-explanation-37ea5549f715
+1. https://gigaom.com/2014/02/24/this-could-be-the-end-of-bitcoin-leak-shows-massive-theft-at-mt-gox-price-falls-below-500-amid-pleas-for-calm/
+1. https://qz.com/84056/the-bitcoin-network-is-now-more-powerful-than-the-top-500-supercomputers-combined/
+1. A sneak preview: if a mining pool accumulates a majority of the network’s computing power (not unlikely, given how big the top few pools are), they could mount a 51% attack and rewrite the blockchain to give themselves unlimited funds.
+1. If a group of Bitcoin users with a majority of the network’s total computing power agree, they can make a “hard fork” of the blockchain by going back to the transaction before the theft and creating a new “branch” of the blockchain. New blocks would now be placed on a new branch, effectively making all transactions on the old branch null and void. This has been done before, but it’s always highly controversial.
+1. https://blockonomi.com/mt-gox-hack/
+1. https://www.investopedia.com/articles/active-trading/022614/bitcoin-mass-hysteria-disaster-brought-down-mt-gox.asp
+1. https://blockonomi.com/mt-gox-hack/
+1. https://medium.com/@jimmysong/mt-gox-hack-technical-explanation-37ea5549f715
+1. https://blockonomi.com/mt-gox-hack/
+1. https://blockonomi.com/mt-gox-hack/
+1. https://bitzuma.com/posts/a-gentle-introduction-to-bitcoin-cold-storage/
+1. https://bitzuma.com/posts/a-gentle-introduction-to-bitcoin-cold-storage/
+1. https://www.abitgreedy.com/cold-storage-wallet/
+1. https://blockgeeks.com/guides/cryptocurrency-wallet-guide/
+1. https://en.bitcoin.it/wiki/Private_key
+1. https://www.coindesk.com/information/paper-wallet-tutorial/
+1. https://bitcoinpaperwallet.com/
+1. https://www.flickr.com/photos/163013779@N03/39767660434
+1. https://hackernoon.com/what-is-a-bitcoin-hardware-wallet-and-why-you-must-use-it-3fceeae2b21
+1. https://commons.wikimedia.org/wiki/File:10elqpi.jpg
+1. https://www.investopedia.com/articles/investing/030515/what-cold-storage-bitcoin.asp
+1. https://www.theguardian.com/technology/2018/jan/17/bitcoin-electricity-usage-huge-climate-cryptocurrency
+1. https://bitinfocharts.com/comparison/bitcoin-mining_profitability.html#log
+1. https://www.weforum.org/agenda/2017/12/bitcoin-consume-more-power-than-world-2020/
+1. https://www.weforum.org/agenda/2017/10/the-electricity-required-for-a-single-bitcoin-trade-could-power-a-house-for-a-whole-month
+1. https://www.weforum.org/agenda/2017/12/bitcoin-consume-more-power-than-world-2020/
+1. https://newstarget.com/2017-12-04-bitcoin-now-consuming-more-electricity-than-12-u-s-states-as-inefficient-mining-heads-for-collapse.html
+1. https://www.wired.com/story/bitcoin-global-warming/  
+1. https://captainaltcoin.com/by-2025-bitcoin-mining-will-spend-more-energy-than-all-electric-cars-on-earth/
+1. https://bitcoinist.com/bitcoin-mining-renewable-coinshares/
+1. https://www.propublica.org/nerds/a-more-secure-and-anonymous-propublica-using-tor-hidden-services
+1. https://www.dailydot.com/layer8/what-is-dark-web/
+1. https://www.wdrb.com/news/dark-web-hides-nearly-untraceable-underground-criminal-markets/article_3110d914-a987-5501-bca4-617bf357d4cb.html
+1. https://brightplanet.com/2014/03/clearing-confusion-deep-web-vs-dark-web/
+1. https://www.quora.com/What-is-the-dark-web-1
+1. https://www.ibtimes.com/marijuana-lsd-now-illegal-drugs-delivered-your-doorstep-290021
+1. https://www.dailymail.co.uk/news/article-2503295/Silk-Road-market-selling-hard-drugs-fake-passports-online.html
+1. https://www.dailydot.com/crime/deep-web-murder-assassination-contract-killer/
+1. https://www.usatoday.com/story/news/nation/2014/09/03/stolen-credit-cards-fenced-on-the-dark-web/15020053/
+1. https://www.wired.com/story/alphabay-takedown-dark-web-chaos/
+1. https://blockonomi.com/history-of-silk-road/
+1. http://time.com/3673321/silk-road-dread-pirate-roberts/
+1. https://www.wired.com/2015/01/prosecutors-trace-13-4-million-bitcoins-silk-road-ulbrichts-laptop/
+1. https://www.statista.com/statistics/647523/worldwide-bitcoin-blockchain-size/
+1. https://en.bitcoin.it/wiki/Lightweight_node
+1. https://www.coindesk.com/bitcoin-nodes-need
+1. https://coin.dance/nodes
+1. https://bitcoincore.org/en/about/  
+1. https://coin.dance/nodes
+1. https://www.coindesk.com/blockstream-christopher-allen-standards-role
+1. https://www.nytimes.com/2017/07/25/business/dealbook/bitcoin-cash-split.html
+1. https://bitcoincore.org/en/team/
+1. https://www.theverge.com/2016/2/9/10946072/bitcoin-core-classic-software-block-size-debate
+1. https://www.ccn.com/bitmains-mining-pools-now-control-nearly-51-percent-of-the-bitcoin-hashrate/
+1. https://www.theblockcrypto.com/tiny/two-mining-pools-control-close-to-50-of-the-bitcoin-cash-hashrate/
+1. https://blockchain.info/pools
+1. https://99bitcoins.com/ghashio-promises-establish-40-hashrate-limit-prevent-51-attack/
+1. https://qz.com/1287701/bitcoin-golds-51-attack-is-every-cryptocurrencys-nightmare-scenario/
+1. https://99bitcoins.com/ghashio-promises-establish-40-hashrate-limit-prevent-51-attack/
+1. https://www.coindesk.com/bitcoin-cash-miners-undo-attackers-transactions-with-51-attack
+1. https://www.bitcoincenternyc.com/bitcoin-news/could-centralized-mining-in-china-be-bitcoins-biggest-problem/
+1. https://www.ccn.com/china-may-limit-bitcoin-mining-reducing-the-industrys-geographic-centralization
+1. http://fortune.com/2018/02/24/bitcoin-mining-bitmain-profits/
+1. https://qz.com/1053799/chinas-bitmain-dominates-bitcoin-mining-now-it-wants-to-cash-in-on-artificial-intelligence/
+
+## Chapter 5
+
+1. https://qz.com/148399/ben-bernanke-bitcoin-may-hold-long-term-promise/
+1. https://coinmarketcap.com/all/views/all/
+1. https://www.reuters.com/article/us-crypto-currencies-altcoins-idUSKCN1SL0FC
+1. https://coinmarketcap.com/all/views/all/
+1. https://money.cnn.com/2017/08/01/technology/business/bitcoin-cash-new-currency/index.html
+1. https://www.theverge.com/2016/2/9/10946072/bitcoin-core-classic-software-block-size-debate
+1. https://www.coindesk.com/bitcoin-cash-plans-increase-block-size
+1. https://www.investopedia.com/terms/s/soft-fork.asp
+1. https://www.theverge.com/2017/8/1/16075276/bitcoin-cash-hard-fork-coinbase
+1. https://hitbtc.com/BCH-to-BTC
+1. https://www.bitcoinmarketjournal.com/bitcoin-sv/
+1. https://www.bitcoinmarketjournal.com/bitcoin-sv/
+1. https://cryptocurrencynews.com/bch-vs-bsv-race-continues/
+1. https://www.theguardian.com/technology/2019/apr/18/uber-lyft-drivers-surge-pricing-wages
+1. https://www.theguardian.com/technology/2019/mar/13/spotify-claim-apple-30-percent-app-store-commission-unfair-european-commission-complaint
+1. http://fortune.com/2017/01/04/google-facebook-ad-industry/
+1. https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274
+1. https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274
+1. https://blockgeeks.com/guides/dapps/
+1. https://www.investinblockchain.com/what-is-a-smart-contract/
+1. https://www.gardenguides.com/104683-orange-trees-frost.html
+1. https://blockgeeks.com/guides/smart-contracts/
+1. https://www.stateofthedapps.com/rankings
+1. https://medium.com/@gmcmullen/do-you-really-own-your-cryptokitties-d2731d3491a9
+1. https://artjoker.net/blog/how-to-make-money-with-cryptokitties/
+1. https://venturebeat.com/2018/08/28/cryptokitties-will-help-german-museum-explain-blockchain/
+1. http://fortune.com/2018/02/13/cryptokitties-ethereum-ios-launch-china-ether/
+1. https://www.coindesk.com/cat-fight-ethereum-users-clash-cryptokitties-congestion/
+1. https://www.coindesk.com/scam-or-be-scammed-ponzi-games-are-breaking-out-on-ethereum/
+1. https://www.ethnews.com/fomo3d-is-a-scam-still-a-scam-if-it-calls-itself-a-scam
+1. https://www.ethnews.com/fomo3d-is-a-scam-still-a-scam-if-it-calls-itself-a-scam
+1. https://www.coindesk.com/scam-or-be-scammed-ponzi-games-are-breaking-out-on-ethereum
+1. https://www.alt-m.org/2017/04/06/dollar-denominated-cryptocurrencies-flops-tethered-success/
+1. https://www.forbes.com/sites/billybambrough/2018/07/17/the-bitcoin-price-is-up-10-in-24-hours-to-over-7000-whats-pushing-it-up/
+1. https://www.marketwatch.com/story/bitcoin-tumbles-as-much-as-10-after-sec-delays-etf-decision-2018-08-08
+1. https://www.forbes.com/sites/jonathanponciano/2018/01/24/another-stablecoin-debuts-can-asset-backed-cryptocurrencies-ward-off-crypto-volatility/#55eea87972d5
+1. https://tether.to/faqs/
+1. https://www.investmentfrontier.com/2013/02/19/investors-list-countries-with-fixed-currency-exchange-rates/
+1. https://www.investopedia.com/video/play/how-does-currency-peg-work/
+1. https://wallet.tether.to/transparency
+1. https://www.marketwatch.com/story/law-firm-confirms-tether-was-as-of-june-1-100-backed-by-us-dollars-but-questions-remain-2018-06-20
+1. https://wallet.tether.to/transparency  
+1. https://tether.to/fees/
+1. https://www.alt-m.org/2017/04/06/dollar-denominated-cryptocurrencies-flops-tethered-success/
+1. https://www.investopedia.com/terms/c/currency_board.asp
+1. https://tether.to/faqs/
+1. https://medium.com/market-protocol/replacing-your-need-for-tether-with-decentralized-stablecoins-cbddf82bab42
+1. https://www.newsbtc.com/2018/03/05/havven-decentralized-stable-coin-ico-successfully-closed-raises-usd-30-million/
+1. https://www.synthetix.io/uploads/synthetix_whitepaper.pdf
+1. https://www.monero.how/how-does-monero-work-details-in-plain-english
+1. https://www.fool.com/investing/2017/12/27/meet-the-newest-cryptocurrency-trend-privacy-coins.aspx
+1. https://en.bitcoin.it/wiki/Address_reuse
+1. https://cryptalker.com/bitcoin-mixer/
+1. https://www.monero.how/why-monero-vs-bitcoin
+1. https://coincentral.com/privacy-coins-what-are-they-how-do-they-work-and-why-are-they-needed/
+1. https://www.monero.how/how-does-monero-work-details-in-plain-english
+1. https://www.monero.how/how-does-monero-work-details-in-plain-english
+1. https://www.fool.com/investing/2017/12/27/meet-the-newest-cryptocurrency-trend-privacy-coins.aspx
+1. https://coincentral.com/monero-vs-bitcoin/
+1. https://coincentral.com/monero-vs-bitcoin/
+1. https://coinhive.com/
+1. https://krebsonsecurity.com/2018/03/who-and-what-is-coinhive/
+1. https://www.investopedia.com/terms/c/cryptojacking.asp
+1. https://slate.com/technology/2018/02/what-is-cryptojacking-the-bitcoin-and-monero-mining-process-that-steals-your-computing-power-explained.html
+1. https://krebsonsecurity.com/2018/03/who-and-what-is-coinhive/
+
+## Chapter 6
+
+1. https://www.mckinsey.com/industries/high-tech/our-insights/how-blockchains-could-change-the-world
+1. https://hackernoon.com/ten-years-in-nobody-has-come-up-with-a-use-case-for-blockchain-ee98c180100
+1. https://www.cbsnews.com/news/rigged-presidential-elections-hackers-demonstrate-voting-threat-old-machines/
+1. https://www.forbes.com/sites/thomasbrewster/2017/07/29/def-con-hacking-election-voting-machines/#15bcd4371d55
+1. https://www.technologyreview.com/s/506676/the-states-with-the-riskiest-voting-technology/
+1. https://www.schneier.com/blog/archives/2004/11/the_problem_wit.html
+1. https://www.washingtonpost.com/world/middle_east/turkish-voters-cast-ballots-in-election-seen-as-a-test-for-erdogan/2018/06/24/3044f63a-74b5-11e8-bda1-18e53a448a14_story.html?utm_term=.29ef3c2e1a32
+1. https://estoniaevoting.org/
+1. http://www.usatoday.com/story/tech/news/2016/01/28/internet-voting-not-ready-prime-time-security-risks/79456776/
+1. https://jhalderm.com/pub/papers/dcvoting-fc12.pdf
+1. https://techcrunch.com/2019/03/07/voatz-the-blockchain-based-voting-app-gets-another-vote-of-confidence-as-denver-agrees-to-try-it/
+1. https://www.investopedia.com/news/what-erc20-and-what-does-it-mean-ethereum/
+1. https://www.bitdegree.org/tutorials/token-vs-coin/
+1. https://coincentral.com/how-blockchain-voting-works-why-we-need-it/
+1. https://medium.com/@brodyjab/blockchain-for-government-dd5708e9d0d8
+1. https://www.sciencemag.org/news/2009/07/social-security-numbers-are-easy-guess
+1. https://www.nbcnews.com/news/us-news/russians-hacked-two-u-s-voter-databases-say-officials-n639551
+1. https://spectrum.ieee.org/telecom/internet/online-voting-isnt-as-flawed-as-you-thinkjust-ask-estonia
+1. https://coincentral.com/how-blockchain-voting-works-why-we-need-it/
+1. The implementation of homomorphic encryption is beyond the scope of this book — it’s something you’d study in college CS classes — but we encourage you to read more about it at the footnotes in this paragraph.
+1. https://www.microsoft.com/en-us/research/project/homomorphic-encryption/
+1. https://www.economist.com/sites/default/files/plymouth.pdf
+1. http://fortune.com/2018/07/03/blockchain-voting-trial-zug/
+1. https://www.oecd-forum.org/users/76644-charlotte-van-ooijen/posts/28703-how-blockchain-can-change-voting-the-colombian-peace-plebiscite
+1. https://sellercentral.amazon.com/gp/help/external/200164330?language=en-US
+1. https://www.theatlantic.com/technology/archive/2018/05/wish-china-cheap-stuff/560861/
+1. http://gawker.com/the-underground-website-where-you-can-buy-any-drug-imag-30818160
+1. https://www.wired.com/2015/04/silk-road-1/
+1. https://www.forbes.com/sites/katevinton/2014/09/08/the-feds-explain-how-they-seized-the-silk-road-servers/#26f69cf8af68
+1. https://commons.wikimedia.org/wiki/File:Silk_road_payment.jpg
+1. https://www.forbes.com/sites/katevinton/2014/09/08/the-feds-explain-how-they-seized-the-silk-road-servers/#26f69cf8af68
+1. https://commons.wikimedia.org/wiki/File:Silk_road_payment.jpg
+1. https://www.forbes.com/sites/andygreenberg/2013/10/25/fbi-says-its-seized-20-million-in-bitcoins-from-ross-ulbricht-alleged-owner-of-silk-road/#c3d35a727655
+1. https://www.blockchain.com/btc/address/1FfmbHfnpaZjKFvyi1okTjJJusN455paPH
+1. https://www.blockchain.com/btc/tx/4482ad49adb31a001c73a80e0f14d7131130d24da6040e7c2578d70835b3f9c8
+1. https://openbazaar.org/about/
+1. https://openbazaar.org/blog/which-cryptocurrencies-are-used-in-openbazaar/
+1. https://openbazaar.zendesk.com/hc/en-us/articles/208020193-What-is-OpenBazaar-
+1. https://www.lifewire.com/what-is-airdrop-how-does-it-work-1994512
+1. https://www.devteam.space/blog/how-to-build-online-marketplace-on-blockchain-like-openbazaar/
+1. https://blockchain.wtf/2018/01/web3/internet-value/openbazaar/
+1. https://bitseed.org/self-hosting-openbazaar/
+1. https://openbazaar.org/features/
+1. https://blockonomi.com/history-of-silk-road/
+1. https://arstechnica.com/tech-policy/2014/11/silk-road-2-0-infiltrated-from-the-start-sold-8m-per-month-in-drugs/
+1. https://www.coindesk.com/drugs-contraband-openbazaar/
+1. https://web.archive.org/web/20090426073628/http://www.vnunet.com/vnunet/news/2241092/yahoo-closing-geocities
+1. https://motherboard.vice.com/en_us/article/78xgaq/the-interplanetary-file-system-wants-to-create-a-permanent-web
+1. https://web.archive.org/web/20090426073628/http://www.vnunet.com/vnunet/news/2241092/yahoo-closing-geocities
+1. http://latimesblogs.latimes.com/technology/2009/10/geocities-closing.html
+1. https://gizmodo.com/all-900gb-of-geocities-will-soon-be-downloadable-5676641
+1. https://www.flickr.com/photos/renaissancechambara/40180580922
+1. https://www.theverge.com/2019/3/18/18271023/myspace-music-videos-deleted-2003-2015-server-migration
+1. https://www.theverge.com/2019/3/18/18271023/myspace-music-videos-deleted-2003-2015-server-migration
+1. http://www.slaw.ca/2015/03/16/link-rot-the-problem-is-getting-bigger-but-solutions-are-being-developed/
+1. https://www.ancient.eu/Odyssey/
+1. https://archive.org/about/faqs.php
+1. http://www.verizonenterprise.com/about/network/latency/
+1. https://blog.appdiff.com/magic-numbers-for-app-performance-45c7e3bc9e46
+1. https://readplaintext.com/how-ipfs-solves-the-internets-speed-of-light-problem-ab611b2a4d8e
+1. https://techcrunch.com/2015/10/04/why-the-internet-needs-ipfs-before-its-too-late/
+1. https://medium.com/coinmonks/ipfs-whitepaper-in-four-minutes-b3d5eb0e75c6
+1. https://en.wikipedia.org/wiki/Library_of_Alexandria
+1. https://www.ancient.eu/article/207/what-happened-to-the-great-library-at-alexandria/
+1. https://medium.com/@merunasgrincalaitis/how-to-host-your-ipfs-files-online-forever-f0c56b9b5398
+1. https://medium.com/@ConsenSys/an-introduction-to-ipfs-9bba4860abd0
+1. https://docs.ipfs.io/introduction/usage/
+1. https://ipfs.io/
+1. https://coincentral.com/filecoin-beginners-guide-largest-ever-ico/
+1. https://coincentral.com/filecoin-beginners-guide-largest-ever-ico/
+1. https://globenewswire.com/news-release/2018/01/02/1277006/0/en/Chanticleer-Holdings-to-Deploy-Mobivity-s-Blockchain-Technology-to-Power-Cryptocurrency-Rewards-Program.html
+1. https://munchies.vice.com/en_us/article/59wy45/a-hooters-franchisee-announced-a-cryptocurrency-rewards-program-and-its-stock-skyrocketed
+1. https://bitinfocharts.com/comparison/ethereum-transactionfees.html
+1. https://bitinfocharts.com/
+1. https://cryptoslate.com/decentralized-databases-blockchain-offer-new-possibilities-web/
+1. https://munchies.vice.com/en_us/article/59wy45/a-hooters-franchisee-announced-a-cryptocurrency-rewards-program-and-its-stock-skyrocketed
+1. http://blog.bandnamevault.com/post/152030821736/bandnamevaultcom-launches-groundbreaking
+1. https://t.co/6zFjnKWOwE
+1. http://blog.bandnamevault.com/post/152030821736/bandnamevaultcom-launches-groundbreaking
+1. https://www.uspto.gov/trademark
+1. https://www.theregister.co.uk/2016/10/20/is_this_the_worst_blockchain_idea_youve_ever_heard/
+1. https://www.theregister.co.uk/2016/10/20/is_this_the_worst_blockchain_idea_youve_ever_heard/
+1. https://www.theguardian.com/technology/2017/jul/26/fake-news-obama-video-trump-face2face-doctored-content
+1. https://www.verisign.com/en_US/website-presence/online/how-dns-works/index.xhtml
+1. https://www.extremetech.com/computing/109533-how-sopa-could-actually-break-the-internet
+1. https://dyn.com/blog/sopa-breaking-dns-parasite-stop-online-piracy/
+1. https://www.howtogeek.com/162092/htg-explains-how-the-great-firewall-of-china-works/
+1. https://thebitcoinnews.com/what-is-namecoin-nmc-beginners-guide/
+1. https://namecoin.org/docs/faq/
+1. https://cointelegraph.com/news/why-namecoin-didnt-take-off-a-cautionary-tale
+1. https://abuse.ch/blog/dot-bit-the-next-generation-of-bulletproof-hosting/
+1. https://namecoin.org/dot-bit/
+1. https://namecoin.org/dot-bit/browsing-instructions/
+1. https://namecoin.org/docs/name-owners/
+1. https://cointelegraph.com/news/why-namecoin-didnt-take-off-a-cautionary-tale
+1. https://cointelegraph.com/news/why-namecoin-didnt-take-off-a-cautionary-tale
+1. https://cointelegraph.com/news/why-namecoin-didnt-take-off-a-cautionary-tale
+1. https://cointelegraph.com/news/why-namecoin-didnt-take-off-a-cautionary-tale
+1. https://coinmarketcap.com/currencies/namecoin/
+
+## Chapter 7
+
+1. https://globalblockchainsummit.com/benefits/
+1. http://www.chicagotribune.com/business/ct-biz-walmart-salad-growers-blockchain-20180925-story,amp.html
+1. http://www.chicagotribune.com/business/ct-biz-walmart-salad-growers-blockchain-20180925-story,amp.html   
+1. https://www.fool.com/investing/2018/09/25/walmart-goes-all-in-on-ibms-blockchain-tech.aspx  
+1. http://www.chicagotribune.com/business/ct-biz-walmart-salad-growers-blockchain-20180925-story,amp.html
+1. http://www.chicagotribune.com/business/ct-biz-walmart-salad-growers-blockchain-20180925-story,amp.html
+1. https://www.fool.com/investing/2018/09/25/walmart-goes-all-in-on-ibms-blockchain-tech.aspx
+1. https://www.fool.com/amp/investing/2018/09/30/ibm-and-microsoft-are-upgrading-walmarts-digital-s.aspx
+1. https://bitinfocharts.com/comparison/ethereum-transactionfees.html
+1. https://techcrunch.com/2018/09/24/walmart-is-betting-on-the-blockchain-to-improve-food-safety/
+1. https://medium.com/@lkolisko/do-we-need-mining-in-private-and-permissioned-blockchains-1a69b4c2c7a1
+1. https://www.ibm.com/blogs/blockchain/2017/05/the-difference-between-public-and-private-blockchain/
+1. https://aws.amazon.com/blockchain/
+1. https://www.fool.com/amp/investing/2018/09/30/ibm-and-microsoft-are-upgrading-walmarts-digital-s.aspx
+1. https://www.fool.com/investing/2018/09/25/walmart-goes-all-in-on-ibms-blockchain-tech.aspx
+1. https://bitcoinmagazine.com/articles/walmart-testing-blockchain-technology-for-supply-chain-management/
+1. https://www.fool.com/investing/2018/09/25/walmart-goes-all-in-on-ibms-blockchain-tech.aspx
+1. https://www.fool.com/investing/2018/09/25/walmart-goes-all-in-on-ibms-blockchain-tech.aspx
+1. https://www.forbes.com/sites/tomcoughlin/2017/05/14/wannacry-ransomware-demonstrations-the-value-of-better-security-and-backups/
+1. https://www.forbes.com/sites/themixingbowl/2017/10/23/the-blockchain-of-food/
+1. https://www.investopedia.com/terms/c/clearinghouse.asp
+1. https://investorjunkie.com/14202/clearing-houses/
+1. https://www.futuresfundamentals.org/explore-the-marketplace/the-role-of-clearing-houses/
+1. https://www.nacha.org/news/what-ach-quick-facts-about-automated-clearing-house-ach-network
+1. https://www.asx.com.au/documents/asx-news/ASX-Selects-DLT-to-Replace-CHESS-Media-Release-7December2017.pdf?ecid=O~SO~~~~chess-release~Twitter~~201712~~
+1. https://futurism.com/australia-stock-exchange-blockchain/
+1. https://futurism.com/australia-stock-exchange-blockchain/
+1. http://www.bbc.com/news/business-42261456
+1. https://blockchainapac.fintecnet.com/uploads/2/4/3/8/24384857/fintech_blockchain_report_v3.pdf
+1. http://www.futuresknowledge.com/knowledge-center/what-is-a-futures-clearing-house/
+1. http://fortune.com/2017/12/07/blockchain-technology-australian-securities-exchange-asx/
+1. https://cointelegraph.com/news/australian-securities-exchange-delays-planned-switch-to-blockchain-by-six-months
+1. https://www.nasdaq.com/article/how-will-finance-approach-the-regulation-of-blockchain-cm769389
+1. https://www.legalmatch.com/law-library/article/what-is-an-unconscionable-contract.html
+1. https://kotaku.com/heres-what-a-publishing-deal-with-ea-looks-like-1732940729
+1. https://customers.microsoft.com/en-us/story/microsoft-financial-operations-professional-services-azure
+1. https://customers.microsoft.com/en-us/story/microsoft-financial-operations-professional-services-azure
+1. https://bizfluent.com/list-6609066-contract-reconciliation-duties.html
+1. https://customers.microsoft.com/en-us/story/microsoft-financial-operations-professional-services-azure  
+1. https://customers.microsoft.com/en-us/story/microsoft-financial-operations-professional-services-azure
+1. https://customers.microsoft.com/en-us/story/microsoft-financial-operations-professional-services-azure
+1. https://customers.microsoft.com/en-us/story/microsoft-financial-operations-professional-services-azure
+1. https://customers.microsoft.com/en-us/story/microsoft-financial-operations-professional-services-azure
+1. https://customers.microsoft.com/en-us/story/microsoft-financial-operations-professional-services-azure
+1. https://customers.microsoft.com/en-us/story/microsoft-financial-operations-professional-services-azure
+1. https://www.dummies.com/programming/big-data/engineering/structured-data-in-a-big-data-environment/
+1. https://www.forbes.com/sites/jeffkauflin/2019/01/10/crypto-startups-are-fleeing-the-usthis-bill-is-trying-to-stop-them/
+
+## Chapter 8
+
+1. https://medium.com/@MartinRosulek/14-bitcoin-quotes-by-famous-people-6e7a1a009281
+1. https://www.amazon.com/Blockchain-Architecture-Trust-Information-Policy/dp/0262038935
+1. https://www.nytimes.com/2016/11/19/business/dealbook/irs-is-seeking-tax-evaders-who-use-bitcoin.html
+1. https://cointelegraph.com/news/how-to-make-profit-basic-rules-for-beginners-in-bitcoin-trading
+1. https://seekingalpha.com/article/4109712-will-bitcoin-kill-western-union
+1. http://fortune.com/2017/12/14/new-bitcoin-restrictions/
+1. https://medium.com/blockchain-review/law-and-legislation-for-icos-6dddc12bbbb2
+1. https://www.cbsnews.com/news/how-shell-companies-launder-dirty-money/
+1. https://www.washingtonpost.com/news/politics/wp/2018/01/04/how-money-laundering-works-in-real-estate/
+1. https://thenextweb.com/hardfork/2018/11/26/bitcoin-money-laundering-2/
+1. https://bitcoinist.com/irs-says-crypto-currency-warns-tax-evasion/
+1. https://www.cnet.com/news/cryptocurrency-cybercrimes-mean-easy-money/
+1. https://beincrypto.com/two-australian-cryptocurrency-exchanges-suspended-for-alleged-drug-trafficking/
+1. https://www.theverge.com/2014/2/9/5395050/russia-bans-bitcoin
+1. https://www.cnbc.com/id/100923551
+1. https://www.thehindu.com/business/vietnam-bans-bitcoin/article5736019.ece
+1. https://www.coindesk.com/ecuador-bans-bitcoin-legislative-vote
+1. https://www.coindesk.com/bolivias-central-bank-bans-bitcoin-digital-currencies
+1. https://www.ccn.com/in-depth-bangladesh-bans-bitcoin/  
+1. https://www.coindesk.com/kyrgyzstan-bitcoin-payments-violate-state-law
+1. https://www.digitaltrends.com/cool-tech/russia-bans-bitcoin-labels-money-substitute/
+1. https://www.thehindu.com/business/vietnam-bans-bitcoin/article5736019.ece
+1. https://cointelegraph.com/news/bitcoin-banned-in-taiwan-after-billionaire-bitcoin-ransom-attempt
+1. https://bitcoinist.com/irs-says-crypto-currency-warns-tax-evasion/
+1. https://www.investopedia.com/news/china-intensifies-crackdown-bitcoin-mining/
+1. https://www.buybitcoinworldwide.com/mining/china/
+1. https://qz.com/1053799/chinas-bitmain-dominates-bitcoin-mining-now-it-wants-to-cash-in-on-artificial-intelligence/
+1. https://www.pcr-online.biz/retail/china-bans-bitcoin-leading-to-drop-in-value
+1. http://www.wsj.com/articles/in-china-cryptocurrency-sales-persist-in-the-shadows-1507109400
+1. https://www.investopedia.com/news/china-plans-crack-down-international-cryptocurrency-trading-its-citizens/
+1. https://www.investopedia.com/news/china-intensifies-crackdown-bitcoin-mining/
+1. https://www.investopedia.com/news/bitcoin-banned-china/
+1. http://fortune.com/2018/01/17/china-bitcoin-cryptocurrency-crackdown/
+1. https://news.bitcoin.com/a-chinese-government-controlled-bitcoin-alternative-is-reportedly-in-the-works/
+1. https://www.forbes.com/sites/jeffkauflin/2019/01/10/crypto-startups-are-fleeing-the-usthis-bill-is-trying-to-stop-them/#6afd3a602267
+1. https://www.coindesk.com/quebec-lures-cryptocurrency-miners-china-sours-industry
+1. http://www.mining.com/mongolia-passes-mining-friendly-law-but-106-licences-still-in-limbo-88477/
+1. https://slate.com/technology/2018/08/venezuela-new-bolivar-currency-petro-pr-move-not-hyperinflation-solution.html
+1. https://www.brookings.edu/blog/techtank/2018/03/09/venezuelas-petro-undermines-other-cryptocurrencies-and-international-sanctions/
+1. https://www.npr.org/sections/thetwo-way/2017/12/04/568299704/venezuela-will-create-new-petro-cryptocurrency-president-maduro-says
+1. https://www.reuters.com/article/us-cryptocurrency-venezuela-specialrepor/special-report-in-venezuela-new-cryptocurrency-is-nowhere-to-be-found-idUSKCN1LF15U
+1. https://news.bitcoin.com/venezuelans-to-be-paid-at-least-half-a-petro-a-month/
+1. https://arstechnica.com/tech-policy/2018/02/venezuela-says-its-cryptocurrency-raised-735-million-but-its-a-farce/  
+1. https://news.bitcoin.com/venezuela-considers-selling-its-oil-backed-cryptocurrency-with-a-60-discount/
+1. https://www.reuters.com/article/us-cryptocurrency-venezuela-specialrepor/special-report-in-venezuela-new-cryptocurrency-is-nowhere-to-be-found-idUSKCN1LF15U
+1. http://energy-cg.com/OPEC/Venezuela/Venezuela_OilGas_Industry.html
+1. https://www.reuters.com/article/us-cryptocurrency-venezuela-specialrepor/special-report-in-venezuela-new-cryptocurrency-is-nowhere-to-be-found-idUSKCN1LF15U
+1. https://etherscan.io/token/0xD1aC5e0B722765CbD56285C4965Adb4052bb363f
+1. https://arstechnica.com/tech-policy/2018/02/venezuela-says-its-cryptocurrency-raised-735-million-but-its-a-farce/
+1. https://slate.com/technology/2018/08/venezuela-new-bolivar-currency-petro-pr-move-not-hyperinflation-solution.html
+1. https://www.washingtonpost.com/news/wonk/wp/2018/03/05/venezuelas-cryptocurrency-is-one-of-the-worst-investments-ever/?noredirect=on&utm_term=.0c4d3ec91b8b
+1. https://www.brookings.edu/blog/techtank/2018/03/09/venezuelas-petro-undermines-other-cryptocurrencies-and-international-sanctions/
+1. https://www.bbc.com/news/world-latin-america-42217798
+1. https://www.brookings.edu/blog/techtank/2018/03/09/venezuelas-petro-undermines-other-cryptocurrencies-and-international-sanctions/
+1. https://www.brookings.edu/blog/techtank/2018/03/09/venezuelas-petro-undermines-other-cryptocurrencies-and-international-sanctions/
+1. https://www.washingtonpost.com/news/wonk/wp/2018/03/05/venezuelas-cryptocurrency-is-one-of-the-worst-investments-ever/?noredirect=on&utm_term=.0c4d3ec91b8b
+1. https://www.brookings.edu/blog/techtank/2018/03/09/venezuelas-petro-undermines-other-cryptocurrencies-and-international-sanctions/
+1. https://www.wired.co.uk/article/venezuela-petro-cryptocurrency-bolivar-scam
+1. https://www.investopedia.com/university/ipo/ipo1.asp
+1. https://www.investopedia.com/articles/investing/082614/how-stock-market-works.asp
+1. https://www.mahesh-vc.com/blog/5-key-advantages-of-going-public-and-what-it-takes-to-get-there
+1. https://www.mckinsey.com/industries/high-tech/our-insights/grow-fast-or-die-slow-why-unicorns-are-staying-private
+1. https://www.investopedia.com/terms/i/initial-coin-offering-ico.asp
+1. https://strategiccoin.com/3-types-ico-tokens/
+1. https://strategiccoin.com/3-types-ico-tokens/
+1. https://strategiccoin.com/3-types-ico-tokens/
+1. https://coincentral.com/filecoin-beginners-guide-largest-ever-ico/
+1. https://filecoin.io/filecoin.pdf  
+1. http://fortune.com/2017/05/20/ethereum-ico-blockchain-token/
+1. https://www.forbes.com/sites/laurashin/2017/10/02/are-icos-for-utility-tokens-selling-securities-prominent-crypto-players-say-yes/#1fce930e34fa
+1. https://www.forbes.com/sites/laurashin/2017/10/02/are-icos-for-utility-tokens-selling-securities-prominent-crypto-players-say-yes/#1fce930e34fa
+1. https://strategiccoin.com/3-types-ico-tokens/
+1. https://review.network/static/assets/whitepaper/whitepaper.pdf
+1. https://www.investopedia.com/terms/i/initial-coin-offering-ico.asp
+1. https://techcrunch.com/2017/07/25/sec-regulators-are-coming-after-icos/
+1. https://www.fxempire.com/education/article/ico-initial-coin-offering-work-418446
+1. https://www.investopedia.com/news/80-icos-are-scams-report/
+1. https://ethereumworldnews.com/consumers-lose-100-million-ico-exit-scams/
+1. https://hackernoon.com/ico-or-sto-who-wins-fd43c3ee7b8d
+1. https://techcrunch.com/2017/12/07/6-red-flags-of-an-ico-scam/
+1. https://siliconangle.com/2018/02/12/loopx-steals-4-5m-latest-initial-coin-offering-exit-scam/
+1. https://www.businessinsider.com/cryptocurrency-startup-loopx-vanishes-with-millions-investor-money-2018-2
+1. https://thenextweb.com/hardfork/2018/01/17/bitconnect-bitcoin-scam-cryptocurrency/
+1. https://thenextweb.com/hardfork/2017/12/01/bitconnect-ponzi-ethereum-litecoin/
+1. https://thenextweb.com/hardfork/2018/01/17/bitconnect-bitcoin-scam-cryptocurrency/
+1. https://totalcrypto.io/bitconnect-scam/
+1. https://thenextweb.com/hardfork/2018/01/17/bitconnect-bitcoin-scam-cryptocurrency/
+1. https://steemit.com/scam/@thegrinder/the-bitconnect-scam-exposed
+1. https://calvinayre.com/2018/07/16/bitcoin/broken-tooth-koi-backs-poker-tourney-new-crypto-token/
+1. https://www.crowdfundinsider.com/2018/07/136496-former-macau-gangster-broken-tooth-associated-ico-claims-to-sell-out-in-5-minutes-750-million-raised/
+1. http://climateerinvest.blogspot.com/2018/04/cambridge-analytica-macau-casinos.html
+1. https://www.forbes.com/sites/laurashin/2017/10/02/are-icos-for-utility-tokens-selling-securities-prominent-crypto-players-say-yes/#1fce930e34fa
+1. https://www.forbes.com/sites/laurashin/2017/10/02/are-icos-for-utility-tokens-selling-securities-prominent-crypto-players-say-yes/#1fce930e34fa
+1. https://www.investopedia.com/terms/h/howey-test.asp
+1. https://consumer.findlaw.com/securities-law/what-is-the-howey-test.html
+1. https://www.forbes.com/sites/laurashin/2017/10/02/are-icos-for-utility-tokens-selling-securities-prominent-crypto-players-say-yes/#1fce930e34fa
+1. https://hackernoon.com/ethereum-vs-ripple-xrp-which-one-is-a-better-investment-for-2019-7d02f03febd1
+1. https://techcrunch.com/2017/07/25/sec-regulators-are-coming-after-icos/
+1. https://cointelegraph.com/explained/what-is-an-sto-explained
+1. https://www.coinbureau.com/analysis/howey-test-cryptocurrency/
+1. https://techcrunch.com/2017/07/25/sec-regulators-are-coming-after-icos/
+1. https://themerkle.com/why-cant-us-citizens-participate-in-cryptocurrency-icos/
+1. https://hackernoon.com/ico-or-sto-who-wins-fd43c3ee7b8d
+1. https://hackernoon.com/ico-vs-sto-all-you-need-to-know-about-the-new-fundraising-method-in-the-crypto-world-54a1a43a08d6
+1. http://premieroffshore.com/icos-are-abandoning-us-investors/
+1. https://www.investopedia.com/terms/a/accreditedinvestor.asp
+1. https://stoanalytics.com/article/security-token-offerings-sto-regulation/
+1. https://stoanalytics.com/article/security-token-offerings-sto-regulation/
+1. https://hackernoon.com/ico-or-sto-who-wins-fd43c3ee7b8d
+1. https://hackernoon.com/ico-or-sto-who-wins-fd43c3ee7b8d
+1. https://hackernoon.com/five-sec-compliant-reg-a-stos-worth-watching-1027ed9d6c53  
+1. https://www.manhattanstreetcapital.com/faq/for-fundraisers/what-reg-s-or-regulation-s
+1. https://hackernoon.com/ico-or-sto-who-wins-fd43c3ee7b8d
+1. https://coincentral.com/kyc-aml/
+1. https://support.coinbase.com/customer/en/portal/articles/1220621-identity-verification
+1. https://support.coinbase.com/customer/en/portal/articles/1220621-identity-verification
+1. https://www.forbes.com/sites/jayadkisson/2018/01/29/bitcoin-cryptocurrency-and-the-government-regulation-paradox/#2542cb813531
+1. https://www.bitcoinmarketjournal.com/ico-investment-strategy/
+1. https://cryptoslate.com/the-security-token-offering-sto-its-a-trap/
+
+## Chapter 9
+
+1. https://www.intelligenthq.com/finance/12-bitcoin-and-blockchain-thoughts-and-quotes-you-need-to-read/
+1. https://www.forbes.com/sites/bernardmarr/2018/08/15/23-fascinating-bitcoin-and-blockchain-quotes-everyone-should-read/#425cbc317e8a
+1. https://www.bloomberg.com/news/articles/2018-12-21/facebook-is-said-to-develop-stablecoin-for-whatsapp-transfers
+1. https://www.investopedia.com/terms/r/remittance.asp
+1. https://www.cnbc.com/2019/06/05/facebook-cryptocurrency-coming-in-june-report.html?utm_source=share&utm_medium=ios_app&utm_name=ios_share_flow_optimization&utm_term=control_2
+1. https://www.cnbc.com/2019/06/05/facebook-cryptocurrency-coming-in-june-report.html?utm_source=share&utm_medium=ios_app&utm_name=ios_share_flow_optimization&utm_term=control_2
+1. https://www.cnbc.com/2019/06/05/facebook-cryptocurrency-coming-in-june-report.html?utm_source=share&utm_medium=ios_app&utm_name=ios_share_flow_optimization&utm_term=control_2
+1. https://www.bbc.com/news/business-48383460
+1. https://technode.com/2018/02/18/wechat-hongbao-2018/
+1. http://shanghaiist.com/2014/01/07/wechat_expands_into_the_taxi-hailin/
+1. https://www.travelchinacheaper.com/using-wechat-alipay-china-expat-guide
+1. https://thenextweb.com/opinion/2015/03/25/facebook-has-officially-declared-it-wants-to-own-every-single-thing-you-do-on-the-internet/
+1. https://www.tekedia.com/facebook-groups-to-become-africas-1-ecommerce-platform/
+1. https://www.lifewire.com/pay-facebook-friends-with-messenger-4146438
+1. https://techcrunch.com/2016/10/03/facebook-marketplace-2/
+1. https://techcrunch.com/2015/06/02/adstagram/
+1. https://www.nerdwallet.com/blog/banking/ach-transfers-costs-send-money-banks-online/
+1. https://www.bankrate.com/finance/checking/where-to-buy-checks-save-money.aspx
+1. https://squareup.com/guides/credit-card-processing-fees-and-rates   
+1. https://www.theguardian.com/money/2018/dec/09/banking-swift-money-transfer-worldwide-delay
+1. http://www.worldbank.org/en/news/press-release/2015/12/18/international-migrants-and-remittances-continue-to-grow-as-people-search-for-better-opportunities-new-report-finds
+1. https://www.moneyandbanking.com/commentary/2018/2/18/the-stubbornly-high-cost-of-remittances
+1. https://medium.com/quoineglobal/how-fast-can-your-crypto-exchange-process-bitcoin-deposits-11e02f73e9e8
+1. https://bitinfocharts.com/comparison/bitcoin-transactionfees.html
+1. https://www.nytimes.com/2018/04/21/world/asia/facebook-sri-lanka-riots.html
+1. https://www.bbc.com/news/business-48383460
+1. https://www.bbc.co.uk/programmes/w3csw8dd
+1. https://www.bbc.com/news/business-48383460
+1. https://www.investopedia.com/terms/f/facebook-credits.asp
+1. https://www.cnbc.com/2019/06/05/facebook-cryptocurrency-coming-in-june-report.html?utm_source=share&utm_medium=ios_app&utm_name=ios_share_flow_optimization&utm_term=control_2
+1. https://everestcrypto.com/facebooks-david-marcus-to-lead-new-blockchain-research-unit/
+1. https://www.theverge.com/interface/2019/3/6/18253922/facebook-privacy-meaning-implications-mark-zuckerberg-pivot-analysis-interface-casey-newton
+1. https://bitcoinemag.com/monero-price-analysis-despite-the-volatility-xmr-is-holding-the-bullish-trend-and-will-soon-cross-100-mark-cryptonewsz/
+1. https://futurism.com/americoin-this-idea-tokenize-us-dollar-compelling-thorny
+1. https://www.thebalance.com/open-market-operations-3306121  
+1. https://www.interfluidity.com/uploads/2016/03/ethereumsv-fiat-money-to-share.pdf
+1. https://smartlands.io/news/why-asset-tokenization-is-the-strongest-cryptocurrency-trend-right-now/
+1. https://futurism.com/americoin-this-idea-tokenize-us-dollar-compelling-thorny
+1. https://www.reuters.com/article/us-usa-banks-cobol-idUSKBN17C0D8
+1. http://mentalfloss.com/article/12715/why-did-us-abandon-gold-standard
+1. https://www.bbc.com/news/business-48383460
+1. https://www.investopedia.com/articles/personal-finance/050214/credit-vs-debit-cards-which-better.asp
+1. https://techcrunch.com/2019/04/16/zengo-wants-to-become-the-crypto-wallet-for-the-masses/
+1. https://currencies.fandom.com/wiki/United_States_100,000_dollar_banknote
+1. https://upload.wikimedia.org/wikipedia/commons/5/53/US100000dollarsbillobverse.jpg
+1. https://www.zerohedge.com/news/2017-05-22/why-chinese-yuan-wont-be-worlds-reserve-currency
+1. https://www.investopedia.com/terms/r/reservecurrency.asp
+1. https://gbtimes.com/imf-adds-chinese-yuan-basket-reserve-currencies
+1. https://www.investopedia.com/terms/r/reservecurrency.asp
+1. https://www.investopedia.com/terms/r/reservecurrency.asp
+1. https://www.investopedia.com/terms/r/reservecurrency.asp
+1. https://www.investopedia.com/trading/chinese-devaluation-yuan/
+1. https://www.cnn.com/2015/08/12/china/china-currency-explainer/index.html
+1. https://www.investopedia.com/articles/investing/090215/3-reasons-why-countries-devalue-their-currency.asp
+1. https://www.brookings.edu/opinions/what-you-may-not-know-about-china-and-currency-manipulation/
+1. https://www.macrotrends.net/2575/us-dollar-yuan-exchange-rate-historical-chart
+1. https://www.investopedia.com/trading/chinese-devaluation-yuan/
+1. https://www.cnbc.com/2017/09/04/chinese-icos-china-bans-fundraising-through-initial-coin-offerings-report-says.html
+1. https://www.cnbc.com/2017/09/18/cryptocurrencies-major-bitcoin-conference-flees-as-china-cracks-down.html
+1. https://www.bitnewslive.net/2018/12/18/a-chinese-government-controlled-bitcoin-alternative-is-reportedly-in-the-works/?doing_wp_cron=1560040758.9327719211578369140625
+1. https://futurism.com/china-becomes-first-countrchina-becomes-first-country-in-the-world-to-test-a-national-cryptocurrencyy-to-test-national-cryptocurrency
+1. https://www.forbes.com/sites/realspin/2017/10/18/china-is-africas-biggest-economic-partner-but-what-role-for-the-united-states/
+1. https://www.brookings.edu/opinions/combating-african-currency-volatility-from-the-wests-debt-crisis/
+1. https://beebom.com/examples-of-internet-of-things-technology/
+1. https://www.zdnet.com/article/the-five-industries-leading-the-iot-revolution/
+1. https://commons.wikimedia.org/wiki/File:NestLearningThermostat2.JPG
+1. https://www.cmswire.com/internet-of-things/6-security-issues-that-will-dominate-iot-in-2019/
+1. https://www.lifewire.com/is-your-baby-monitor-being-hacked-2487802
+1. https://blog.radware.com/security/2018/05/7-craziest-iot-device-hacks/
+1. https://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/
+1. https://www.zdnet.com/article/why-the-internet-of-things-is-the-next-target-for-ransomware/
+1. https://www.i-scoop.eu/blockchain-distributed-ledger-technology/blockchain-iot/
+1. https://www.iotforall.com/iiot-devices-change-manufacturing-industry/
+1. https://www.i-scoop.eu/blockchain-distributed-ledger-technology/blockchain-iot/
+1. https://blog.plan99.net/the-resolution-of-the-bitcoin-experiment-dabb30201f7
+1. https://www.coindesk.com/information/will-ethereum-scale
+1. https://bitinfocharts.com/comparison/bitcoin-transactionfees.html
+1. Technically known as a directed acyclic graph, or DAG.
+1. https://blog.iota.org/a-primer-on-iota-with-presentation-e0a6eb2cc621
+1. https://forum.iota.org/t/iota-consensus-masterclass/1193
+1. https://blog.iota.org/a-primer-on-iota-with-presentation-e0a6eb2cc621
+1. https://uk.farnell.com/does-the-iot-really-need-the-internet
+1. https://securityledger.com/2016/03/blockchain-or-tangle-securing-transactions-on-the-iot-bitcoinist-net/
+1. https://techcrunch.com/2018/11/28/amazon-gets-into-the-blockchain-with-quantum-ledger-database-managed-blockchain/
+1. https://aws.amazon.com/qldb/
+
+## Chapter 10
+
+1. https://www.independent.co.uk/news/business/news/bitcoin-fraud-tulip-bulbs-jpmorgan-ceo-jamie-dimon-bank-investor-crypto-currency-a7943986.html
+1. https://twitter.com/lloydblankfein/status/915277671831044098
+1. https://www.newsbtc.com/2019/05/21/cameron-winklevoss-on-crypto-not-investing-in-the-future-of-money-is-crazy/
+1. https://www.trustnodes.com/2018/03/06/brazilian-state-bank-tokenize-brazilian-real-ethereums-public-blockchain
+1. https://bitcoinmagazine.com/articles/future-here-singapore-tokenizes-fiat-currency-blockchain/
+1. https://medium.com/@HenryInnis/why-crypto-currency-is-a-return-to-the-gold-standard-method-of-exchange-b53ec930b6d2
+1. https://www.thebalance.com/what-is-the-gold-standard-3306137
+1. https://medium.com/coinmonks/the-most-expensive-lesson-of-my-life-details-of-sim-port-hack-35de11517124?sk=4c29b27bacb2eff038ec8fe4d40cd615
+1. https://www.coininsider.com/stablecoins/
+1. http://fortune.com/2016/07/12/financial-literacy/
+1. https://www0.gsb.columbia.edu/faculty/fmishkin/PDFpapers/IF98.pdf
+1. https://research.stlouisfed.org/publications/review/2018/02/13/is-bitcoin-a-waste-of-resources/
+1. https://www.thebalance.com/open-market-operations-3306121
+1. https://www.fool.com/investing/general/2015/12/06/fiat-currency-what-it-is-and-why-its-better-than-a.aspx
+1. https://www.cbsnews.com/news/is-there-gold-in-fort-knox/
+1. https://www.fool.com/investing/general/2015/12/06/fiat-currency-what-it-is-and-why-its-better-than-a.aspx
+1. https://bitcoinist.com/50-bitcoin-transactions-fees-long-gone-bitcoins-eventual-fate/
+1. https://www.businessinsider.com/venezuela-inflation-rate-hyperinflation-2018-11
+1. https://www.economicshelp.org/blog/390/inflation/hyper-inflation-in-zimbabwe/
+1. https://en.wikipedia.org/wiki/Zimbabwean_dollar#/media/File:Zimbabwe_$100_trillion_2009_Obverse.jpg
+1. https://www.theatlantic.com/international/archive/2016/05/zimbabwe-money/481518/
+1. https://blockmanity.com/news/bitcoin/300-mn-worth-bitcoin-transferred-fees-just-4-cents/
+1. https://www.thesimpledollar.com/banking/ach-transfer-how-much-does-it-cost-to-send-money-between-banks/
+1. https://www.coindesk.com/information/will-ethereum-scale
+1. https://blog.plan99.net/the-resolution-of-the-bitcoin-experiment-dabb30201f7
+1. https://www.coindesk.com/information/will-ethereum-scale
+1. https://cryptoheroes.ch/five-cryptocurrencies-to-watch-in-2019/
+1. https://thenextweb.com/hardfork/2018/11/01/eos-blockchain-benchmark/
+1. https://www.marketwatch.com/story/bitcoins-are-the-best-investment-in-my-retirement-account-2016-06-17
+1. https://www.investopedia.com/investing/understanding-cryptocurrency-etfs/
+1. https://www.nytimes.com/2018/05/02/technology/bitcoin-goldman-sachs.html
+1. https://www.cnbc.com/2017/11/21/jpmorgan-reportedly-getting-into-bitcoin-futures-trading.html
+1. https://www.investopedia.com/terms/f/futures.asp
+1. https://www.ccn.com/institutional-crypto-adoption-grows-but-will-big-banks-make-a-splash-in-2019
+1. https://www.raconteur.net/technology/kyc-aml-save-cryptocurrencies
+1. https://www.cnbc.com/2018/04/25/nasdaq-is-open-to-becoming-cryptocurrency-exchange-ceo-says.html
+1. https://www.investopedia.com/terms/i/institutionalinvestor.asp
+1. https://www.coindesk.com/follow-leader-analyzing-bitcoin-cryptocurrency-price-correlations
+1. https://www.wsj.com/articles/the-crypto-crime-wave-is-here-1524753366
+1. https://azure.microsoft.com/en-us/solutions/blockchain/
+1. https://aws.amazon.com/blockchain/
+1. https://www.oracle.com/cloud/blockchain/
+1. https://www.bloomberg.com/news/articles/2016-09-23/google-cloud-joins-amazon-ibm-in-serving-blockchain-clients
+1. https://www.wired.com/2017/03/fed-proof-online-market-openbazaar-going-anonymous/
+1. https://achainofblocks.com/2019/02/07/zero-knowledge-proofs-zcash-explained/
+1. https://whitepaperdatabase.com/zcash-zec-whitepaper/
+1. https://www.bloomberg.com/news/articles/2016-09-23/google-cloud-joins-amazon-ibm-in-serving-blockchain-clients
+1. http://p2pfoundation.ning.com/forum/topics/bitcoin-open-source
+1. https://www.weforum.org/agenda/2017/07/blockchain-the-ledger-that-will-record-everything-of-value/
+1. https://hackernoon.com/the-pinnacle-of-blockchain-technology-the-decentralized-man-1fcfba4d7d88
+1. https://www.cbc.ca/news/technology/ethereum-hack-blockchain-fork-bitcoin-1.3719009
+1. https://www.leewayhertz.com/blockchain-in-agriculture/
+1. https://www.forbes.com/sites/louiscolumbus/2018/10/28/how-blockchain-can-improve-manufacturing-in-2019/#6843e2e95db6
+1. https://techinsiderinfo.com/blockchain/how-blockchain-can-improve-the-aviation-industry/
+1. https://www.forbes.com/sites/davidblack/2019/02/09/private-blockchain-is-like-living-on-a-suburban-street-in-a-tent/#413774df419b
+1. https://www.tradingview.com/symbols/BTCUSD/
+
+## Glossary
+
+1. https://www.investopedia.com/terms/1/51-attack.asp
+1. https://www.investopedia.com/terms/a/aml.asp
+1. https://medium.com/coinmonks/how-a-pruned-ethereum-node-can-fully-verify-the-blockchain-bbe9f29663ed
+1. https://blog.slock.it/how-to-not-run-an-ethereum-archive-node-a-journey-d038b4da398b
+1. https://cryptocurrencyfacts.com/asic-mining-basics/
+1. https://github.com/ethereum/wiki/wiki/White-Paper#mining-centralization
+1. https://www.investopedia.com/terms/a/asset.asp
+1. https://medium.com/nakamo-to/what-is-base58-c6c2db7808f3
+1. https://en.wikipedia.org/wiki/Bitcoin_Core
+1. https://cointelegraph.com/lightning-network-101/what-is-lightning-network-and-how-it-works#how-does-it-work
+1. https://www.coindesk.com/bitcoins-network-congestion-in-3-charts-transactions-blocks-fees
+1. https://blockexplorer.com/
+1. https://www.bitcoinmining.com/what-is-the-bitcoin-block-reward/
+1. https://www.techopedia.com/definition/32914/block-size-bitcoin
+1. https://bitedge.com/blog/the-next-block-is-10-minutes-away-proving-bitcoins-poisson-block-intervals/
+1. https://krebsonsecurity.com/2018/03/who-and-what-is-coinhive/
+1. https://krebsonsecurity.com/2019/02/crytpo-mining-service-coinhive-to-call-it-quits/
+1. https://www.investopedia.com/articles/investing/030515/what-cold-storage-bitcoin.asp
+1. http://cpucoinlist.com/
+1. https://www.investopedia.com/tech/explaining-crypto-cryptocurrency/
+1. https://bitcoinist.com/the-pirate-bay-resumes-cryptojacking-but-should-it-even-be-an-issue/
+1. https://cryptojackingtest.com/
+1. https://www.coindesk.com/information/what-is-a-dao-ethereum
+1. https://blocklr.com/guides/what-is-a-dapp-dapps/
+1. https://www.investopedia.com/terms/d/deflation.asp
+1. https://www.instantssl.com/digital-signature
+1. https://101blockchains.com/distributed-ledger-technology-dlt/
+1. https://www.investopedia.com/terms/d/doublespending.asp
+1. https://www.investopedia.com/news/what-erc20-and-what-does-it-mean-ethereum/
+1. https://eidoo.io/erc20-tokens-list
+1. https://cointelegraph.com/explained/escrow-explained
+1. https://www.investopedia.com/terms/e/etf.asp
+1. https://www.bitcoinmarketjournal.com/cryptocurrency-etfs/
+1. https://blockgeeks.com/guides/ethereum-gas/
+1. https://www.coindesk.com/short-guide-bitcoin-forks-explained
+1. https://www.binance.vision/blockchain/what-are-nodes
+1. https://www.cryptocompare.com/coins/guides/what-is-the-gas-in-ethereum/
+1. https://en.bitcoin.it/wiki/Genesis_block
+1. https://www.techradar.com/news/best-mining-gpu
+1. https://bitcoinblockhalf.com/
+1. https://www.coindesk.com/information/hard-fork-vs-soft-fork
+1. https://coinsutra.com/best-hardware-wallet-bitcoin/
+1. https://www.lifewire.com/cryptographic-hash-function-2625832
+1. https://en.bitcoin.it/wiki/Hashcash
+1. https://www.lifewire.com/cryptographic-hash-function-2625832
+1. https://coinsutra.com/hash-rate-or-hash-power/
+1. https://coinsutra.com/hodl-popular-cryptocurrency-terms/
+1. https://fintab.io/blog/cryptocurrency-wallets-cold-and-hot-storage/
+1. https://www.investopedia.com/terms/h/howey-test.asp
+1. https://fortune.com/2017/07/26/sec-icos/
+1. Technically, you could hard fork the blockchain and create a new blockchain that excluded a certain transaction, but then it’d become a new blockchain — and, if we’re dealing with money, a new cryptocurrency. Nobody would accept the new blockchain as legitimate, so you wouldn’t actually earn any money.
+1. https://www.investopedia.com/terms/i/inflation.asp
+1. https://techcrunch.com/2015/10/04/why-the-internet-needs-ipfs-before-its-too-late/
+1. https://hackernoon.com/kyc-aml-and-cryptocurrencies-4e4cf929c151
+1. https://cointelegraph.com/lightning-network-101/what-is-lightning-network-and-how-it-works#how-does-it-work
+1. https://en.bitcoin.it/wiki/Lightweight_node
+1. https://www.investopedia.com/terms/l/liquidity.asp
+1. https://masterthecrypto.com/mainnet-vs-testnet-whats-the-difference/
+1. https://blockonomi.com/merkle-tree/
+1. https://www.investopedia.com/terms/m/micropayment.asp
+1. https://cryptopotato.com/what-is-mimblewimble-the-complete-beginners-guide/
+1. https://coincenter.org/entry/what-is-bitcoin-mining-and-why-is-it-necessary
+1. https://coincenter.org/entry/what-is-bitcoin-mining-and-why-is-it-necessary
+1. https://30btc.com/information/how-to-mine-bitcoins-solo.html
+1. https://www.investopedia.com/investing/federal-reserve-monetary-policy/
+1. https://www.thoughtco.com/demand-for-money-economics-definition-1146301
+1. https://www.investopedia.com/terms/m/moneysupply.asp
+1. https://en.bitcoin.it/wiki/Multisignature
+1. https://www.coindesk.com/bitcoin-nodes-need
+1. https://coincentral.com/nfts-non-fungible-tokens/
+1. https://openbazaar.org/
+1. https://themerkle.com/us-dollar-vs-usdt/
+1. https://bornonjuly4.me/2017/01/10/blockchain-what-is-permissioned-vs-permissionless/
+1. https://coincentral.com/privacy-coins-what-are-they-how-do-they-work-and-why-are-they-needed/
+1. https://blockgeeks.com/guides/proof-of-work-vs-proof-of-stake/
+1. https://cointelegraph.com/explained/proof-of-work-explained
+1. https://en.wikipedia.org/wiki/Reserve_currency#Global_currency_reserves
+1. https://en.bitcoin.it/wiki/Satoshi_(unit)
+1. https://www.sec.gov/
+1. https://fortune.com/2017/07/26/sec-icos/
+1. https://www.coindesk.com/information/what-is-segwit
+1. https://en.bitcoin.it/wiki/SHA-256
+1. https://www.theblockcrypto.com/2018/10/17/crypto-simplified-explaining-sidechains/
+1. https://ongoingoperations.com/2013/04/29/what-is-single-point-of-failure/
+1. https://www.coindesk.com/bitcoin-milestones-silk-road-goes-dark-bitcoin-survives-its-biggest-markets-demise
+1. https://www.coindesk.com/information/ethereum-smart-contracts-work
+1. https://www.investopedia.com/terms/s/soft-fork.asp
+1. https://medium.com/@jonaldfyookball/why-every-bitcoin-user-should-understand-spv-security-520d1d45e0b9
+1. https://www.investopedia.com/terms/s/stealth-address-cryptocurrency.asp
+1. https://bitcoinexchangeguide.com/what-is-a-security-token-offering-sto-different-ico-regulations/
+1. https://etherconverter.online/
+1. https://www.cryptocompare.com/coins/guides/what-is-the-gas-in-ethereum/
+1. https://blog.iota.org/the-tangle-an-illustrated-introduction-4d5eae6fe8d4
+1. https://hackernoon.com/iota-the-tangle-the-future-backbone-of-the-iot-e7e417d5d86b
+1. https://masterthecrypto.com/mainnet-vs-testnet-whats-the-difference/
+1. https://www.coindesk.com/information/what-is-a-dao-ethereum
+1. https://www.wired.com/2016/06/50-million-hack-just-showed-dao-human/
+1. https://cointelegraph.com/explained/tokenization-explained
+1. https://eidoo.io/erc20-tokens-list
+1. https://cointelegraph.com/explained/tokenization-explained  
+1. https://thecryptopouch.com/fastest-cryptocurrency-speeds-tps-2018/
+1. https://www.fool.com/investing/2018/03/30/which-cryptocurrencies-have-the-lowest-transaction.aspx
+1. https://hackernoon.com/ethereum-turing-completeness-and-rich-statefulness-explained-e650db7fc1fb
+1. https://thebitcoinmag.com/turing-completeness-ethereum/1712/
+1. https://komodoplatform.com/whats-utxo/
+1. https://www.blockchain.com/btc/address/1Archive1n2C579dMsAu3iC6tWzuQJz8dN
+1. https://vante.me/#!/order/start
+1. https://bitcoinexchangeguide.com/cryptocurrency-volatility/
+1. https://coincentral.com/cryptocurrency-white-paper/
+1. https://blockonomi.com/zero-knowledge-proofs/
+1. https://coincentral.com/what-is-bat/
+1. https://www.cnet.com/news/twitter-users-now-can-send-receive-tips-with-brave-browser/
+1. https://www.publish0x.com/twicecrypto/binance-genius-passion-xmmpln
+1. https://www.bitcoinmarketjournal.com/bitcoin-sv/
+1. https://coinmarketcap.com/currencies/bitcoin-gold/
+1. https://qz.com/1287701/bitcoin-golds-51-attack-is-every-cryptocurrencys-nightmare-scenario/
+1. https://99bitcoins.com/ghashio-promises-establish-40-hashrate-limit-prevent-51-attack/
+1. https://www.worldcoinindex.com/coin/dash
+1. https://www.coinbase.com/price/dogecoin
+1. https://knowyourmeme.com/memes/dogecoin
+1. https://www.theguardian.com/technology/2014/jan/20/jamaican-bobsled-team-raises-dogecoin-winter-olympics
+1. https://coinswitch.co/info/eos/what-is-eos
+1. https://coincentral.com/ethereum-classic-vs-ethereum/
+1. https://www.cryptocompare.com/coins/guides/what-is-the-gas-in-ethereum/
+1. https://coinmarketcap.com/currencies/chainlink/
+1. https://coincentral.com/what-is-litecoin/
+1. https://blog.iota.org/the-tangle-an-illustrated-introduction-4d5eae6fe8d4
+1. https://makerdao.com/en/whitepaper/#debt-and-collateral-auctions-multi-collateral-dai
+1. https://xbt.net/guides/ethereum-guides/what-is-the-enterprise-ethereum-alliance-eea/
+1. https://coincodex.com/crypto/neo/?period=7D
+1. https://cryptoslate.com/tron/
+1. https://coincentral.com/trx-beginners-guide/
+1. https://tether.to/faqs/
+1. https://coincentral.com/what-is-tether/
+1. https://nemflash.io/nem-price-prediction-2018-invest-crypto-volatility/
+1. https://www.investinblockchain.com/what-is-nem/
+1. https://nem.io/technology/
+1. http://ekmair.ukma.edu.ua/bitstream/handle/123456789/14628/Technical_comparison_aspects_of_leading_blockchain_based.pdf?sequence=1&isAllowed=y
+1. https://www.stellar.org/how-it-works/stellar-basics/#how-it-works
+1. https://cryptobriefing.com/what-is-stellar-introduction-to-xlm/
+1. https://blockonomi.com/how-to-mine-monero/
+1. https://www.monero.how/how-does-monero-privacy-work
+1. https://hackerbits.com/programming/what-is-cryptojacking/
+1. https://www.coindesk.com/10-things-you-need-to-know-about-ripple
+1. https://ripple.com/files/ripple_vision.pdf
+1. https://hackernoon.com/the-curious-tale-of-tezos-from-a-232-million-ico-to-4-class-action-lawsuits-6f411b7aad7e
+1. https://z.cash/
