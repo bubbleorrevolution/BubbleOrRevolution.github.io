@@ -327,7 +327,8 @@ input {
         height: 428px;
         object-fit: contain;
         position: absolute;
-        left: 250px;
+        /* left: 250px; */
+        left: 180px;
         top: 45.89px;
         z-index: 0;
     }
@@ -354,6 +355,7 @@ input {
         font-size: 34px;
         color: white;
         margin-top: 0.5em;
+        line-height: 37px;
     }
     .header-hero .hero-btn {
         /* margin-top: 40px; */
