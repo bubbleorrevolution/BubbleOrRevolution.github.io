@@ -1,12 +1,12 @@
 ---
 layout: notes
-title: Notes for the 2nd Edition
+title: Notes for the 2nd Edition, 1st Revision
 ---
 
-> *Notes for the 2nd Edition*
+> *Notes for the 2nd Edition, 1st Revision*
+
 
 ## Introduction
-
 1. <https://twitter.com/naval/status/955998687670411264?lang=en>
 1. <https://www.cnbc.com/2018/05/05/warren-buffett-says-bitcoin-is-probably-rat-poison-squared.html>
 1. <https://www.coindesk.com/the-united-nations-just-launched-its-first-large-scale-ethereum-test>
@@ -30,7 +30,6 @@ title: Notes for the 2nd Edition
 1. <https://www.bloomberg.com/news/articles/2017-12-21/crypto-craze-sees-long-island-iced-tea-rename-as-long-blockchain>
 
 ## Chapter 1. Bitcoin & the Blockchain
-
 1. <https://medium.com/s/story/how-does-the-blockchain-work-98c8cd01d2ae>
 1. <https://tim.blog/2018/06/01/the-tim-ferriss-show-transcripts-nick-szabo/>
 1. <https://satoshi.nakamotoinstitute.org/emails/cryptography/1/>
@@ -95,8 +94,7 @@ title: Notes for the 2nd Edition
 1. <https://www.techopedia.com/definition/1770/cryptography>
 1. <https://blockgeeks.com/guides/what-is-cryptocurrency/>
 
-##Chapter 2. Bitcoin Economics
-
+## Chapter 2. Bitcoin Economics
 1. <https://medium.com/sunrise-over-the-merkle-trees/big-picture-crypto-thoughts-e090cb05da8e>
 1. <https://krugman.blogs.nytimes.com/2013/12/28/bitcoin-is-evil/>
 1. <https://coinmarketcap.com/currencies/bitcoin/>
@@ -214,7 +212,6 @@ title: Notes for the 2nd Edition
 1. <https://www.newsbtc.com/2019/02/15/bitcoin-price-watch-btc-buyers-eye-next-crucial-bullish-break/>
 
 ## Chapter 3. Bitcoin’s Blunders
-
 1. <https://www.coindesk.com/bill-gates-gates-foundation-doesnt-use-bitcoin>
 1. <http://sampatt.com/blog/2019/06/06/breakdown-of-all-satoshi-writings-proves-bitcoin-not-built-primarily-as-store-of-value>
 1. <https://satoshi.nakamotoinstitute.org/emails/cryptography/1/#selection-33.0-32.4>
@@ -426,7 +423,6 @@ title: Notes for the 2nd Edition
 1. <https://www.ccn.com/china-may-limit-bitcoin-mining-reducing-the-industrys-geographic-centralization>
 
 ## Chapter 4. Altcoins
-
 1. <https://qz.com/148399/ben-bernanke-bitcoin-may-hold-long-term-promise/>
 1. <https://coinmarketcap.com/all/views/all/>
 1. <https://coinmarketcap.com/charts/>
@@ -595,7 +591,6 @@ title: Notes for the 2nd Edition
 1. <https://krebsonsecurity.com/2018/03/who-and-what-is-coinhive/>
 
 ## Chapter 5. Public Blockchains
-
 1. <https://www.mckinsey.com/industries/high-tech/our-insights/how-blockchains-could-change-the-world>
 1. <https://hackernoon.com/ten-years-in-nobody-has-come-up-with-a-use-case-for-blockchain-ee98c180100>
 1. <https://www.cbsnews.com/news/rigged-presidential-elections-hackers-demonstrate-voting-threat-old-machines/>
@@ -673,8 +668,7 @@ title: Notes for the 2nd Edition
 1. <https://cointelegraph.com/news/why-namecoin-didnt-take-off-a-cautionary-tale>
 1. <https://coinmarketcap.com/currencies/namecoin/>
 
-##Chapter 6. Business on the Blockchain
-
+## Chapter 6. Business on the Blockchain
 1. <https://globalblockchainsummit.com/benefits/>
 1. <http://www.chicagotribune.com/business/ct-biz-walmart-salad-growers-blockchain-20180925-story,amp.html>
 1. <http://www.chicagotribune.com/business/ct-biz-walmart-salad-growers-blockchain-20180925-story,amp.html>
@@ -724,7 +718,6 @@ title: Notes for the 2nd Edition
 1. <https://www.forbes.com/sites/jeffkauflin/2019/01/10/crypto-startups-are-fleeing-the-usthis-bill-is-trying-to-stop-them/>
 
 ## Chapter 7. Cryptocurrency Policy
-
 1. <https://medium.com/@MartinRosulek/14-bitcoin-quotes-by-famous-people-6e7a1a009281>
 1. <https://www.amazon.com/Blockchain-Architecture-Trust-Information-Policy/dp/0262038935>
 1. <https://www.nytimes.com/2016/11/19/business/dealbook/irs-is-seeking-tax-evaders-who-use-bitcoin.html>
@@ -771,6 +764,7 @@ title: Notes for the 2nd Edition
 1. <https://news.bitcoin.com/venezuela-considers-selling-its-oil-backed-cryptocurrency-with-a-60-discount/>
 1. <https://www.reuters.com/article/us-cryptocurrency-venezuela-specialrepor/special-report-in-venezuela-new-cryptocurrency-is-nowhere-to-be-found-idUSKCN1LF15U>
 1. <http://energy-cg.com/OPEC/Venezuela/Venezuela_OilGas_Industry.html>
+1. <https://www.scribblemaps.com/maps/view/Ayacucho/ayacucho>
 1. <https://www.reuters.com/article/us-cryptocurrency-venezuela-specialrepor/special-report-in-venezuela-new-cryptocurrency-is-nowhere-to-be-found-idUSKCN1LF15U>
 1. <https://etherscan.io/token/0xD1aC5e0B722765CbD56285C4965Adb4052bb363f>
 1. <https://arstechnica.com/tech-policy/2018/02/venezuela-says-its-cryptocurrency-raised-735-million-but-its-a-farce/>
@@ -810,12 +804,11 @@ title: Notes for the 2nd Edition
 1. <https://thenextweb.com/hardfork/2018/01/17/bitconnect-bitcoin-scam-cryptocurrency/>
 1. <https://thenextweb.com/hardfork/2017/12/01/bitconnect-ponzi-ethereum-litecoin/>
 1. <https://thenextweb.com/hardfork/2018/01/17/bitconnect-bitcoin-scam-cryptocurrency/>
-1. <https://totalcrypto.io/bitconnect-scam/>
 1. <https://thenextweb.com/hardfork/2018/01/17/bitconnect-bitcoin-scam-cryptocurrency/>
 1. <https://steemit.com/scam/@thegrinder/the-bitconnect-scam-exposed>
 1. <https://calvinayre.com/2018/07/16/bitcoin/broken-tooth-koi-backs-poker-tourney-new-crypto-token/>
 1. <https://www.crowdfundinsider.com/2018/07/136496-former-macau-gangster-broken-tooth-associated-ico-claims-to-sell-out-in-5-minutes-750-million-raised/>
-1. <http://climateerinvest.blogspot.com/2018/04/cambridge-analytica-macau-casinos.html>
+1. <https://www.scmp.com/news/hong-kong/hong-kong-economy/article/2149679/former-macau-triad-boss-broken-tooth-wan-kuok-koi>
 1. <https://www.forbes.com/sites/laurashin/2017/10/02/are-icos-for-utility-tokens-selling-securities-prominent-crypto-players-say-yes/#1fce930e34fa>
 1. <https://www.forbes.com/sites/laurashin/2017/10/02/are-icos-for-utility-tokens-selling-securities-prominent-crypto-players-say-yes/#1fce930e34fa>
 1. <https://www.investopedia.com/terms/h/howey-test.asp>
@@ -846,7 +839,6 @@ title: Notes for the 2nd Edition
 1. <https://cryptoslate.com/the-security-token-offering-sto-its-a-trap/>
 
 ## Chapter 8. What’s Next
-
 1. <https://www.intelligenthq.com/finance/12-bitcoin-and-blockchain-thoughts-and-quotes-you-need-to-read/>
 1. <https://www.forbes.com/sites/bernardmarr/2018/08/15/23-fascinating-bitcoin-and-blockchain-quotes-everyone-should-read/#425cbc317e8a>
 1. <https://www.nytimes.com/2019/06/18/technology/facebook-cryptocurrency-libra.html>
@@ -895,7 +887,7 @@ title: Notes for the 2nd Edition
 1. <https://www.investopedia.com/articles/personal-finance/050214/credit-vs-debit-cards-which-better.asp>
 1. <https://techcrunch.com/2019/04/16/zengo-wants-to-become-the-crypto-wallet-for-the-masses/>
 1. <https://currencies.fandom.com/wiki/United_States_100,000_dollar_banknote>
-1. <https://upload.wikimedia.org/wikipedia/commons/5/53/US100000dollarsbillobverse.jpg>
+1. <https://www.reddit.com/r/papermoney/comments/ddx5p2/i_saw_this_100000_bill_when_i_visited_the_money/>
 1. <https://www.zerohedge.com/news/2017-05-22/why-chinese-yuan-wont-be-worlds-reserve-currency>
 1. <https://www.investopedia.com/terms/r/reservecurrency.asp>
 1. <https://gbtimes.com/imf-adds-chinese-yuan-basket-reserve-currencies>
@@ -928,9 +920,9 @@ title: Notes for the 2nd Edition
 1. <https://blog.plan99.net/the-resolution-of-the-bitcoin-experiment-dabb30201f7>
 1. <https://www.coindesk.com/information/will-ethereum-scale>
 1. <https://bitinfocharts.com/comparison/bitcoin-transactionfees.html>
-  Technically known as a directed acyclic graph, or DAG.
+Technically known as a directed acyclic graph, or DAG.
 1. <https://blog.iota.org/a-primer-on-iota-with-presentation-e0a6eb2cc621>
-1. <https://forum.iota.org/t/iota-consensus-masterclass/1193>
+1. <https://commons.wikimedia.org/wiki/File:Iota-tangle-1.png>
 1. <https://blog.iota.org/a-primer-on-iota-with-presentation-e0a6eb2cc621>
 1. <https://uk.farnell.com/does-the-iot-really-need-the-internet>
 1. <https://securityledger.com/2016/03/blockchain-or-tangle-securing-transactions-on-the-iot-bitcoinist-net/>
@@ -951,7 +943,7 @@ title: Notes for the 2nd Edition
 1. <https://www0.gsb.columbia.edu/faculty/fmishkin/PDFpapers/IF98.pdf>
 1. <https://research.stlouisfed.org/publications/review/2018/02/13/is-bitcoin-a-waste-of-resources/>
 1. <https://www.thebalance.com/open-market-operations-3306121>
-1. <https://www.fool.com/investing/general/2015/12/06/fiat-currency-what-it-is-and-why-its-better-than-a.aspx>
+1. <https://www.in2013dollars.com/us/inflation/1900?amount=1>
 1. <https://www.cbsnews.com/news/is-there-gold-in-fort-knox/>
 1. <https://www.fool.com/investing/general/2015/12/06/fiat-currency-what-it-is-and-why-its-better-than-a.aspx>
 1. <https://bitcoinist.com/50-bitcoin-transactions-fees-long-gone-bitcoins-eventual-fate/>
@@ -995,7 +987,6 @@ title: Notes for the 2nd Edition
 1. <https://www.tradingview.com/symbols/BTCUSD/>
 
 ## Appendix A. Number Systems
-
 1. <https://www.howtogeek.com/367621/what-is-binary-and-why-do-computers-use-it/>
 1. <https://blog.udemy.com/blue-screen-error-codes/>
 1. <http://www.angelfire.com/nj2/zcentral/tutorial.html>
@@ -1009,7 +1000,6 @@ title: Notes for the 2nd Edition
 1. <https://generatepaperwallet.com/bitcoin/index.html>
 
 ## Appendix B. Macroeconomics
-
 1. <https://www.thoughtco.com/nominal-versus-real-quantities-1146244>
 1. <https://www.investopedia.com/ask/answers/032515/what-difference-between-real-and-nominal-interest-rates.asp>
 1. <https://www.investopedia.com/terms/n/nominal-rate-of-return.asp>
@@ -1043,7 +1033,6 @@ title: Notes for the 2nd Edition
 1. <https://faculty.washington.edu/ezivot/econ301/money_demand.htm>
 
 ## Appendix C. Who is Satoshi?
-
 1. <https://www.investopedia.com/terms/s/satoshi-nakamoto.asp>
 1. <https://www.coindesk.com/information/who-is-satoshi-nakamoto/>
 1. <https://satoshi.nakamotoinstitute.org/posts/>
@@ -1111,7 +1100,6 @@ title: Notes for the 2nd Edition
 1. <http://content.time.com/time/magazine/article/0,9171,973481,00.html>
 
 ## Glossary
-
 1. <https://www.investopedia.com/terms/1/51-attack.asp>
 1. <https://www.investopedia.com/terms/a/aml.asp>
 1. <https://medium.com/coinmonks/how-a-pruned-ethereum-node-can-fully-verify-the-blockchain-bbe9f29663ed>
