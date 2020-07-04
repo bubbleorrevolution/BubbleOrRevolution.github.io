@@ -453,6 +453,41 @@ input {
         background-color: white;
         padding: 0;
     } */
+    #toc img {
+        /* background-image: url('../../img/landing/book-content-bg1.svg');
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position-x: right;
+        background-position-y: top; */
+        position: absolute;
+        right: 0;
+        top: 0;
+        z-index: 0;
+        /* width: 100%; */
+    }
+    #toc #toc-content-container {
+        position: relative;
+        left: 0;
+        top: 70px;
+        background-color: white;
+        z-index: 20;
+        width: 95%;
+        padding: 50px;
+        box-shadow: 10px 10px 0px #EBEBEB;
+        font-family: serif;
+    }
+
+    #toc #toc-content-container h3 {
+        font-family: serif;
+        font-size: 2.5rem;
+        text-align: center;
+        margin-bottom: 2rem;
+    }
+    #toc #toc-content-container ul li {
+        font-weight: 300;
+        font-size: 1.5rem;
+        margin-top: 4px;
+    }
 /*===========================
     SECTION 2: TEAM 
 ===========================*/
