@@ -279,11 +279,11 @@ input::-webkit-input-placeholder {
   color: white;
   font-weight: 900;
   padding: 17px 0;
-  -webkit-transition: all 0.3s ease-out 0s;
-  -moz-transition: all 0.3s ease-out 0s;
-  -ms-transition: all 0.3s ease-out 0s;
-  -o-transition: all 0.3s ease-out 0s;
-  transition: all 0.3s ease-out 0s;
+  -webkit-transition: all 0.1s ease-out 0s;
+  -moz-transition: all 0.1s ease-out 0s;
+  -ms-transition: all 0.1s ease-out 0s;
+  -o-transition: all 0.1s ease-out 0s;
+  transition: all 0.1s ease-out 0s;
   cursor: pointer;
 }
 .navigation .navbar-nav .nav-item a:hover {
@@ -521,9 +521,9 @@ input::-webkit-input-placeholder {
 }
 .team .author-content {
   width: 100%;
-  height: 489px;
+  /* height: 489px; */
   background-color: #e0c1e4;
-  padding: 67px 56px 127px 36px;
+  padding: 67px 56px 77px 36px;
 }
 .team .author-content h5 {
   font-size: 2.5rem;
@@ -533,24 +533,27 @@ input::-webkit-input-placeholder {
 }
 .team .author-content h5 a {
   color: #4c2be5;
+  border-bottom: 3px solid #4c2be5;
+  transition: border-bottom-width 0.1s linear;
 }
-.team .author-content h5 a:after {
-  /* border-bottom: #4C2BE5 3px solid; */
-  content: ""; /* This is necessary for the pseudo element to work. */
-  display: block; /* This will put the pseudo element on its own line. */
-  width: 100%; /* Change this to whatever width you want to have before hover. */
-  padding-top: 5px; /* This creates some space between the element and the border. */
-  border-bottom: 3px solid #4c2be5; /* This creates the border. Replace black with whatever color you want. */
-  transition: 0.5s;
+.team .author-content h5 a:hover {
+  border-bottom-width: 5px;
 }
 .team .author-content h5 a:hover:after {
-  /* border-bottom: #4C2BE5 3px solid; */
-  /* color: #4C2BE5; */
   width: 10%;
 }
 .team .author-content img {
   width: 50%;
   margin-bottom: 7px;
+}
+.team .author-content #past-works img {
+  width: 100%;
+}
+.team .author-content #past-works a {
+  text-align: center;
+  color: #212529;
+  font-family: 'Gotham', sans-serif;
+  display: block;
 }
 .team .author-content #author-content-subtitle {
   font-weight: normal;
@@ -832,9 +835,6 @@ input::-webkit-input-placeholder {
     width: 90%;
     height: 54px;
     line-height: 40px;
-  }
-  h2 {
-    /* font-size: 2rem; */
   }
   .four-reasons .reason-card .card-img {
     width: 70% !important;
