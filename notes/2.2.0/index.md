@@ -3,6 +3,8 @@ layout: notes
 title: Notes for the 2nd Edition, 2nd Revision
 ---
 
+> Notes for the 2nd Edition, 2nd Revision
+
 ## Introduction
 
 1. <https://twitter.com/naval/status/955998687670411264?lang=en>
