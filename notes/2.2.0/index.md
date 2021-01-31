@@ -1,12 +1,10 @@
 ---
 layout: notes
-title: Notes for the 2nd Edition, 1st Revision
+title: Notes for the 2nd Edition, 2nd Revision
 ---
 
-> *Notes for the 2nd Edition, 1st Revision*
-
-
 ## Introduction
+
 1. <https://twitter.com/naval/status/955998687670411264?lang=en>
 1. <https://www.cnbc.com/2018/05/05/warren-buffett-says-bitcoin-is-probably-rat-poison-squared.html>
 1. <https://www.coindesk.com/the-united-nations-just-launched-its-first-large-scale-ethereum-test>
@@ -841,6 +839,7 @@ title: Notes for the 2nd Edition, 1st Revision
 ## Chapter 8. What’s Next
 1. <https://www.intelligenthq.com/finance/12-bitcoin-and-blockchain-thoughts-and-quotes-you-need-to-read/>
 1. <https://www.forbes.com/sites/bernardmarr/2018/08/15/23-fascinating-bitcoin-and-blockchain-quotes-everyone-should-read/#425cbc317e8a>
+1. <https://www.forbes.com/sites/jasonbrett/2020/12/02/facebooks-libra-renamed-to-diem-prior-to-stablecoin-launch/?sh=3368baaf26e7>
 1. <https://www.nytimes.com/2019/06/18/technology/facebook-cryptocurrency-libra.html>
 1. <https://www.bloomberg.com/news/articles/2018-12-21/facebook-is-said-to-develop-stablecoin-for-whatsapp-transfers>
 1. <https://www.cnbc.com/2019/06/05/facebook-cryptocurrency-coming-in-june-report.html?utm_source=share&utm_medium=ios_app&utm_name=ios_share_flow_optimization&utm_term=control_2>
@@ -959,6 +958,9 @@ Technically known as a directed acyclic graph, or DAG.
 1. <https://cryptoheroes.ch/five-cryptocurrencies-to-watch-in-2019/>
 1. <https://thenextweb.com/hardfork/2018/11/01/eos-blockchain-benchmark/>
 1. <https://www.marketwatch.com/story/bitcoins-are-the-best-investment-in-my-retirement-account-2016-06-17>
+1. <https://newsroom.paypal-corp.com/2020-10-21-PayPal-Launches-New-Service-Enabling-Users-to-Buy-Hold-and-Sell-Cryptocurrency>
+1. <https://robinhood.com/us/en/support/articles/cryptocurrency-investing/>
+1. <https://cash.app/help/us/en-us/3101-buying-bitcoin>
 1. <https://www.investopedia.com/investing/understanding-cryptocurrency-etfs/>
 1. <https://www.nytimes.com/2018/05/02/technology/bitcoin-goldman-sachs.html>
 1. <https://www.cnbc.com/2017/11/21/jpmorgan-reportedly-getting-into-bitcoin-futures-trading.html>
@@ -968,6 +970,22 @@ Technically known as a directed acyclic graph, or DAG.
 1. <https://www.cnbc.com/2018/04/25/nasdaq-is-open-to-becoming-cryptocurrency-exchange-ceo-says.html>
 1. <https://www.investopedia.com/terms/i/institutionalinvestor.asp>
 1. <https://www.coindesk.com/follow-leader-analyzing-bitcoin-cryptocurrency-price-correlations>
+1. <https://squareup.com/us/en/press/2020-bitcoin-investment>
+1. <https://decrypt.co/47061/8-public-companies-biggest-bitcoin-portfolios>
+1. <https://www.bloomberg.com/news/articles/2021-01-07/grayscale-holds-over-3-of-bitcoin-sees-pension-fund-interest>
+1. <https://decrypt.co/47061/8-public-companies-biggest-bitcoin-portfolios>
+1. <https://news.bitcoin.com/bitcoin-to-be-digital-gold-in-2020-says-bloomberg-report/>
+1. <https://finance.yahoo.com/news/why-gold-us-dollar-inverse-170016117.html>
+1. <https://www.google.com/finance/quote/UUP:NYSEARCA?sfr=fpt>
+1. <https://www.google.com/finance/quote/GLD:NYSEARCA?sfr=fpt>
+1. <https://www.investopedia.com/financial-edge/0311/what-drives-the-price-of-gold.aspx>
+1. <https://www.reuters.com/article/uk-crypto-currencies-graphic/inflation-hedge-risk-on-bet-whats-behind-bitcoins-2020-rally-idUSKBN27Z2IG>
+1. <https://www.theguardian.com/technology/2021/jan/07/bitcoin-tops-40000-dollars-investors-seek-hedge-against-inflation>
+1. <https://www.bbc.com/news/magazine-21969100>
+1. <https://www.reuters.com/article/us-china-gold-kingold-jewelry/chinas-kingold-jewelry-delisting-from-nasdaq-shares-plunge-idUSKCN2581ZO>
+1. <https://en.wikipedia.org/wiki/Bre-X#Fraud_exposed>
+1. <https://www.fool.com/investing/2020/12/20/why-i-wont-buy-bitcoin-and-you-shouldnt-either/>
+1. <https://www.fool.com/investing/2019/06/25/3-reasons-bitcoin-is-fundamentally-flawed-as-an-in.aspx>
 1. <https://www.wsj.com/articles/the-crypto-crime-wave-is-here-1524753366>
 1. <https://azure.microsoft.com/en-us/solutions/blockchain/>
 1. <https://aws.amazon.com/blockchain/>
